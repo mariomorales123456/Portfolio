@@ -1,0 +1,48 @@
+body {
+    background: linear-gradient(0deg, #003366, white);
+    padding: 0.5em;
+}
+
+main {
+    background-color: #336699;
+    padding: 0.5em;
+    border-radius: 0.5em;
+}
+
+form {
+    background-color: #FFCC66;
+    border-radius: 0.25em;
+    font-family: 'cabin', serif;
+    padding: 1em 3em;
+    margin: 3em;
+}
+
+fieldset fieldset {
+    width: 50%;
+}
+
+#title {
+    text-align: center;
+    color: black;
+    font-family: 'indie flower', serif;
+    font-size: 3em;
+}
+
+main p {
+    text-align: center;
+    color: white;
+    font-family: 'indie flower', serif;
+    font-size: 1.5em;
+}
+input, textarea, select {
+    border-radius: 0.4em;
+}
+
+@media (max-width: 600px) {
+    form {
+        margin: 0;
+    }
+    label {
+        display: block;
+    }
+}

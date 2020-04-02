@@ -1,0 +1,280 @@
+html {
+    box-sizing: border-box;
+}
+
+* {
+    box-sizing: inherit;
+    
+}
+
+main {
+    margin: 4em 0 0 0;
+}
+
+/*---------------------------------Template CSS-----------------------------------------*/
+
+body {
+    background-color: lightskyblue;
+}
+
+/*----------------------------------Banner---------------------------------------------*/
+
+#banner {
+    background-color: lightsteelblue;
+    padding: 1px;
+    border-style: solid;
+    border-width: 1px;
+    
+}
+#banner h1 {
+    text-align: center;
+    font-size: 250%;
+    margin: 15px;
+}
+
+#banner p {
+    text-align: center;
+    font-size: 120%;
+    margin: 10px;
+}
+
+/*----------------------------------Navigation---------------------------------------------*/
+
+#nav {
+    border-style: solid;
+    border-width: 0 1px 1px 1px;
+}
+
+#projectStickyMenu{
+    margin: 10px 10px 5px 0px;
+    font-size: 0.8em;
+}
+
+#nav ul, #projectStickyMenu ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: azure;
+}
+
+#projectStickyMenu ul{
+    border-style: solid;
+    border-width: 1px;
+}
+
+
+#nav li {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 5px 8px 5px 8px;
+    float: left;   
+}
+
+#projectStickyMenu li{
+    display: block;
+    color: black;
+    text-align: center;
+    float: center;
+}
+
+#nav li a, #projectStickyMenu li a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    padding: 5px;
+}
+
+#nav li:hover, #projectStickyMenu li:hover {
+    background-color: skyblue;
+    
+}
+
+#activeMenu {
+    background-color: skyblue;
+}
+
+
+#projectNavSection {
+    flex: 15%;
+}
+
+#mainContentSection {
+    flex: 85%;
+}
+
+.projectNavTitle {
+    background-color: lightsteelblue
+}
+
+.sticky {
+  position: fixed;
+  top: 0%;
+  width: 14%;
+  list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 0px;
+    height: 98%;
+    overflow-y: auto;
+    direction: rtl;
+}
+
+
+
+/*----------------------------------Sections---------------------------------------------*/
+
+section {
+    background-color: azure;
+    border-width: 1px 1px 1px 1px;
+    margin: 10px 0;
+    border-style: solid;
+    padding: 20px;
+}
+
+
+.sectionTitle {
+    text-align: center;
+    font-size: 140%;
+    font-weight: bold;
+}
+
+.subsectionTitle {
+    font-weight: bold;
+    font-size: 110%;
+    text-align: center;
+
+}
+
+#mainContentSection {
+    background-color: lightcyan;
+    margin: 10px 0px;
+    padding: 10px;
+}
+
+.flexContainer {
+    display: flex;
+}
+
+.flex33 {
+    flex: 33%;
+    padding: 1em;
+}
+
+.flex50 {
+    flex: 50%;
+    padding: 1em;
+}
+
+.flexContainerRow {
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+    height: auto;
+}
+
+#mainContentSection img{
+    width: 100%;
+    height: 80%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.imgCaption {
+    text-align: center;
+    font-style: italic;
+    font-size: 1.1em;
+    margin: 0px 0px 10px 0px;
+    padding: 0;
+}
+
+.captionURL {
+    margin: 10% 10%;
+    text-align: center;
+    font-style: italic;
+}
+
+.projectsTitle {
+    text-align: center;
+    margin: 0;
+    font-size: 180%;
+}
+.instructions {
+    padding: 3em;  
+}
+
+.instructions ul, .instructions h4 {
+    font-style: italic;
+}
+
+.reflection, .thumbnail {
+    flex: 50%;
+}
+
+.reflection {
+    padding: 1em;
+    display: block;
+    text-align: left;
+}
+
+.thumbnail {
+    font-style: italic;
+    padding: 1em;
+    display: block;
+}
+
+.projectHeadings {
+    margin: 0;
+    text-align: center;
+    font-size: 1.3em;
+}
+
+.warning {
+    font-style: italic;
+    text-align: center;
+}
+
+.clicked {
+    background-color: skyblue;
+}
+
+/*-------------------------Specific CSS--------------------------------------*/
+
+/*-------------------------Main Index Programming Classes Section--------------------------------------*/
+
+
+#classes ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: azure;
+}
+
+#classes li{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 5px 8px 5px 8px;
+    float: center;  
+}
+
+#future li {
+background-color: lightcoral;  
+}
+#progress li {
+    background-color: yellow;
+}
+#taken li {
+    background-color: lightgreen;
+}
+
+/*------------------------------Code with me section-----------------------------------*/
+
+#codewithme .flex50 {
+    text-align: center;
+}
