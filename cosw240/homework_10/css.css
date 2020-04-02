@@ -1,0 +1,45 @@
+h1 {
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+    border-width: 5px;
+    border-color: lightgray;
+}
+#form {
+    background-color: white;
+    border-style: solid;
+    border-width: 5px;
+    border-color: lightgray;
+}
+
+body {
+    background-color: black;
+}
+
+
+#form .warnings {
+    color: red;
+    font-size: 85%;
+    display: inline;
+    padding: 0px 0px 0px 10px;
+}
+
+#samePasswordWarning {
+    color: red;
+    font-size: 85%;
+    display: inline;
+}
+
+#charCounter {
+    font-size: 75%;
+    padding: 0 0 0 185px;
+}
+
+#revealPasswordLabel {
+    font-size: 75%;
+    width: 100px;
+    display: block;
+}
+#genderContainer {
+    font-size: 80%;
+}

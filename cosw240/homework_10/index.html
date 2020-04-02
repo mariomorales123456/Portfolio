@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Homework 10</title>
+    <link rel="stylesheet" href="css.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<body>
+    <button type="button"><a href="../index.html" target="_blank">Return to Mario's Javascript projects</a></button>
+    <h1>ComicCon 2019</h1>
+    <div id="form">
+    <fieldset>
+        <legend>Register</legend>
+        <form action="http://lbcc.herokuapp.com/cosw10/forms/practice" target="_blank">
+            
+            
+        <label>Username: <input type="text" name="username" id="username" placeholder="8 characters or more"></label><br>
+        <label>Email: <input type="email" name="email" id="email"></label><br>
+        <label>Password: <input type="password" name="password" id="password"></label><br>
+        <label>Repeat Password: <input type="password" name="repeatpassword" id="repeatpassword"></label><br>
+        <label id="revealPasswordLabel"><input type="checkbox" id="revealPasswordCheckbox">Show Password</label>
+        <label>Birthdate: <input type="date" name="birthdate" id="birthdate"></label><br>
+        <div id="genderContainer"><label><input type="radio" value="male" name="gender">Male</label><label><input type="radio" value="female" name="gender">Female</label><label id="genderMessage"><input type="radio" value="other" name="gender" id="otherButton">Other <input  size="5" type="text" id="otherText"></label></div>
+        <label>Biography:<br> <textarea id="biography" maxlength="300" rows="4" cols="40" placeholder="300 characters or less"></textarea></label><br>
+        <input type="submit" id="submitButton"><input type="reset"><span id="charCounter"></span>
+            
+        </form>
+    </fieldset>
+        </div>
+<!--<script src="jquery-1.11.0.min.js"></script>-->
+<script src="js.js"></script>
+</body>
+</html>
