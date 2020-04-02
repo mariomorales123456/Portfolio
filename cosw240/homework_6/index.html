@@ -1,0 +1,56 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Homework 6</title>
+    <link rel="stylesheet" href="css.css" />
+  </head>
+  <body>
+   <nav>
+      <button type="button"><a href="../index.html" target="_blank">Return to Mario's Javascript projects</a></button>
+        
+    </nav>
+    <div id="page">
+      <br>
+      <h2>New Account</h2>
+      <form method="post" action="">
+        <!------------------------------------->
+        <label>Create a username: </label>
+        <input type="text" id="username">
+        <div><label id="usernameReminder"></label></div>
+         <!------------------------------------->
+        
+        <label>Create a password: </label>
+        <input type="password" id="password">
+        <div><label id="passwordReminder"></label></div>
+        
+         <!------------------------------------->
+        
+        <label>Confirm password: </label>
+        <input type="password" id="cpassword" />
+          <div><label id="cpasswordReminder"></label></div>
+        
+        <!-------------------------------------->
+            
+        <br>
+        <h2>Packages</h2>
+
+        <label for="package" class="selectbox"> Select a package: </label>
+        <select id="package">
+          <option value="L2018">2018 Laptop $129</option>
+          <option value="L2017">2017 Laptop $99</option>
+          
+        </select>
+        <div id="packageHint" class="tip"></div>
+
+        <input type="checkbox" id="terms" />
+        <label for="terms" class="checkbox"> Check to agree to terms &amp; conditions</label>
+        <div id="termsHint" class="warning"></div>
+
+        <input type="submit" value="next" id="nextButton">
+
+      </form>
+    </div>
+    <script src="js.js"></script>
+  </body>
+</html>
