@@ -1,0 +1,139 @@
+/*-----------------Main Containers-----------------------*/
+
+body {
+    background-color: #313C53;
+}
+
+#body-header, main {
+    background-color: #B6C0D2;
+    padding: 0.5em;
+    margin: 0.5em 0;
+    border-radius: 0.2em;
+}
+
+h1, h2, h3, figcaption {
+    color: #FFFFFF;
+    text-align: center;
+}
+p, li {
+    color: #FFFFFF;
+}
+
+figure img {
+    width: 100%;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: #9CFF00;
+}
+
+.required {
+    display: none;
+}
+
+main {
+    margin: 0 0 0 33%;
+}
+
+/*-----------------Header------------------*/
+
+#body-header {
+    position: fixed;
+    height: 94%;
+    width: 30%;
+    overflow: auto;
+    margin: 0;
+    direction: rtl;
+}
+
+#navbar header /*title*/ {
+    background-color:  #455268;
+    border-radius: 0.4em;
+    margin: 0.3em;
+    padding: 0.5em;
+}
+
+#navbar div a /*nav links*/ {
+    color: #9CFF00;
+    text-decoration: none;
+    background-color: #455268;
+    display: flex;
+    padding: 0.3em;
+    margin: 0.2em;
+    border-radius: 0.4em;
+    font-weight: bold;
+    font-size: 1.1em;
+    height: 13%;
+    justify-content: center;
+    align-items: center;  
+}
+
+/*----------------Main----------------------*/
+
+main section, footer {
+    background-color: #455268;
+    padding: 0.5em;
+    margin: 0.5em 0;
+    border-radius: 0.2em;
+}
+
+/*----------------@media----------------------*/
+
+@media (max-width: 480px) {
+    /*body {
+        background-color: white;
+    }*/ /*test*/
+    
+#body-header {
+    position: inherit;
+    height: auto;
+    width: auto;
+}    
+
+#navbar header /*title*/ {
+    
+}
+
+#navbar div /*nav container*/ {
+    text-align: center;
+}
+
+#navbar div a /*nav links*/ {
+    color: #9CFF00;
+    text-decoration: none;
+    background-color: #455268;
+    display: block;
+    padding: 0.4em;
+    margin: 0.2em;
+    border-radius: 0.4em;
+    font-weight: bold;
+    font-size: 1.1em;
+    height: auto;
+}
+    
+main {
+    margin: 0;
+}
+  
+}
+
+
+
+@media (min-width: 481px) and (max-width: 992px) {
+  
+
+main {
+    margin: 0 0 0 35%;
+}
+
+
+  
+}
+
+
+
+
+
+
+

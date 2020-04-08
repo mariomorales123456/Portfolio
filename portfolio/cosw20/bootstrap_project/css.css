@@ -1,0 +1,12 @@
+body {
+    background-color: bisque;
+}
+
+.jumbotron {
+    background-color: antiquewhite;
+}
+
+blockquote {
+    margin: 1em 0;
+    background-color: whitesmoke
+}

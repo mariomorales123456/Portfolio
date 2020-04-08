@@ -1,0 +1,282 @@
+#banner {
+    background-image: url(images/tax_help_banner.jpg);
+    background-color: darkgray;
+    background-position: center;
+    background-size: cover;
+    padding: 12px;
+    border-style: solid;
+    border-color: darkgray;
+    border-width: 0.1em;
+}
+#banner h1 {
+    text-align: center;
+    font-size: 3.2em;
+    color: black;
+    width: 15em;
+    margin: 0 auto;
+    font-family: cursive;
+    
+}
+
+#banner p {
+    text-align: center;
+    font-size: 50%;
+    
+}
+
+body {
+   background-image: url(images/body_background_image3.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center middle;
+    background-size: cover;
+    background-color: lightgray;
+}
+
+#nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: ghostwhite;
+    border-style: solid;
+    border-width: 0 0.1em 0.1em 0.1em;
+    border-color: darkgray;
+}
+
+
+#nav ul .menu {
+    float: left;
+}
+.menu a {
+    color: black;
+}
+
+#marioHome {
+    float: right;
+    background-color: black;
+}
+
+#marioHome a{
+    color: white;
+}
+
+#nav li a {
+    display: block;
+    text-align: center;
+    padding: 5px 8px 5px 8px;
+    text-decoration: none;
+}
+
+#nav li a:hover {
+    background-color: burlywood;
+}
+
+.active {
+    background-color: burlywood;
+}
+
+footer {
+    background-color: darkgray;
+}
+
+footer p {
+    text-align: center;
+}
+
+.page {
+    margin: 1em 0;
+    background-color: whitesmoke;
+}
+
+.flexContainerCol {
+    display: flex;
+    flex-direction: row;
+}
+
+.flexContainerRow {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex50 {
+    flex: 50%;
+}
+
+.flex33 {
+    flex: 33%;
+}
+
+.flex66 {
+    flex: 66%;
+}
+
+.flex25 {
+    flex: 25%;
+}
+
+.flex100 {
+    flex: 100%;
+}
+
+
+/*#######################################Page Specific##############################################*/
+/*----------Home & About Page-------------*/
+#home, #about{
+    padding: 1em;
+}
+
+#home img, #about img{
+    width: 70%;
+    height: auto;
+    margin: auto;
+}
+
+#whoweare {
+    padding: 2em;
+}
+
+#home .flexContainerCol, #about .flexContainerCol {
+    justify-content: center;
+    vertical-align: center;
+    border-style: solid;
+}
+
+#home .flexContainerRow {
+    justify-content: center;
+    vertical-align: center;
+    border-style: solid;
+    margin: 1em;
+}
+
+#home .flexContainerCol, #about .flexContainerCol {
+    margin: 0.5em 0;
+}
+
+#home .flex50, #about .flex50{
+    margin: auto;
+    text-align: center;
+}
+
+#homeWrapper, #aboutWrapper {
+    padding: 2em;
+    background-color: lightcyan;
+}
+
+#about ul {
+    list-style-type: none;
+}
+
+#about h3 {
+    padding: 0 0 0 2em;
+}
+
+/*----------What to bring Page-------------*/
+#required {
+    padding: 1em;
+}
+
+#required table, #required th, #required td {
+    border-width: 0.1em;
+    border-color: black;
+    border-style: solid;
+    border-collapse: collapse;
+    padding: 0.5em;
+}
+
+#required table {
+    text-align: center;
+    margin: 1em auto;
+}
+
+#required caption {
+    padding: 1em;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+#tableWrapper {
+    padding: 1em;
+    text-align: center;
+    background-color: lightcyan;
+}
+/*----------cost page-------------*/
+#cost {
+    padding: 1em;
+}
+
+#cost h3, #cost h2, #cost h3 {
+    text-align: center;
+}
+
+#cost .flexContainerCol h2 {
+    font-size: 1.2em;
+    font-style: italic;
+}
+
+#cost .flexContainerCol .flex33 {
+    background-color: lightcyan;
+    margin: 0 0.5em;
+    padding: 0.5em;
+}
+
+#cost ul {
+    list-style-type: none;
+}
+
+#cost ul li {
+    padding: 0.3em;
+}
+
+/*----------Appointment page-------------*/
+
+#appointments .flexContainerCol span {
+    padding: 0 0 0 1em;
+}
+
+#appointments .flexContainerCol .flex33 {
+    padding: 1em;
+}
+
+#appointments legend {
+    text-align: center;
+}
+
+#appointments .flexContainerCol ul {
+    padding: 2em;
+    list-style-type: none;
+}
+
+#appointments .flexContainerCol ul li{
+    padding: 0.5em 0;
+    font-size: 1.2em;
+    font-style: italic;
+}
+
+#listHeader {
+    text-align: center;
+    font-weight: bold;
+}
+
+#appointmentsNote {
+    background-color: lightcyan;
+}
+
+
+/*----------Fair Use Page-------------*/
+#fair_use_note {
+    text-align: left;
+    background-color: white;
+    width: 50%;
+    padding: 50px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: lightgray;
+    margin: 20px auto 20px auto;
+    
+}
+
+#fair_use_body {
+    background-image: none;
+    background-color: black;
+}

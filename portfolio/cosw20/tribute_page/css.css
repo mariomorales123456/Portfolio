@@ -1,0 +1,35 @@
+#title {
+    font-family: 'PT sans', sans-serif;
+}
+
+
+body {
+    background-color: antiquewhite;
+    padding: 1em;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#main {
+    background-color: azure;
+    padding: 2em 1em;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+#main img {
+    max-width: 20%;
+    margin: 1em 0 0 0;
+}
+
+
+#img-div img {
+    max-width: 20%;
+    border-style: solid;
+    border-width: 0.5em;
+    display: block;
+    margin: auto;
+    
+}

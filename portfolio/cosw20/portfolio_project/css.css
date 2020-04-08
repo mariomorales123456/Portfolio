@@ -1,0 +1,10 @@
+@media {
+    /*this does stuff*/
+}
+
+#welcome-section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
