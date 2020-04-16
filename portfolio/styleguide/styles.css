@@ -506,20 +506,20 @@ shopping-bag.scss
   overflow: hidden;
   background-color: azure;
 }
-.courses li {
+.courses .list {
   display: block;
   color: black;
   text-align: center;
   padding: 5px 8px 5px 8px;
   float: center;
 }
-.courses li .li--red {
+.courses .list--red {
   background-color: lightcoral;
 }
-.courses li .li--yellow {
+.courses .list--yellow {
   background-color: yellow;
 }
-.courses li .li--green {
+.courses .list--green {
   background-color: lightgreen;
 }
 
