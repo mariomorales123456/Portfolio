@@ -460,7 +460,30 @@ examples from school project:
 _grid.scss
 
 */
-/*@import '';*/
+h1 {
+  font-family: "bubblegum sans", serif;
+  color: darkblue;
+}
+
+h2, h3, em {
+  font-family: "itim", serif;
+  padding: 0.5em 0;
+}
+
+main {
+  background-color: darkcyan;
+}
+
+section {
+  background-color: whitesmoke;
+  border-radius: 1em;
+  margin: 1em 0 0 0;
+}
+
+footer {
+  background-color: darkcyan;
+}
+
 /*
 
 examples from school project:
@@ -476,7 +499,60 @@ modules.scss
 shopping-bag.scss
 
 */
-/*@import '';*/
+.courses ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: azure;
+}
+.courses li {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 5px 8px 5px 8px;
+  float: center;
+}
+.courses li .li--red {
+  background-color: lightcoral;
+}
+.courses li .li--yellow {
+  background-color: yellow;
+}
+.courses li .li--green {
+  background-color: lightgreen;
+}
+
+.homepage section {
+  padding: 1em;
+}
+
+.gradient_title {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(lightcyan, darkcyan);
+  border-style: solid;
+  border-color: black;
+  border-width: 0 0 3px 0;
+  flex-direction: column;
+}
+
+.preview, .reflection, .requirements {
+  background-color: lightgray;
+  padding: 0.5em;
+  border-radius: 1em;
+}
+
+.preview, .reflection {
+  margin: 0 0 1em 0.1em;
+}
+
+.requirements {
+  margin: 0 0 1em 0;
+}
+
 /*
 
 examples from school project:

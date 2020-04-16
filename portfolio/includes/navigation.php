@@ -1,0 +1,46 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top" id="navbar">
+    <a class="navbar-brand" href="index.html">Home</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="cosw10/index.html">{HTML/CSS}-I</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="cosw20/index.html">{HTML/CSS}-II</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="cosw240/index.html">{jQuery/JavaScript}</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true" target="_blank">{SQL}</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true" target="_blank">{Java-I}</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true" target="_blank">{Java-II}</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true" target="_blank">{WordPress}</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true" target="_blank">{Linux/Unix}</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true" target="_blank">{C++}</a>
+            </li>
+            <li>
+                <a id="profile-link" class="nav-link" href="https://www.freecodecamp.org/mario_morales" target="_blank">{FCC Profile}</a>
+            </li>
+        </ul>
+        /*
+        <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+         */
+    </div>
+</nav>

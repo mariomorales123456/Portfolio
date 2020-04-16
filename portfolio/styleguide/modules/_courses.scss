@@ -1,0 +1,26 @@
+.courses {
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: azure;
+    }
+
+    li{
+        display: block;
+        color: black;
+        text-align: center;
+        padding: 5px 8px 5px 8px;
+        float: center;  
+        .li--red {
+            background-color: lightcoral;
+        }
+        .li--yellow {
+            background-color: yellow;
+        }
+        .li--green {
+            background-color: lightgreen;
+        }
+    }
+}

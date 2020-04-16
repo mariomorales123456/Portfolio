@@ -1,0 +1,11 @@
+.gradient_title {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(lightcyan, darkcyan);
+    border-style: solid;
+    border-color: black;
+    border-width: 0 0 3px 0;
+    flex-direction: column;
+}
