@@ -65,7 +65,7 @@
     <h2 class="text-center">Programming Classes</h2>
 <div class="container courses">
 <div class="row">
-<div class="col list-green">
+<div class="col list--green">
     <h3 class="text-center">Taken</h3>
     <ul>
         <li>Beginning Web Development</li>
