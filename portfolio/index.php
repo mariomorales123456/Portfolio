@@ -2,14 +2,14 @@
 
 <main class="homepage">
 
- /* Gradient Titled Section */ 
+<!-- /* Gradient Titled Section */ -->
 <div class="gradient_title">
     <h1 style="font-size: 4em;">Mario Morales</h1>
     <h2>Portfolio</h2>
     <h2>Web &amp; Back End Development</h2>
 </div>
 
- /* Section for small intro about myself */ 
+ <!-- /* Section for small intro about myself */  -->
 <section class="container">
     <h2 class="text-center">About me</h2>
     <p>
@@ -21,7 +21,7 @@
     </p>   
 </section>     
 
- /* Section for listing certificates and degrees in web development */ 
+ <!-- /* Section for listing certificates and degrees in web development */ --> 
 <section class="container">
     <h2 class="text-center">Degrees &amp; Certificates</h2>
 <div class="container courses">
@@ -36,7 +36,7 @@
     Plan: Associate in Science-Web Development<br>
     </p>
 </div>
-</div>  /* End Row */ 
+</div>  <!-- /* End Row */ --> 
 <div class="row">
 <div class="col">
     <p class="text-center">Certificate:</p>
@@ -46,7 +46,7 @@
     Date: 12/2019<br>
     </p>
 </div>
-</div>   /* Row End */ 
+</div>   <!-- /* Row End */ --> 
 <div class="row">
 <div class="col">
     <p class="text-center">Certificate:</p>
@@ -56,11 +56,11 @@
     Date: 12/2019<br>
     </p>
 </div>
-</div>   /* Row End */ 
-</div>   /* Container End */ 
+</div>   <!-- /* Row End */ --> 
+</div>   <!-- /* Container End */ --> 
 </section>      
 
- /* Section for listing programming courses I have taken */ 
+ <!-- /* Section for listing programming courses I have taken */ --> 
 <section class="container">
     <h2 class="text-center">Programming Classes</h2>
 <div class="container courses">
@@ -85,10 +85,10 @@
         <li>Mobile App Development using MIT App Inventor</li>
         <li>Android App Development Java using Android Studio</li>
     </ul>
-</div>  /* Column End */ 
+</div>  <!-- /* Column End */ --> 
     
-       /*Legacy code from when I had a in-progress/future classes*/
-        /*<div class="col li--yellow">
+       <!-- /*Legacy code from when I had a in-progress/future classes*/ -->
+        <!-- /*<div class="col li--yellow">
             <h3 class="text-center">In-progress</h3>
             <ul>
                 <li></li>
@@ -99,10 +99,10 @@
                 <ul>  
                     <li></li>
                 </ul>
-        </div>*/
+        </div>*/ -->
     
-</div>  /* Row End */ 
-</div>  /* Container End */ 
+</div>  <!-- /* Row End */ --> 
+</div>  <!-- /* Container End */ --> 
 </section>
 
 </main>

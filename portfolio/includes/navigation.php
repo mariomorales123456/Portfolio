@@ -1,18 +1,18 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top" id="navbar">
-    <a class="navbar-brand" href="index.html">Home</a>
+    <a class="navbar-brand" href="portfolio/index.php">Home</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item">
-                <a class="nav-link" href="cosw10/index.html">{HTML/CSS}-I</a>
+                <a class="nav-link" href="portfolio/cosw10/index.html">{HTML/CSS}-I</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="cosw20/index.html">{HTML/CSS}-II</a>
+                <a class="nav-link" href="portfolio/cosw20/index.html">{HTML/CSS}-II</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="cosw240/index.html">{jQuery/JavaScript}</a>
+                <a class="nav-link" href="portfolio/cosw240/index.html">{jQuery/JavaScript}</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true" target="_blank">{SQL}</a>
