@@ -65,9 +65,9 @@
     <h2 class="text-center">Programming Classes</h2>
 <div class="container courses">
 <div class="row">
-<div class="col bg--green">
+<div class="col">
     <h3 class="text-center">Taken</h3>
-    <ul>
+    <ul class="bg--green">
         <li>Beginning Web Development</li>
         <li>Front End Web Development</li>
         <li>Intro to JavaScript and jQuery</li>
@@ -88,15 +88,15 @@
 </div>  <!-- /* Column End */ --> 
     
        <!-- /*Legacy code from when I had a in-progress/future classes*/ -->
-        <!-- /*<div class="col bg--yellow">
+        <!-- /*<div class="col">
             <h3 class="text-center">In-progress</h3>
-            <ul>
+            <ul class="bg--yellow">
                 <li></li>
             </ul>
         </div>
-        <div class="col bg--red">
+        <div class="col">
             <h3 class="text-center">Fall 2019</h3>
-                <ul>  
+                <ul class="bg--red">  
                     <li></li>
                 </ul>
         </div>*/ -->
