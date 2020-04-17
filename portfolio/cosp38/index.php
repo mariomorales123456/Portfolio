@@ -1,6 +1,10 @@
 <?php include('../includes/header.php'); ?>
 
 <main>
+
+<div class="gradient_title">
+    <h1 class="text-center">Introduction to SQL</h1>
+</div>
        
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
 <section id="__________INSERT_ID_HERE_________" class="container">

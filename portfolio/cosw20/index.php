@@ -1,7 +1,7 @@
 <?php include('../includes/header.php'); ?>
       
       <main>
-      <div id="welcome-section">
+      <div class="gradient_title">
           <h1 class="text-center">Front End Web Development</h1>
         </div>
           

@@ -2,7 +2,7 @@
     
 <main>
     
-<div id="welcome-section">
+<div class="gradient_title">
        <h1>Javascript &amp; jQuery</h1>
         </div>
     
