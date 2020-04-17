@@ -7,10 +7,10 @@
         <ul class="navbar-nav mr-auto">
 
             <?php 
-                include('/portfolio/includes/nav_sublinks/cosw10.php'); 
-                include('/portfolio/includes/nav_sublinks/cosw20.php'); 
-                include('/portfolio/includes/nav_sublinks/cosw200.php'); 
-                include('/portfolio/includes/nav_sublinks/cosp38.php'); 
+                include('nav_sublinks/cosw10.php'); 
+                include('nav_sublinks/cosw20.php'); 
+                include('nav_sublinks/cosw200.php'); 
+                include('nav_sublinks/cosp38.php'); 
             ?>
 
             <li class="nav-item">

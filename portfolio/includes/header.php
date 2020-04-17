@@ -21,5 +21,5 @@
 </head>
 <body>
 <header>
-    <?php include('/portfolio/includes/navigation.php'); ?> 
+    <?php include('navigation.php'); ?> 
 </header>
