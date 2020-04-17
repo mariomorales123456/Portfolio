@@ -1,91 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <!-- Title -->
-    <title>JavaScript and jQuery</title>
-      
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-    
-      <!-- Custom CSS --> 
-    <link rel="stylesheet" href="../css.css">
-    <link href="https://fonts.googleapis.com/css?family=Bubblegum+Sans|Itim" rel="stylesheet">
-</head>
-<body> 
-<header>
-            
-          <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top" id="navbar">
-  <a class="navbar-brand" href="../index.html">Home</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-
-  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto">
-              <li class="nav-item">
-        <a class="nav-link" href="../cosw10/index.html">{HTML/CSS}-I</a>
-      </li>
-        <li class="nav-item">
-        <a class="nav-link" href="../cosw20/index.html">{HTML/CSS}-II</a>
-      </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle active" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          {jQuery/JavaScript}
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#homework10">Form Validation</a>
-          <!--<div class="dropdown-divider"></div>-->
-          <a class="dropdown-item" href="#homework9">Filtering, Searching &amp; Sorting</a>
-            <a class="dropdown-item" href="#homework8">Content Panels</a>
-            <a class="dropdown-item" href="#homework7">AJAX &amp; JSON</a>
-            <a class="dropdown-item" href="#homework6">JS Events</a>
-            <a class="dropdown-item" href="#homework5">DOM</a>
-            <a class="dropdown-item" href="#homework4">JS Objects</a>
-            <a class="dropdown-item" href="#homework3">JS Strings &amp; Arrays</a>
-            <a class="dropdown-item" href="#homework2">JS Functions</a>
-            <a class="dropdown-item" href="#homework1">JS Input &amp; Output</a>
-            <a class="dropdown-item" href="#research">Research Project</a>
-            <a class="dropdown-item" href="#codewithme">Activity 1-3</a>
-        </div>
-      </li>
-        
-
-      <li class="nav-item">
-        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true" target="_blank">{SQL}</a>
-      </li>
-        <li class="nav-item">
-        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true" target="_blank">{Java-I}</a>
-      </li>
-        <li class="nav-item">
-        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true" target="_blank">{Java-II}</a>
-      </li>
-        <li class="nav-item">
-        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true" target="_blank">{WordPress}</a>
-      </li>
-                <li class="nav-item">
-        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true" target="_blank">{Linux/Unix}</a>
-      </li>
-        <li class="nav-item">
-        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true" target="_blank">{C++}</a>
-      </li>
-        <li>
-            <a id="profile-link" class="nav-link" href="https://www.freecodecamp.org/mario_morales" target="_blank">{FCC Profile}</a>
-        </li>
-    </ul>
-      <!--
-    <form class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-    </form>
-        -->
-  </div>
-</nav>
-          
-      </header>
+<?php include('includes/header.php'); ?>
     
 <main>
     
@@ -672,10 +585,7 @@
        
 </main>
     
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
-      <!--<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>-->
+<?php include('includes/javascript.php'); ?>
+
 </body>
 </html>

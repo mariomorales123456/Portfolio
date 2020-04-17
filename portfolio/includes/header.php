@@ -12,10 +12,9 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
     
     <!-- /*Custom CSS*/ --> 
-    <!-- /* Legacy CSS */ -->
-    <!-- /*<link rel="stylesheet" href="css.css">
-    <link rel="stylesheet" href="css%20main%20index.css">*/ -->
     <link rel="stylesheet" href="styleguide/styles.css">
+
+    <!-- /* Custom Fonts */ -->
     <link href="https://fonts.googleapis.com/css?family=Bubblegum+Sans|Itim" rel="stylesheet">
     
 

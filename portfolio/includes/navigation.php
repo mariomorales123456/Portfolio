@@ -5,18 +5,14 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
-            <li class="nav-item">
-                <a class="nav-link" href="/portfolio/cosw10/index.html">{HTML/CSS}-I</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/portfolio/cosw20/index.html">{HTML/CSS}-II</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/portfolio/cosw240/index.html">{jQuery/JavaScript}</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true" target="_blank">{SQL}</a>
-            </li>
+
+            <?php 
+                include('nav_sublinks/cosw10.php'); 
+                include('nav_sublinks/cosw20.php'); 
+                include('nav_sublinks/cosw200.php'); 
+                include('nav_sublinks/cosp38.php'); 
+            ?>
+
             <li class="nav-item">
                 <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true" target="_blank">{Java-I}</a>
             </li>
