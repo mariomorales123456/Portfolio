@@ -1,4 +1,4 @@
-<?php include('/portfolio/includes/header.php'); ?>
+<?php include('../includes/header.php'); ?>
 
 <main>
        
@@ -106,7 +106,7 @@
 
 </main>
 
-<?php include('/portfolio/includes/javascript.php'); ?>
+<?php include('../includes/javascript.php'); ?>
 
 </body>
 </html>
