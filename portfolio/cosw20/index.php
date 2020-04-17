@@ -1,4 +1,4 @@
-<?php include('includes/header.php'); ?>
+<?php include('/portfolio/includes/header.php'); ?>
       
       <main>
       <div id="welcome-section">
@@ -378,7 +378,7 @@ also submit your FreeCodeCamp url on your FCC profile so you get credit toward t
         
       </footer>
       
-<?php include('includes/javascript.php'); ?>
+<?php include('/portfolio/includes/javascript.php'); ?>
 
   </body>
 </html>
