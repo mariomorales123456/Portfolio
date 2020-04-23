@@ -7,7 +7,7 @@
 </div>
        
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
-<section id="#link_1" class="container">
+<section id="link_1" class="container">
     <div class="row">                                                     
         <div class="col">
             <h2 class="text-center">Microsoft SQL Install</h2>  <!-- title row -->
@@ -41,7 +41,7 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
-<section id="#link_2" class="container">
+<section id="link_2" class="container">
     <div class="row">                                                     
         <div class="col">
             <h2 class="text-center">mySQL Install</h2>  <!-- /*title row*/ -->
@@ -75,7 +75,7 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
-<section id="#link_3" class="container">
+<section id="link_3" class="container">
     <div class="row">                                                     
         <div class="col">
             <h2 class="text-center">Oracle SQL Install</h2>  <!-- /*title row*/ -->
@@ -109,7 +109,7 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
-<section id="#link_4" class="container">
+<section id="link_4" class="container">
     <div class="row">                                                     
         <div class="col">
             <h2 class="text-center">Microsoft SQL Import</h2>  <!-- /*title row*/ -->
@@ -143,7 +143,7 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
-<section id="#link_5" class="container">
+<section id="link_5" class="container">
     <div class="row">                                                     
         <div class="col">
             <h2 class="text-center">mySQL Import</h2>  <!-- /*title row*/ -->
@@ -177,7 +177,7 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
-<section id="#link_6" class="container">
+<section id="link_6" class="container">
     <div class="row">                                                     
         <div class="col">
             <h2 class="text-center">Oracle SQL Import</h2>  <!-- /*title row*/ -->
@@ -211,7 +211,7 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
-<section id="#link_7" class="container">
+<section id="link_7" class="container">
     <div class="row">                                                     
         <div class="col">
             <h2 class="text-center">Microsoft SQL Queries</h2>  <!-- /*title row*/ -->
@@ -245,7 +245,7 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
-<section id="#link_8" class="container">
+<section id="link_8" class="container">
     <div class="row">                                                     
         <div class="col">
             <h2 class="text-center">mySQL Queries</h2>  <!-- /*title row*/ -->
@@ -279,7 +279,7 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
-<section id="#link_9" class="container">
+<section id="link_9" class="container">
     <div class="row">                                                     
         <div class="col">
             <h2 class="text-center">Oracle SQL Queries</h2>  <!-- /*title row*/ -->
