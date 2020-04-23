@@ -3,10 +3,10 @@
           {jQuery/JavaScript}
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-        <a class="dropdown-item" href="/portfolio/cosw200/index.php">Home</a>
-          <a class="dropdown-item" href="#homework10">Form Validation</a>
-          <!--<div class="dropdown-divider"></div>-->
-          <a class="dropdown-item" href="#homework9">Filtering, Searching &amp; Sorting</a>
+            <a class="dropdown-item" href="/portfolio/cosw200/index.php">Home</a>
+        <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="#homework10">Form Validation</a>
+            <a class="dropdown-item" href="#homework9">Filtering, Searching &amp; Sorting</a>
             <a class="dropdown-item" href="#homework8">Content Panels</a>
             <a class="dropdown-item" href="#homework7">AJAX &amp; JSON</a>
             <a class="dropdown-item" href="#homework6">JS Events</a>

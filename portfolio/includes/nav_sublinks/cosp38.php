@@ -4,18 +4,15 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <a class="dropdown-item" href="/portfolio/cosp38/index.php">Home</a>
-          <!-- /*<a class="dropdown-item" href="#homework10">Form Validation</a>*/ -->
-          <!-- /*<div class="dropdown-divider"></div>*/ -->
-          <!-- /*<a class="dropdown-item" href="#homework9">Filtering, Searching &amp; Sorting</a>
-            <a class="dropdown-item" href="#homework8">Content Panels</a>
-            <a class="dropdown-item" href="#homework7">AJAX &amp; JSON</a>
-            <a class="dropdown-item" href="#homework6">JS Events</a>
-            <a class="dropdown-item" href="#homework5">DOM</a>
-            <a class="dropdown-item" href="#homework4">JS Objects</a>
-            <a class="dropdown-item" href="#homework3">JS Strings &amp; Arrays</a>
-            <a class="dropdown-item" href="#homework2">JS Functions</a>
-            <a class="dropdown-item" href="#homework1">JS Input &amp; Output</a>
-            <a class="dropdown-item" href="#research">Research Project</a>
-            <a class="dropdown-item" href="#codewithme">Activity 1-3</a>*/ -->
+        <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="#link_1">Microsoft SQL Install</a>
+            <a class="dropdown-item" href="#link_2">mySQL Install</a>
+            <a class="dropdown-item" href="#link_3">Oracle SQL Install</a>
+            <a class="dropdown-item" href="#link_4">Microsoft SQL Import</a>
+            <a class="dropdown-item" href="#link_5">mySQL Import</a>
+            <a class="dropdown-item" href="#link_6">Oracle SQL IMport</a>
+            <a class="dropdown-item" href="#link_7">Microsoft SQL Queries</a>
+            <a class="dropdown-item" href="#link_8">mySQL Queries</a>
+            <a class="dropdown-item" href="#link_9">Oracle SQL Queries</a>
         </div>
       </li>
