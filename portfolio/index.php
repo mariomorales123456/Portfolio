@@ -62,7 +62,7 @@
         <p class="text-center">Certificate:</p>
     </div>
     <div class="col">
-        <a href="https://www.youracclaim.com/badges/0ccc4ccf-dad1-47e8-93cd-d9f91d843f7c/public_url">MTA: Introduction to Programming Using JavaScript - Certified 2018</a>
+        <a href="https://www.youracclaim.com/badges/0ccc4ccf-dad1-47e8-93cd-d9f91d843f7c/public_url"  target="_blank">MTA: Introduction to Programming Using JavaScript - Certified 2018</a>
     </div>
 </div>   <!-- /* Row End */ --> 
 <div class="row">
@@ -70,7 +70,7 @@
         <p class="text-center">Certificate:</p>
     </div>
     <div class="col">
-        <a href="https://www.youracclaim.com/badges/e8d19222-3768-4e4c-8940-36bb8005102f/public_url">MTA: Database Fundamentals - Certified 2018</a>
+        <a href="https://www.youracclaim.com/badges/e8d19222-3768-4e4c-8940-36bb8005102f/public_url" target="_blank">MTA: Database Fundamentals - Certified 2018</a>
     </div>
 </div>   <!-- /* Row End */ --> 
 </div>   <!-- /* Container End */ --> 
@@ -80,7 +80,7 @@
 <section class="container">
     <h2 class="text-center">Programming Classes</h2>
     <div class="container courses">
-        <img src="documents/course_history.PNG" alt="screenshot of course history">
+        <img src="documents/course_history.PNG" alt="screenshot of course history" class="center-block">
     </div>  <!-- /* Container End */ --> 
 </section>
 

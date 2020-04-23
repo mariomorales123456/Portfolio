@@ -19,7 +19,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/2.PNG" target="_blank"><img class="img-fluid" src="images/2.PNG" alt="screenshot of week 2 work"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/2.PNG" target="_blank"><img class="img-fluid" src="images/2.PNG" alt="screenshot of week 2 work"></a>
                     </figure>
                 </div>
             </div>
@@ -53,7 +53,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/3.PNG" target="_blank"><img class="img-fluid" src="images/3.PNG" alt="screencap of completed mySQL install"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/3.PNG" target="_blank"><img class="img-fluid" src="images/3.PNG" alt="screencap of completed mySQL install"></a>
                     </figure>
                 </div>
             </div>
@@ -87,7 +87,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/4.PNG" target="_blank"><img class="img-fluid" src="images/4.PNG" alt="screenshot oracle sql install result"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/4.PNG" target="_blank"><img class="img-fluid" src="images/4.PNG" alt="screenshot oracle sql install result"></a>
                     </figure>
                 </div>
             </div>
@@ -121,7 +121,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/5.PNG" target="_blank"><img class="img-fluid" src="images/5.PNG" alt="screenshot of importing databases"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/5.PNG" target="_blank"><img class="img-fluid" src="images/5.PNG" alt="screenshot of importing databases"></a>
                     </figure>
                 </div>
             </div>
@@ -155,7 +155,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/6.PNG" target="_blank"><img class="img-fluid" src="images/6.PNG" alt="screenshot of importing databases"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/6.PNG" target="_blank"><img class="img-fluid" src="images/6.PNG" alt="screenshot of importing databases"></a>
                     </figure>
                 </div>
             </div>
@@ -189,7 +189,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/7.PNG" target="_blank"><img class="img-fluid" src="images/7.PNG" alt="screenshot of importing databases"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/7.PNG" target="_blank"><img class="img-fluid" src="images/7.PNG" alt="screenshot of importing databases"></a>
                     </figure>
                 </div>
             </div>
@@ -223,7 +223,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/8.PNG" target="_blank"><img class="img-fluid" src="images/8.PNG" alt="screenshot of practing queries"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/8.PNG" target="_blank"><img class="img-fluid" src="images/8.PNG" alt="screenshot of practing queries"></a>
                     </figure>
                 </div>
             </div>
@@ -257,7 +257,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/9.PNG" target="_blank"><img class="img-fluid" src="images/9.PNG" alt="screenshot of practing queries"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/9.PNG" target="_blank"><img class="img-fluid" src="images/9.PNG" alt="screenshot of practing queries"></a>
                     </figure>
                 </div>
             </div>
@@ -291,7 +291,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/10.PNG" target="_blank"><img class="img-fluid" src="images/10.PNG" alt="screenshot of practing queries"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/10.PNG" target="_blank"><img class="img-fluid" src="images/10.PNG" alt="screenshot of practing queries">
                     </figure>
                 </div>
             </div>
