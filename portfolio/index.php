@@ -26,36 +26,52 @@
     <h2 class="text-center">Degrees &amp; Certificates</h2>
 <div class="container courses">
 <div class="row">
-<div class="col">
-    <p class="text-center">Degree:</p>
-</div>
-<div class="col">
-    <p>Associate in Science Degree<br>
-    Confer Date: 12/14/2019<br>
-    Degree Honors: Honors<br>
-    Plan: Associate in Science-Web Development<br>
-    </p>
-</div>
+    <div class="col">
+        <p class="text-center">Degree:</p>
+    </div>
+    <div class="col">
+        <p>Associate in Science Degree<br>
+        Confer Date: 12/14/2019<br>
+        Degree Honors: Honors<br>
+        Plan: Associate in Science-Web Development<br>
+        </p>
+    </div>
 </div>  <!-- /* End Row */ --> 
 <div class="row">
-<div class="col">
-    <p class="text-center">Certificate:</p>
-</div>
-<div class="col">
-    <p>Certificate of Accomplishment - PHP Web Programmer<br>
-    Date: 12/2019<br>
-    </p>
-</div>
+    <div class="col">
+        <p class="text-center">Certificate:</p>
+    </div>
+    <div class="col">
+        <p>Certificate of Accomplishment - PHP Web Programmer<br>
+        Date: 12/2019<br>
+        </p>
+    </div>
 </div>   <!-- /* Row End */ --> 
 <div class="row">
-<div class="col">
-    <p class="text-center">Certificate:</p>
-</div>
-<div class="col">
-    <p>Certificate of Accomplishment - Android App Developer<br>
-    Date: 12/2019<br>
-    </p>
-</div>
+    <div class="col">
+        <p class="text-center">Certificate:</p>
+    </div>
+    <div class="col">
+        <p>Certificate of Accomplishment - Android App Developer<br>
+        Date: 12/2019<br>
+        </p>
+    </div>
+</div>   <!-- /* Row End */ --> 
+<div class="row">
+    <div class="col">
+        <p class="text-center">Certificate:</p>
+    </div>
+    <div class="col">
+        <?php include('microsoft_databases.php'); ?>
+    </div>
+</div>   <!-- /* Row End */ --> 
+<div class="row">
+    <div class="col">
+        <p class="text-center">Certificate:</p>
+    </div>
+    <div class="col">
+        <?php include('microsoft_js.php'); ?>
+    </div>
 </div>   <!-- /* Row End */ --> 
 </div>   <!-- /* Container End */ --> 
 </section>      
@@ -63,46 +79,9 @@
  <!-- /* Section for listing programming courses I have taken */ --> 
 <section class="container">
     <h2 class="text-center">Programming Classes</h2>
-<div class="container courses">
-<div class="row">
-<div class="col">
-    <h3 class="text-center">Taken</h3>
-    <ul class="bg--green">
-        <li>Beginning Web Development</li>
-        <li>Front End Web Development</li>
-        <li>Intro to JavaScript and jQuery</li>
-        <li>Database Fundamentals</li>
-        <li>Intro to Content Management-WordPress</li>
-        <li>Web Development with PHP/MySQL</li>
-
-        <li>UNIX Fundamentals</li>
-        <li>LINUX Networking &amp; Security</li>
-
-        <li>Intro to Computer Science C++</li>
-        <li>Intro to Computer Science-Java</li>
-        <li>Data Structures and Algorithms in Java</li>
-        
-        <li>Mobile App Development using MIT App Inventor</li>
-        <li>Android App Development Java using Android Studio</li>
-    </ul>
-</div>  <!-- /* Column End */ --> 
-    
-       <!-- /*Legacy code from when I had a in-progress/future classes*/ -->
-        <!-- /*<div class="col">
-            <h3 class="text-center">In-progress</h3>
-            <ul class="bg--yellow">
-                <li></li>
-            </ul>
-        </div>
-        <div class="col">
-            <h3 class="text-center">Fall 2019</h3>
-                <ul class="bg--red">  
-                    <li></li>
-                </ul>
-        </div>*/ -->
-    
-</div>  <!-- /* Row End */ --> 
-</div>  <!-- /* Container End */ --> 
+    <div class="container courses">
+        <img src="documents/course_history.PNG" alt="screenshot of course history">
+    </div>  <!-- /* Container End */ --> 
 </section>
 
 </main>

@@ -3,7 +3,7 @@
 <main>
 
 <div class="gradient_title">
-    <h1 class="text-center">Introduction to SQL</h1>
+    <h1 class="text-center">Database Concepts</h1>
 </div>
        
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   

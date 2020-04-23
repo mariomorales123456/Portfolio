@@ -9,28 +9,16 @@
             <?php 
                 include('nav_sublinks/cosw10.php'); 
                 include('nav_sublinks/cosw20.php'); 
-                include('nav_sublinks/cosw200.php'); 
                 include('nav_sublinks/cosp38.php'); 
+                include('nav_sublinks/cosw200.php');
+                include('nav_sublinks/cosw30.php');  
+                include('nav_sublinks/cosw240.php'); 
+                include('nav_sublinks/cs21_22.php'); 
+                include('nav_sublinks/cosp201_230.php'); 
+                include('nav_sublinks/cs11.php'); 
+                include('nav_sublinks/cosn205_215.php');
+                include('nav_sublinks/profiles.php');
             ?>
-
-            <li class="nav-item">
-                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true" target="_blank">{Java-I}</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true" target="_blank">{Java-II}</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true" target="_blank">{WordPress}</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true" target="_blank">{Linux/Unix}</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true" target="_blank">{C++}</a>
-            </li>
-            <li>
-                <a id="profile-link" class="nav-link" href="https://www.freecodecamp.org/mario_morales" target="_blank">{FCC Profile}</a>
-            </li>
         </ul>
         <!-- /*
         <form class="form-inline my-2 my-lg-0">

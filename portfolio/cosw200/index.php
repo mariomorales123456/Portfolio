@@ -4,7 +4,7 @@
     
 <div class="gradient_title">
        <h1>Javascript &amp; jQuery</h1>
-        </div>
+</div>
     
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
 <section id="homework10" class="container">
