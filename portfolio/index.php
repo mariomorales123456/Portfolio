@@ -62,7 +62,7 @@
         <p class="text-center">Certificate:</p>
     </div>
     <div class="col">
-        <?php include('microsoft_databases.php'); ?>
+        <a href="https://www.youracclaim.com/badges/0ccc4ccf-dad1-47e8-93cd-d9f91d843f7c/public_url">MTA: Introduction to Programming Using JavaScript - Certified 2018</a>
     </div>
 </div>   <!-- /* Row End */ --> 
 <div class="row">
@@ -70,7 +70,7 @@
         <p class="text-center">Certificate:</p>
     </div>
     <div class="col">
-        <?php include('microsoft_js.php'); ?>
+        <a href="https://www.youracclaim.com/badges/e8d19222-3768-4e4c-8940-36bb8005102f/public_url">MTA: Database Fundamentals - Certified 2018</a>
     </div>
 </div>   <!-- /* Row End */ --> 
 </div>   <!-- /* Container End */ --> 
