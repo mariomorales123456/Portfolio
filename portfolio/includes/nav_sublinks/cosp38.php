@@ -5,14 +5,14 @@
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <a class="dropdown-item" href="/portfolio/cosp38/index.php">Home</a>
         <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="/portfolio/cosp38/index.php/#link_1">Microsoft SQL Install</a>
-            <a class="dropdown-item" href="/portfolio/cosp38/index.php/#link_2">mySQL Install</a>
-            <a class="dropdown-item" href="/portfolio/cosp38/index.php/#link_3">Oracle SQL Install</a>
-            <a class="dropdown-item" href="/portfolio/cosp38/index.php/#link_4">Microsoft SQL Import</a>
-            <a class="dropdown-item" href="/portfolio/cosp38/index.php/#link_5">mySQL Import</a>
-            <a class="dropdown-item" href="/portfolio/cosp38/index.php/#link_6">Oracle SQL IMport</a>
-            <a class="dropdown-item" href="/portfolio/cosp38/index.php/#link_7">Microsoft SQL Queries</a>
-            <a class="dropdown-item" href="/portfolio/cosp38/index.php/#link_8">mySQL Queries</a>
-            <a class="dropdown-item" href="/portfolio/cosp38/index.php/#link_9">Oracle SQL Queries</a>
+            <a class="dropdown-item" href="/portfolio/cosp38/index.php#link_1">Microsoft SQL Install</a>
+            <a class="dropdown-item" href="/portfolio/cosp38/index.php#link_2">mySQL Install</a>
+            <a class="dropdown-item" href="/portfolio/cosp38/index.php#link_3">Oracle SQL Install</a>
+            <a class="dropdown-item" href="/portfolio/cosp38/index.php#link_4">Microsoft SQL Import</a>
+            <a class="dropdown-item" href="/portfolio/cosp38/index.php#link_5">mySQL Import</a>
+            <a class="dropdown-item" href="/portfolio/cosp38/index.php#link_6">Oracle SQL IMport</a>
+            <a class="dropdown-item" href="/portfolio/cosp38/index.php#link_7">Microsoft SQL Queries</a>
+            <a class="dropdown-item" href="/portfolio/cosp38/index.php#link_8">mySQL Queries</a>
+            <a class="dropdown-item" href="/portfolio/cosp38/index.php#link_9">Oracle SQL Queries</a>
         </div>
       </li>
