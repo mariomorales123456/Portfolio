@@ -5,14 +5,14 @@
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <a class="dropdown-item" href="/portfolio/cosw30/index.php">Home</a>
         <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="/portfolio/cosw30/index.php#link_1">___NAME___</a>
-            <a class="dropdown-item" href="/portfolio/cosw30/index.php#link_2">___NAME___</a>
-            <a class="dropdown-item" href="/portfolio/cosw30/index.php#link_3">___NAME___</a>
-            <a class="dropdown-item" href="/portfolio/cosw30/index.php#link_4">___NAME___</a>
-            <a class="dropdown-item" href="/portfolio/cosw30/index.php#link_5">___NAME___</a>
-            <a class="dropdown-item" href="/portfolio/cosw30/index.php#link_6">___NAME___</a>
-            <a class="dropdown-item" href="/portfolio/cosw30/index.php#link_7">___NAME___</a>
-            <a class="dropdown-item" href="/portfolio/cosw30/index.php#link_8">___NAME___</a>
-            <a class="dropdown-item" href="/portfolio/cosw30/index.php#link_9">___NAME___</a>
+            <a class="dropdown-item" href="/portfolio/cosw30/index.php#link_1">Simple PHP Page</a>
+            <a class="dropdown-item" href="/portfolio/cosw30/index.php#link_2">Simple Form</a>
+            <a class="dropdown-item" href="/portfolio/cosw30/index.php#link_3">Complex Form</a>
+            <a class="dropdown-item" href="/portfolio/cosw30/index.php#link_4">Tuition Calculator</a>
+            <a class="dropdown-item" href="/portfolio/cosw30/index.php#link_5">Text Scrambler</a>
+            <a class="dropdown-item" href="/portfolio/cosw30/index.php#link_6">Text Generator</a>
+            <a class="dropdown-item" href="/portfolio/cosw30/index.php#link_7">Appliance Cost Calculator</a>
+            <a class="dropdown-item" href="/portfolio/cosw30/index.php#link_8">CRUD</a>
+            <a class="dropdown-item" href="/portfolio/cosw30/index.php#link_9">Sessions</a>
         </div>
       </li>
