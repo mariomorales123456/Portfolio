@@ -6,7 +6,7 @@
 <div class="gradient_title">
     <h1 style="font-size: 4em;">Mario Morales</h1>
     <h2>Portfolio</h2>
-    <h2>Web &amp; Development</h2>
+    <h2>Web Development</h2>
 </div>
 
  <!-- /* Section for small intro about myself */  -->
