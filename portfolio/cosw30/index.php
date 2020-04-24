@@ -143,7 +143,7 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
-<section id="link_6" class="container">
+<section id="link_5" class="container">
     <div class="row">                                                     
         <div class="col">
             <h2 class="text-center">Text Scrambler</h2>  <!-- /*title row*/ -->
@@ -177,7 +177,7 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
-<section id="link_7" class="container">
+<section id="link_6" class="container">
     <div class="row">                                                     
         <div class="col">
             <h2 class="text-center">Text Generator</h2>  <!-- /*title row*/ -->
@@ -212,7 +212,7 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
-<section id="link_8" class="container">
+<section id="link_7" class="container">
     <div class="row">                                                     
         <div class="col">
             <h2 class="text-center">Appliance Cost Calculator</h2>  <!-- /*title row*/ -->
@@ -246,7 +246,7 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
-<section id="link_9" class="container">
+<section id="link_8" class="container">
     <div class="row">                                                     
         <div class="col">
             <h2 class="text-center">CRUD</h2>  <!-- /*title row*/ -->
@@ -280,7 +280,7 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
-<section id="link_10" class="container">
+<section id="link_9" class="container">
     <div class="row">                                                     
         <div class="col">
             <h2 class="text-center">Sessions</h2>  <!-- /*title row*/ -->
