@@ -11,20 +11,58 @@
 
  <!-- /* Section for small intro about myself */  -->
 <section class="container">
-    <h2 class="text-center">About me</h2>
+    <h2 class="text-center">About this project</h2>
     <p>
-        I am a graduate in web development from Long Beach City College. 
-        I originally graduated in Animal Health Sciences from California State Polytechnic University in 2014. 
-        I then got a license from California to practice as a registered veterinary technician and 
-        worked as an RVT for 4 years. In summer of 2018 I quit my job to go back to school. 
-        My goal is to become a full stack developer and I have a special interest in Java development. 
+            This portfolio was made from all the projects I worked on during school. 
+        I've been working with HTML, CSS, PHP and SQL. Currently I'm using Bootstrap for layout
+        and menus, and use SASS for modular custom CSS. I use github version control to manage directories and updates. 
+        I'm using <a href="gitpod.io" target="_blank">gitpod</a> as my IDE but during school I worked with AWS cloud9. 
+        My plan is to continue to update this portfolio with all the projects I have done during school. 
     </p>   
 </section>     
+
+ <!-- /* Section for small intro about myself */  -->
+<section class="container">
+    <h2 class="text-center">About me</h2>
+    <p>
+            I am a graduate in web development from Long Beach City College. My programming focus was on full stack website
+        development. I have experience with HTML, CSS, JavaScript, PHP and MySQL. I've used the frameworks SASS, jQuery,
+        and Bootstrap. I am familiar with linux command line and several linux distributions.  I have experience in Android
+        development using Java in <a href="https://developer.android.com/studio" target="_blank">Android Studio</a>. I studied
+        introductory Java &amp; Data Structures and Algorithms using the IDE BlueJ. My goal right now is to work in
+        Full Stack Web Development or Back End Web Development. In the future I'd like to use Java as a main language.
+
+            Before my web development career I completed a Bachelors in Animal Health Sciences at CSU Pomona in 2014. I worked 
+        in the veterinary field as a technician for four years. My main job duties were surgical assisting, preventive care, 
+        and emergency care. I've always worked with computers in my spare time and in 2018 decided to seek out a programming career.
+    </p>   
+</section> 
+
+ <!-- /* Resume */  -->
+<section class="container text-center">
+    <h2>Resume</h2>
+    <a href="documents/mario_morales_developer_resume_2020.pdf" target="_blank">Mario Morales Developer Resume 2020</a>   
+</section>
+
+<!-- /* Section for active profiles and project managers */ --> 
+<section class="container">
+    <h2 class="text-center">Profiles &amp; Projects</h2>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <p>LinkedIn: <a href="https://www.linkedin.com/in/mario-morales-developer/" target="_blank"><img src="logos/linkedin_logo.svg" alt="linkedin logo"></a>"</p>
+            </div>
+            <div class="col">
+                <p>LinkedIn: <a href="https://github.com/mariomorales123456" target="_blank"><img src="logos/github_logo.svg" alt="github logo"></a>"</p>
+            </div>
+        </div>
+    </div>   
+</section>   
 
  <!-- /* Section for active profiles and project managers */ --> 
 <section class="container">
     <h2 class="text-center">Profiles &amp; Projects</h2>
-<div class="container courses">
+<div class="container">
 <div class="row">
     <div class="col">
         <p class="text-center">LinkedIn:</p>
@@ -79,7 +117,7 @@
  <!-- /* Section for listing certificates and degrees in web development */ --> 
 <section class="container">
     <h2 class="text-center">Degrees &amp; Certificates</h2>
-<div class="container courses">
+<div class="container">
 <div class="row">
     <div class="col">
         <p class="text-center">Degree:</p>
@@ -145,7 +183,7 @@
  <!-- /* Section for listing programming courses I have taken */ --> 
 <section class="container">
     <h2 class="text-center">Programming Classes</h2>
-    <div class="container courses text-center">
+    <div class="container text-center">
         <img src="documents/course_history.PNG" alt="screenshot of course history">
     </div>  <!-- /* Container End */ --> 
 </section>
