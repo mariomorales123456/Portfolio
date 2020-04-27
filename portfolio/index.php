@@ -151,7 +151,7 @@
 <section class="container">
     <h2 class="text-center">Programming Classes</h2>
     <div class="container text-center">
-        <img src="documents/course_history.PNG" alt="screenshot of course history">
+        <img src="documents/course_history.PNG" alt="screenshot of course history" class="img-fluid">
     </div>  <!-- /* Container End */ --> 
 </section>
 
