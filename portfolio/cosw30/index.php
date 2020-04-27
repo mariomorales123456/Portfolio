@@ -219,13 +219,7 @@
                         <a href="images/link_8.PNG" target="_blank"><img class="img-fluid" src="images/link_8.PNG" alt="screenshot of linked webpage"></a><figcaption class="text-center">Click <a href="homework/hw10/crud.php" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
-            </div>
-            <div class="row reflection">  <!-- /*reflection container*/ -->
-                <div class="col">
-                    <h3 class="text-center">Reflection</h3>  
-                    <p>Using a dummy dabase you had to have a form that connects to it and a display of the information in that database.</p>
-                </div>
-            </div>     
+            </div>    
         </div>                                       <!-- /*left column end*/ -->
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
