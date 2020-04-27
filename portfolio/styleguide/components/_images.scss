@@ -1,0 +1,12 @@
+/* --- Used to resize small images to icon sized  ---*/
+
+.icon_resize {
+    &--sm {
+        max-width: 25px;
+        max-height: 25px; 
+    }
+    &--med {
+         max-width: 50px;
+        max-height: 50px; 
+    }
+}

@@ -17,6 +17,7 @@
         I've been working with HTML, CSS, PHP and SQL. Currently I'm using Bootstrap for layout
         and menus, and use SASS for modular custom CSS. I use github version control to manage directories and updates. 
         I'm using <a href="gitpod.io" target="_blank">gitpod</a> as my IDE but during school I worked with AWS cloud9. 
+        My working branch is hosted on HerokuApp and my master branch is hosted on 000webhostapp. 
         My plan is to continue to update this portfolio with all the projects I have done during school. 
     </p>   
 </section>     
@@ -50,69 +51,26 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <p>LinkedIn: <a href="https://www.linkedin.com/in/mario-morales-developer/" target="_blank"><img src="logos/linkedin_logo.png" alt="linkedin logo"></a></p>
+                <p>LinkedIn: <a href="https://www.linkedin.com/in/mario-morales-developer/" target="_blank"><img src="logos/linkedin_logo.png" alt="linkedin logo" class="icon_resize--med"></a></p>
             </div>
             <div class="col">
-                <p>LinkedIn: <a href="https://github.com/mariomorales123456" target="_blank"><img src="logos/github_logo.png" alt="github logo"></a></p>
+                <p>GitHub: <a href="https://github.com/mariomorales123456" target="_blank"><img src="logos/github_logo.png" alt="github logo" class="icon_resize--sm"></a></p>
+            </div>
+                        <div class="col">
+                <p>Working Branch: <a href="https://mariomoralesportfolio.herokuapp.com/portfolio/index.php" target="_blank"><img src="logos/heroku_logo.png" alt="heroku logo" class="icon_resize--sm"></a></p>
+            </div>
+            <div class="col">
+                <p>Master Branch: <a href="https://mariomoralesprojects.000webhostapp.com/index.html" target="_blank"><img src="logos/000webhost_logo.png" alt="000webhost logo" class="icon_resize--sm"></a></p>
+            </div>
+                        <div class="col">
+                <p>SoloLearn: <a href="https://www.sololearn.com/Profile/10653809" target="_blank"><img src="logos/sololearn_logo.png" alt="sololearn logo" class="icon_resize--sm"></a></p>
+            </div>
+                        <div class="col">
+                <p>Freecodecamp: <a href="https://www.freecodecamp.org/mario_morales" target="_blank"><img src="logos/freecodecamp_logo.png" alt="freecodecamp logo" class="icon_resize--sm"></a></p>
             </div>
         </div>
     </div>   
 </section>   
-
- <!-- /* Section for active profiles and project managers */ --> 
-<section class="container">
-    <h2 class="text-center">Profiles &amp; Projects</h2>
-<div class="container">
-<div class="row">
-    <div class="col">
-        <p class="text-center">LinkedIn:</p>
-    </div>
-    <div class="col">
-        <p><a href="https://www.linkedin.com/in/mario-morales-developer/" target="_blank">mario-morales-Developer</a></p>
-    </div>
-</div>  <!-- /* End Row */ --> 
-<div class="row">
-    <div class="col">
-        <p class="text-center">GitHub:</p>
-    </div>
-    <div class="col">
-        <p><a href="https://github.com/mariomorales123456" target="_blank">mariomorales123456</a></p>
-    </div>
-</div>   <!-- /* Row End */ --> 
-<div class="row">
-    <div class="col">
-        <p class="text-center">Heroku:</p>
-    </div>
-    <div class="col">
-        <p><a href="https://mariomoralesportfolio.herokuapp.com/portfolio/index.php" target="_blank">Working Branch Website</a></p>
-    </div>
-</div>   <!-- /* Row End */ --> 
-<div class="row">
-    <div class="col">
-        <p class="text-center">000webhostapp:</p>
-    </div>
-    <div class="col">
-        <a href="https://mariomoralesprojects.000webhostapp.com/index.html" target="_blank">Master Branch Website</a>
-    </div>
-</div>   <!-- /* Row End */ --> 
-<div class="row">
-    <div class="col">
-        <p class="text-center">SoloLearn:</p>
-    </div>
-    <div class="col">
-        <a href="https://www.sololearn.com/Profile/10653809" target="_blank">10653809</a>
-    </div>
-</div>   <!-- /* Row End */ -->
-<div class="row">
-    <div class="col">
-        <p class="text-center">Freecodecamp:</p>
-    </div>
-    <div class="col">
-        <a href="https://www.freecodecamp.org/mario_morales" target="_blank">mario_morales</a>
-    </div>
-</div>   <!-- /* Row End */ -->  
-</div>   <!-- /* Container End */ --> 
-</section>    
 
  <!-- /* Section for listing certificates and degrees in web development */ --> 
 <section class="container">
