@@ -30,8 +30,8 @@
         and Bootstrap. I am familiar with linux command line and several linux distributions.  I have experience in Android
         development using Java in <a href="https://developer.android.com/studio" target="_blank">Android Studio</a>. I studied
         introductory Java &amp; Data Structures and Algorithms using the IDE BlueJ. My goal right now is to work in
-        Full Stack Web Development or Back End Web Development. In the future I'd like to use Java as a main language.
-
+        Full Stack Web Development or Back End Web Development. In the future I'd like to use Java as a main language.<br>
+        <br>
             Before my web development career I completed a Bachelors in Animal Health Sciences at CSU Pomona in 2014. I worked 
         in the veterinary field as a technician for four years. My main job duties were surgical assisting, preventive care, 
         and emergency care. I've always worked with computers in my spare time and in 2018 decided to seek out a programming career.
@@ -41,7 +41,7 @@
  <!-- /* Resume */  -->
 <section class="container text-center">
     <h2>Resume</h2>
-    <a href="documents/mario_morales_developer_resume_2020.pdf" target="_blank">Mario Morales Developer Resume 2020</a>   
+    <a href="documents/Mario_Morales_Developer_Resume_2020.pdf" target="_blank">Mario Morales Developer Resume 2020</a>   
 </section>
 
 <!-- /* Section for active profiles and project managers */ --> 
@@ -50,10 +50,10 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <p>LinkedIn: <a href="https://www.linkedin.com/in/mario-morales-developer/" target="_blank"><img src="logos/linkedin_logo.svg" alt="linkedin logo"></a>"</p>
+                <p>LinkedIn: <a href="https://www.linkedin.com/in/mario-morales-developer/" target="_blank"><img src="logos/linkedin_logo.png" alt="linkedin logo"></a></p>
             </div>
             <div class="col">
-                <p>LinkedIn: <a href="https://github.com/mariomorales123456" target="_blank"><img src="logos/github_logo.svg" alt="github logo"></a>"</p>
+                <p>LinkedIn: <a href="https://github.com/mariomorales123456" target="_blank"><img src="logos/github_logo.png" alt="github logo"></a></p>
             </div>
         </div>
     </div>   
