@@ -30,7 +30,7 @@
         <p class="text-center">LinkedIn:</p>
     </div>
     <div class="col">
-        <p><a href="https://www.linkedin.com/in/mario-morales-developer/" target="_blank">mario-morales-Developer</a>/p>
+        <p><a href="https://www.linkedin.com/in/mario-morales-developer/" target="_blank">mario-morales-Developer</a></p>
     </div>
 </div>  <!-- /* End Row */ --> 
 <div class="row">
@@ -70,7 +70,7 @@
         <p class="text-center">Freecodecamp:</p>
     </div>
     <div class="col">
-        <a class="dropdown-item" href="https://www.freecodecamp.org/mario_morales" target="_blank">mario_morales</a>
+        <a href="https://www.freecodecamp.org/mario_morales" target="_blank">mario_morales</a>
     </div>
 </div>   <!-- /* Row End */ -->  
 </div>   <!-- /* Container End */ --> 

@@ -1,7 +1,7 @@
 <?php
 session_start();
 include('includes/header.php');
-include('includes/database.php');
+include('../../includes/database.php');
 // Check if the user is already logged in
 // If they aren't, redirect to login.php
 if(!isset($_SESSION['user_id'])){

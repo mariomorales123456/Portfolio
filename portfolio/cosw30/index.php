@@ -265,14 +265,14 @@
             <div class="row reflection">  <!-- /*reflection container*/ -->
                 <div class="col">
                     <h3 class="text-center">Reflection</h3>  
-                    <p>__INSERT_REFLECTION_HERE__</p>
+                    <p>Using a dummy dabase you had to have a form that connects to it and a display of the information in that database.</p>
                 </div>
             </div>     
         </div>                                       <!-- /*left column end*/ -->
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
                 <h3 class="text-center">Requirements</h3>  
-                <p>__INSERT_LIST_HERE__</p>
+                <p>mysqli is a type of PHP class that has functions/methods that we can use to access the database. For this assignment we will strictly be focusing on the Create and Read parts of a CRUD system but we'll be building off of this assignment later on._HERE__</p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
     </div>                                                                   <!-- /*content row end*/-->
@@ -299,14 +299,14 @@
             <div class="row reflection">  <!-- /*reflection container*/ -->
                 <div class="col">
                     <h3 class="text-center">Reflection</h3>  
-                    <p>__INSERT_REFLECTION_HERE__</p>
+                    <p>Had to use sessions to simulate a log in and log out function on the webpage.</p>
                 </div>
             </div>     
         </div>                                       <!-- /*left column end*/ -->
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
                 <h3 class="text-center">Requirements</h3>  
-                <p>__INSERT_LIST_HERE__</p>
+                <p>For this in-class lab we will be learning about and practicing using PHP Sessions. Sessions are similar to cookies in that we can access information across pages that is stored by the browser. Sessions are more secure, however, because the information itself is stored on the server and the only thing stored in the browser is a session ID that's stored as a cookie.</p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
     </div>                                                                   <!-- /*content row end*/-->
