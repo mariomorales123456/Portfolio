@@ -60,7 +60,7 @@
                 <p>Working Branch: <a href="https://mariomoralesportfolio.herokuapp.com/portfolio/index.php" target="_blank"><img src="logos/heroku_logo.png" alt="heroku logo" class="icon_resize--sm"></a></p>
             </div>
             <div class="col">
-                <p>Master Branch: <a href="https://mariomoralesprojects.000webhostapp.com/index.html" target="_blank"><img src="logos/000webhost_logo.png" alt="000webhost logo" class="icon_resize--sm"></a></p>
+                <p>Master Branch: <a href="https://mariomoralesprojects.000webhostapp.com/index.html" target="_blank"><img src="logos/000webhost_logo.png" alt="000webhost logo" class="icon_resize--med"></a></p>
             </div>
                         <div class="col">
                 <p>SoloLearn: <a href="https://www.sololearn.com/Profile/10653809" target="_blank"><img src="logos/sololearn_logo.png" alt="sololearn logo" class="icon_resize--sm"></a></p>
