@@ -22,13 +22,7 @@
                         <a href="images/link_1.PNG" target="_blank"><img class="img-fluid" src="images/link_1.PNG" alt="screenshot of linked webpage"></a><figcaption class="text-center">Click <a href="labwork/lab1/lab1.php" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
-            </div>
-            <div class="row reflection">  <!-- /*reflection container*/ -->
-                <div class="col">
-                    <h3 class="text-center">Reflection</h3>  
-                    <p>__INSERT_REFLECTION_HERE__</p>
-                </div>
-            </div>     
+            </div>   
         </div>                                       <!-- /*left column end*/ -->
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
@@ -56,13 +50,7 @@
                         <a href="images/link_2.PNG" target="_blank"><img class="img-fluid" src="images/link_2.PNG" alt="screenshot of linked webpage"></a><figcaption class="text-center">Click <a href="labwork/lab2/registration_form.php" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
-            </div>
-            <div class="row reflection">  <!-- /*reflection container*/ -->
-                <div class="col">
-                    <h3 class="text-center">Reflection</h3>  
-                    <p>__INSERT_REFLECTION_HERE__</p>
-                </div>
-            </div>     
+            </div>   
         </div>                                       <!-- /*left column end*/ -->
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
@@ -90,13 +78,7 @@
                         <a href="images/link_3.PNG" target="_blank"><img class="img-fluid" src="images/link_3.PNG" alt="screenshot of linked webpage"></a><figcaption class="text-center">Click <a href="homework/hw2/contact.html" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
-            </div>
-            <div class="row reflection">  <!-- /*reflection container*/ -->
-                <div class="col">
-                    <h3 class="text-center">Reflection</h3>  
-                    <p>__INSERT_REFLECTION_HERE__</p>
-                </div>
-            </div>     
+            </div>    
         </div>                                       <!-- /*left column end*/ -->
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
@@ -124,13 +106,7 @@
                         <a href="images/link_4.PNG" target="_blank"><img class="img-fluid" src="images/link_4.PNG" alt="screenshot of linked webpage"></a><figcaption class="text-center">Click <a href="homework/hw3/tuition_calculator.html" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
-            </div>
-            <div class="row reflection">  <!-- /*reflection container*/ -->
-                <div class="col">
-                    <h3 class="text-center">Reflection</h3>  
-                    <p>__INSERT_REFLECTION_HERE__</p>
-                </div>
-            </div>     
+            </div>  
         </div>                                       <!-- /*left column end*/ -->
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
@@ -158,13 +134,7 @@
                         <a href="images/link_5.PNG" target="_blank"><img class="img-fluid" src="images/link_5.PNG" alt="screenshot of linked webpage"></a><figcaption class="text-center">Click <a href="labwork/lab4/generator_form.html" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
-            </div>
-            <div class="row reflection">  <!-- /*reflection container*/ -->
-                <div class="col">
-                    <h3 class="text-center">Reflection</h3>  
-                    <p>__INSERT_REFLECTION_HERE__</p>
-                </div>
-            </div>     
+            </div>   
         </div>                                       <!-- /*left column end*/ -->
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
@@ -192,19 +162,13 @@
                         <a href="images/link_6.PNG" target="_blank"><img class="img-fluid" src="images/link_6.PNG" alt="screenshot of linked webpage"></a><figcaption class="text-center">Click <a href="homework/hw4/quote.html" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
-            </div>
-            <div class="row reflection">  <!-- /*reflection container*/ -->
-                <div class="col">
-                    <h3 class="text-center">Reflection</h3>  
-                    <p>Create a form that asks for a short favorite quote containing 5 or more words separated by a space (advanced users can validate the number of items in the list before processing the form).</p>
-                    <p>Create an array (in key: value pairs of city state => population)  to store the following data: </p>
-                </div>
-            </div>     
+            </div>   
         </div>                                       <!-- /*left column end*/ -->
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
                 <h3 class="text-center">Requirements</h3>  
-                <p>__INSERT_LIST_HERE__</p>
+                    <p>Create a form that asks for a short favorite quote containing 5 or more words separated by a space (advanced users can validate the number of items in the list before processing the form).</p>
+                    <p>Create an array (in key: value pairs of city state => population)  to store the following data: </p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
     </div>                                                                   <!-- /*content row end*/-->
@@ -227,13 +191,7 @@
                         <a href="images/link_7.PNG" target="_blank"><img class="img-fluid" src="images/link_7.PNG" alt="screenshot of linked webpage"></a><figcaption class="text-center">Click <a href="homework/hw7/functions.php" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
-            </div>
-            <div class="row reflection">  <!-- /*reflection container*/ -->
-                <div class="col">
-                    <h3 class="text-center">Reflection</h3>  
-                    <p>__INSERT_REFLECTION_HERE__</p>
-                </div>
-            </div>     
+            </div>    
         </div>                                       <!-- /*left column end*/ -->
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
@@ -272,7 +230,7 @@
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
                 <h3 class="text-center">Requirements</h3>  
-                <p>mysqli is a type of PHP class that has functions/methods that we can use to access the database. For this assignment we will strictly be focusing on the Create and Read parts of a CRUD system but we'll be building off of this assignment later on._HERE__</p>
+                <p>mysqli is a type of PHP class that has functions/methods that we can use to access the database. For this assignment we will strictly be focusing on the Create and Read parts of a CRUD system but we'll be building off of this assignment later on.</p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
     </div>                                                                   <!-- /*content row end*/-->
@@ -295,13 +253,7 @@
                         <a href="images/link_9.PNG" target="_blank"><img class="img-fluid" src="images/link_9.PNG" alt="screenshot of linked webpage"></a><figcaption class="text-center">Click <a href="homework/hw11/login.php" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
-            </div>
-            <div class="row reflection">  <!-- /*reflection container*/ -->
-                <div class="col">
-                    <h3 class="text-center">Reflection</h3>  
-                    <p>Had to use sessions to simulate a log in and log out function on the webpage.</p>
-                </div>
-            </div>     
+            </div>    
         </div>                                       <!-- /*left column end*/ -->
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
