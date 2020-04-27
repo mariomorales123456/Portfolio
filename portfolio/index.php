@@ -45,32 +45,41 @@
     <a href="documents/Mario_Morales_Developer_Resume_2020.pdf" target="_blank">Mario Morales Developer Resume 2020</a>   
 </section>
 
-<!-- /* Section for active profiles and project managers */ --> 
+<!-- /* Section for active project */ --> 
 <section class="container">
-    <h2 class="text-center">Profiles &amp; Projects</h2>
+    <h2 class="text-center">PProjects</h2>
     <div class="container">
         <div class="row">
             <div class="col">
-                <p>LinkedIn: <a href="https://www.linkedin.com/in/mario-morales-developer/" target="_blank"><img src="logos/linkedin_logo.png" alt="linkedin logo" class="icon_resize--med"></a></p>
-            </div>
-            <div class="col">
-                <p>GitHub: <a href="https://github.com/mariomorales123456" target="_blank"><img src="logos/github_logo.png" alt="github logo" class="icon_resize--sm"></a></p>
-            </div>
-                        <div class="col">
                 <p>Working Branch: <a href="https://mariomoralesportfolio.herokuapp.com/portfolio/index.php" target="_blank"><img src="logos/heroku_logo.png" alt="heroku logo" class="icon_resize--sm"></a></p>
             </div>
             <div class="col">
                 <p>Master Branch: <a href="https://mariomoralesprojects.000webhostapp.com/index.html" target="_blank"><img src="logos/000webhost_logo.png" alt="000webhost logo" class="icon_resize--med"></a></p>
             </div>
-                        <div class="col">
-                <p>SoloLearn: <a href="https://www.sololearn.com/Profile/10653809" target="_blank"><img src="logos/sololearn_logo.png" alt="sololearn logo" class="icon_resize--sm"></a></p>
-            </div>
-                        <div class="col">
-                <p>Freecodecamp: <a href="https://www.freecodecamp.org/mario_morales" target="_blank"><img src="logos/freecodecamp_logo.png" alt="freecodecamp logo" class="icon_resize--sm"></a></p>
-            </div>
         </div>
     </div>   
 </section>   
+
+<!-- /* Section for active profiles */ --> 
+<section class="container">
+    <h2 class="text-center">Profiles</h2>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <a href="https://www.linkedin.com/in/mario-morales-developer/" target="_blank"><img src="logos/linkedin_logo.png" alt="linkedin logo" class="icon_resize--med"></a>
+            </div>
+            <div class="col">
+                <a href="https://github.com/mariomorales123456" target="_blank"><img src="logos/github_logo.png" alt="github logo" class="icon_resize--sm"></a>
+            </div>
+            <div class="col">
+                <a href="https://www.sololearn.com/Profile/10653809" target="_blank"><img src="logos/sololearn_logo.png" alt="sololearn logo" class="icon_resize--sm"></a>
+            </div>
+            <div class="col">
+                <a href="https://www.freecodecamp.org/mario_morales" target="_blank"><img src="logos/freecodecamp_logo.png" alt="freecodecamp logo" class="icon_resize--sm"></a>
+            </div>
+        </div>
+    </div>   
+</section> 
 
  <!-- /* Section for listing certificates and degrees in web development */ --> 
 <section class="container">
