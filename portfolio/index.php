@@ -46,8 +46,8 @@
 </section>
 
 <!-- /* Section for active project */ --> 
-<section class="container">
-    <h2 class="text-center">PProjects</h2>
+<section class="container text-center">
+    <h2 class="text-center">Projects</h2>
     <div class="container">
         <div class="row">
             <div class="col">
@@ -61,7 +61,7 @@
 </section>   
 
 <!-- /* Section for active profiles */ --> 
-<section class="container">
+<section class="container text-center">
     <h2 class="text-center">Profiles</h2>
     <div class="container">
         <div class="row">
