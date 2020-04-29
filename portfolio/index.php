@@ -54,7 +54,7 @@
                 <p><img src="logos/heroku_logo.png" alt="heroku logo" class="icon_resize--sm"><a href="https://mariomoralesportfolio.herokuapp.com/portfolio/index.php" target="_blank">Working Branch</a></p>
             </div>
             <div class="col">
-                <p><img src="logos/000webhost_logo.png" alt="000webhost logo" class="icon_resize--med"><a href="https://mariomoralesprojects.000webhostapp.com/index.html" target="_blank">Master Branch</a></p>
+                <p><img src="logos/000webhost_logo.png" alt="000webhost logo" class="icon_resize--med"><a href="https://mariomoralesprojects.000webhostapp.com/home.php" target="_blank">Master Branch</a></p>
             </div>
         </div>
     </div>   

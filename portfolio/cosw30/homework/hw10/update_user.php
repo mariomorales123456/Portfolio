@@ -6,7 +6,7 @@ if($_SERVER['REQUEST_METHOD'] == 'GET') {
 
 $user_id = $_GET['row_id'];
 
-$selectQuery = "SELECT * FROM USER_MORALES WHERE user_id=$user_id";
+$selectQuery = "SELECT * FROM my_first_crud WHERE id=$user_id";
                     
 $selectResult = mysqli_query($connection, $selectQuery);
 
@@ -29,12 +29,12 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
              $email = $_POST['email'];
              $password = $_POST['password'];    
              $user_id = $_POST['user_id'];
-             $updateQuery = "UPDATE USER_MORALES SET
+             $updateQuery = "UPDATE my_first_crud SET
                                 first_name = '$first_name',
                                 last_name = '$last_name',
                                 email = '$email',
                                 password = '$password'
-                                WHERE user_id = $user_id";
+                                WHERE id = $user_id";
                     
              $updateResult = mysqli_query($connection, $updateQuery);
              

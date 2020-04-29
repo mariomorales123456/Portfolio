@@ -18,8 +18,8 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
     $password = $_POST['password'];
     // Validate the form data
     // Check if the user's email and password are in the database
-    $query = "SELECT user_id, first_name
-                FROM USER_MORALES
+    $query = "SELECT id, first_name
+                FROM my_first_crud
                 WHERE email = '$email'
                 AND password = '$password'";
     $result = mysqli_query($connection, $query);

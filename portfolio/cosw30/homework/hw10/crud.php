@@ -10,7 +10,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
              $email = $_POST['email'];
              $password = $_POST['password'];    
         
-             $insertQuery = "INSERT INTO USER_MORALES (first_name, last_name, email, password)
+             $insertQuery = "INSERT INTO my_first_crud (first_name, last_name, email, password)
                     VALUES ('$first_name', '$last_name', '$email', '$password')";
                     
              $insertResult = mysqli_query($connection, $insertQuery);
@@ -22,12 +22,12 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     if($_POST['row_action'] == "deleteUser"){
         $user_id = $_POST['row_id'];
-        $deleteQuery = "DELETE FROM USER_MORALES WHERE user_id='$user_id'";
+        $deleteQuery = "DELETE FROM my_first_crud WHERE id='$user_id'";
         $deleteResult = mysqli_query($connection, $deleteQuery);
     }
 }
 
-$selectAllQuery = 'SELECT * FROM USER_MORALES';
+$selectAllQuery = 'SELECT * FROM my_first_crud';
 
 $selectAllResult = mysqli_query($connection, $selectAllQuery);
 
