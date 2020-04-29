@@ -1,6 +1,6 @@
 <?php
 
-include('../../includes/database.php');
+include('../../../../database_connection.php');
 
 if($_SERVER['REQUEST_METHOD'] == 'POST') {
     if(!empty($_POST['first_name']) && !empty($_POST['last_name']) && !empty($_POST['email']) && !empty($_POST['password'])){

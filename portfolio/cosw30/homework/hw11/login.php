@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-include('../../includes/database.php');
+include('../../../../database_connection.php');
 include('includes/header.php');
 
 // Check if the user is already logged in

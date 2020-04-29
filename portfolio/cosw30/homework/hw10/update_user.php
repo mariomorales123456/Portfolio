@@ -1,6 +1,6 @@
 <?php
 
-include('../../includes/database.php');
+include('../../../../database_connection.php');
 
 if($_SERVER['REQUEST_METHOD'] == 'GET') {
 
