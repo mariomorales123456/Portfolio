@@ -14,5 +14,9 @@
             <a class="dropdown-item" href="/portfolio/cosw30/index.php#link_7">Appliance Cost Calculator</a>
             <a class="dropdown-item" href="/portfolio/cosw30/index.php#link_8">CRUD</a>
             <a class="dropdown-item" href="/portfolio/cosw30/index.php#link_9">Sessions</a>
+            <a class="dropdown-item" href="/portfolio/cosw30/index.php#link_10">Dynamic Product Page</a>
+            <a class="dropdown-item" href="/portfolio/cosw30/index.php#link_11">CRUD #2</a>
+            <a class="dropdown-item" href="/portfolio/cosw30/index.php#link_12">Complex Querys</a>
+            <a class="dropdown-item" href="/portfolio/cosw30/index.php#link_13">Dynamic Product Page #2</a>
         </div>
       </li>
