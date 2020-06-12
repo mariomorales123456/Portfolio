@@ -10,8 +10,8 @@ Gather images and descriptions:
 Wordpress - Done!
 Java - Done!
 Android - Done!
-C++ - not done yet
-Linux - not done yet
+C++ - Done!
+Linux - Done!
 
 Actualize website with images and descriptions:
 Wordpress - not done yet
