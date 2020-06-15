@@ -1,4 +1,4 @@
-<h2>Homework 5: Users</h2>
+<h3>Homework 5: Users</h3>
 
 <p>
 This week we will work with our User accounts and profiles. We will also search for a User plugin that would work well with our website and install/activate it.

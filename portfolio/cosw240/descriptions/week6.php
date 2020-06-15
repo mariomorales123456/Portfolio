@@ -1,4 +1,4 @@
-<h2>Homework 6: Yoast</h2>
+<h3>Homework 6: Yoast</h3>
 
 <p>
 For this assignment we will be installing the Yoast SEO plugin, one of the most popular WordPress plugins ever. Follow the Yoast Wizard to setup your Yoast SEO plugin.

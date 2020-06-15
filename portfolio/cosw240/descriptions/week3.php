@@ -1,4 +1,4 @@
-<h2>Homework 3: Appearance and Customizations</h2>
+<h3>Homework 3: Appearance and Customizations</h3>
 
 <p>
 This week's homework assignment is to modify your site appearance for your website topic. Search for your FREE theme (Links to an external site.) (do not use any paid themes in this class) and preview it. Do not use the default themes installed in WordPress (the Twenty Seventeen, Twenty Eighteen, Twenty Nineteen themes, etc.). Once you find one that you like, activate it. Find a theme that you will be happy to use on a long term basis.

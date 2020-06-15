@@ -1,4 +1,4 @@
-<h2>Homework 2: Site Organization and Content</h2>
+<h3>Homework 2: Site Organization and Content</h3>
 <p>
 This week we are going to continue organizing the content on our website and setting up the navigation structure. Do not worry about the actual site appearance yet. You'll have time next week to work on that aspect of the project.
 </p>

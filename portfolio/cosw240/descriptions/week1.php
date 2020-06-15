@@ -1,5 +1,5 @@
 
-<h2>Homework 1: WordPress Setup</h2>
+<h3>Homework 1: WordPress Setup</h3>
 
 <p>
 Step 0: Install WordPress and Login to Admin Dashboard

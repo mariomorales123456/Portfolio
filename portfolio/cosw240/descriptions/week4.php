@@ -1,4 +1,4 @@
-<h2>Homework 4: Plugins</h2>
+<h3>Homework 4: Plugins</h3>
 
 <p>
 Continue working with your development WordPress website by adding some plugins.

@@ -1,4 +1,4 @@
-<h2>Discussion: WooCommerce and BuddyPress</h2>
+<h3>Discussion: WooCommerce and BuddyPress</h3>
 
 <p>
 After reviewing one website from each section above, discuss what was your favorite site and why. 
