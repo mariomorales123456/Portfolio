@@ -1,0 +1,14 @@
+.raw_code_container {
+    background: linear-gradient(turquoise, darkturquoise);
+    text-align: center;
+}
+
+.raw_code_wrapper pre {
+    display: inline-block; 
+    text-align: left; 
+    border-style: solid; 
+    border-color: black; 
+    border-width: 1px; 
+    padding: 2em; 
+    border-radius: 1em;
+}

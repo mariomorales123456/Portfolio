@@ -1,3 +1,4 @@
+<div class="raw_code_container">
 <pre>
 import net.datastructures.*;
 /**
@@ -52,3 +53,4 @@ public class CreateLinkedBinaryTreeProject6
     }
 }
 </pre>
+</div>

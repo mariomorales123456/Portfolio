@@ -1,4 +1,4 @@
-<div class="text-center" style="background-color: darkcyan;">
+<div class="raw_code_container">
 <pre>
 // Mario Morales Diego Garcia Mario Sanchez Elisa Fernandez Jaime Magana
 // 6.28.18
@@ -53,3 +53,4 @@
     }
 }
 </pre>
+</div>
