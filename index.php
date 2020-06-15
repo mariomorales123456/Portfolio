@@ -14,7 +14,7 @@ C++ - Done!
 Linux - Done!
 
 Actualize website with images and descriptions:
-Wordpress - not done yet
+Wordpress - Done!
 Java - not done yet
 Android  - not done yet
 C++ - not done yet
