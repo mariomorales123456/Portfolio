@@ -3,7 +3,7 @@
 <main>
 
 <div class="gradient_title">
-       <h1>Intro to Computer Science - Java  &amp; Data Structures &amp; Algorithms - Java</h1>
+       <h1>Data Structures &amp; Algorithms - Java</h1>
 </div>
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
