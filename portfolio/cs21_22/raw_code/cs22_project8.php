@@ -1,4 +1,4 @@
-<code>
+<pre>
 /**
  * Mario Morales
  * CS22 Data Structures & Algorithms
@@ -94,4 +94,4 @@ public class Project8Heap<K,V> extends HeapPriorityQueue<K,V> {
         return list;
     }
 }
-</code>
+</pre>

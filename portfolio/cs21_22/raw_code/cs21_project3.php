@@ -1,4 +1,4 @@
-<code>
+<pre>
 //Mario Morales Elisa Fernandez
 //8.2.18
 //cs21 50500
@@ -96,4 +96,4 @@ public class Quiz{
         
     }
 }
-</code>
+</pre>

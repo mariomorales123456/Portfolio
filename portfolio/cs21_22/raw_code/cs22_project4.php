@@ -1,4 +1,4 @@
-<code>
+<pre>
 /**
  Mario Morales
  Project 4 Chapter 5
@@ -33,4 +33,4 @@ public class Project4Ch5
         System.out.println("Recursive multiplication: " + recursiveMultiplication(53, 42));
     }
 }
-</code>
+</pre>

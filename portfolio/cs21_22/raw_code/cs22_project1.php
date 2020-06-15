@@ -1,4 +1,4 @@
-<code>
+<pre>
 /**
 Mario Morales
 Small Project 1 isEven
@@ -22,4 +22,4 @@ public class Project1IsEven
     return ((a & 1) == 0);
     }
 }
-</code>
+</pre>

@@ -1,4 +1,4 @@
-<code>
+<pre>
 import net.datastructures.*;
 /**
  * Mario Morales
@@ -51,4 +51,4 @@ public class CreateLinkedBinaryTreeProject6
         return newTree;
     }
 }
-</code>
+</pre>

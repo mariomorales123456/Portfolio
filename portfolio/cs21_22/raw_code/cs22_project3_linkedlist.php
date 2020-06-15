@@ -1,4 +1,4 @@
-<code>
+<pre>
 import java.util.ArrayList;
 /**
  Mario Morales
@@ -165,4 +165,4 @@ public class SinglyLinkedListProject3
         }
     }
 }
-</code>
+</pre>

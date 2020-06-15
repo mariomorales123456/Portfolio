@@ -1,4 +1,4 @@
-<code>
+<pre>
 /**
  Mario Morales
  CS22 Data Structures & Algorithms
@@ -182,4 +182,4 @@ public class Project5ch6
         return 0; //no match return 0
     }
 }
-</code>
+</pre>

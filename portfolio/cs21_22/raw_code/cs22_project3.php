@@ -1,4 +1,4 @@
-<code>
+<pre>
 import java.util.*;
 /**
  Mario Morales
@@ -33,4 +33,4 @@ public class Project3
 
     }
 }
-</code>
+</pre>

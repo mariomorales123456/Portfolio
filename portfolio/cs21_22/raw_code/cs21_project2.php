@@ -1,4 +1,4 @@
-<code>
+<pre>
 //Mario Morales, Elisa Fernandez, Mario Sanchez, Diego Garcia
 //7.19.2018
 //CS21 50500
@@ -77,4 +77,4 @@ public class Guess{
         System.out.println("    max guesses   = " + maxGuesses); // prints max guesses
         }
 }
-</code>
+</pre>

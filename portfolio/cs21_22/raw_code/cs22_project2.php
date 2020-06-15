@@ -1,4 +1,4 @@
-<code>
+<pre>
 /**
  Mario Morales
  Project 2
@@ -90,4 +90,4 @@ public class Project2 {
        }
     }
 }
-</code>
+</pre>

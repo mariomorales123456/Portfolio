@@ -19,7 +19,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/cs21_project1.PNG" target="_blank"><img class="img-fluid" src="images/cs21_project1.PNG" alt="For Loops"></a><figcaption class="text-center">Click <a href="raw_code/cs21_project1.php" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/cs21_project1.PNG" target="_blank"><img class="img-fluid" src="images/cs21_project1.PNG" alt="For Loops"></a><figcaption class="text-center">Click <a href="raw_code/cs21_project1.php" target="_blank">here</a> for raw code</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -47,7 +47,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/cs21_project2.PNG" target="_blank"><img class="img-fluid" src="images/cs21_project2.PNG" alt="While loops, if, else"></a><figcaption class="text-center">Click <a href="raw_code/cs21_project2.php" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/cs21_project2.PNG" target="_blank"><img class="img-fluid" src="images/cs21_project2.PNG" alt="While loops, if, else"></a><figcaption class="text-center">Click <a href="raw_code/cs21_project2.php" target="_blank">here</a> for raw code</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -75,7 +75,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/cs21_project33.PNG" target="_blank"><img class="img-fluid" src="images/cs21_project3.PNG" alt="Arrays"></a><figcaption class="text-center">Click <a href="raw_code/cs21_project3.php" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/cs21_project33.PNG" target="_blank"><img class="img-fluid" src="images/cs21_project3.PNG" alt="Arrays"></a><figcaption class="text-center">Click <a href="raw_code/cs21_project3.php" target="_blank">here</a> for raw code</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -103,7 +103,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/cs21_final.PNG" target="_blank"><img class="img-fluid" src="images/cs21_final.PNG" alt="key-value pairs"></a><figcaption class="text-center">Click <a href="raw_code/cs21_final.php" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/cs21_final.PNG" target="_blank"><img class="img-fluid" src="images/cs21_final.PNG" alt="key-value pairs"></a><figcaption class="text-center">Click <a href="raw_code/cs21_final.php" target="_blank">here</a> for raw code</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -131,7 +131,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/cs22_project1.PNG" target="_blank"><img class="img-fluid" src="images/cs22_project1.PNG" alt="Bitwise"></a><figcaption class="text-center">Click <a href="raw_code/cs22_project1.php" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/cs22_project1.PNG" target="_blank"><img class="img-fluid" src="images/cs22_project1.PNG" alt="Bitwise"></a><figcaption class="text-center">Click <a href="raw_code/cs22_project1.php" target="_blank">here</a> for raw code</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -159,7 +159,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/cs22_project2.PNG" target="_blank"><img class="img-fluid" src="images/cs22_project2.PNG" alt="Arraylist"></a><figcaption class="text-center">Click <a href="raw_code/cs22_project2.php" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/cs22_project2.PNG" target="_blank"><img class="img-fluid" src="images/cs22_project2.PNG" alt="Arraylist"></a><figcaption class="text-center">Click <a href="raw_code/cs22_project2.php" target="_blank">here</a> for raw code</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -187,7 +187,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/cs22_project3.PNG" target="_blank"><img class="img-fluid" src="images/cs22_project3.PNG" alt="Linked Lists"></a><figcaption class="text-center">Click <a href="raw_code/cs22_project3.php" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/cs22_project3.PNG" target="_blank"><img class="img-fluid" src="images/cs22_project3.PNG" alt="Linked Lists"></a><figcaption class="text-center">Click <a href="raw_code/cs22_project3.php" target="_blank">Main Method</a> and <a href="raw_code/cs22_project3_linkedlist.php" target="_blank">Linkedlist Object</a> for raw code</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -215,7 +215,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/cs22_project4.PNG" target="_blank"><img class="img-fluid" src="images/cs22_project4.PNG" alt="Recursive methods"></a><figcaption class="text-center">Click <a href="raw_code/cs22_project4.php" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/cs22_project4.PNG" target="_blank"><img class="img-fluid" src="images/cs22_project4.PNG" alt="Recursive methods"></a><figcaption class="text-center">Click <a href="raw_code/cs22_project4.php" target="_blank">here</a> for raw code</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -243,7 +243,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/cs22_project5.PNG" target="_blank"><img class="img-fluid" src="images/cs22_project5.PNG" alt="Stacks"></a><figcaption class="text-center">Click <a href="raw_code/cs22_project5.php" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/cs22_project5.PNG" target="_blank"><img class="img-fluid" src="images/cs22_project5.PNG" alt="Stacks"></a><figcaption class="text-center">Click <a href="raw_code/cs22_project5.php" target="_blank">here</a> for raw code</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -271,7 +271,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/cs22_project6.PNG" target="_blank"><img class="img-fluid" src="images/cs22_project6.PNG" alt="Binary Trees"></a><figcaption class="text-center">Click <a href="raw_code/cs22_project6.php" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/cs22_project6.PNG" target="_blank"><img class="img-fluid" src="images/cs22_project6.PNG" alt="Binary Trees"></a><figcaption class="text-center">Click <a href="raw_code/cs22_project6.php" target="_blank">here</a> for raw code</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -299,7 +299,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/cs22_project8.PNG" target="_blank"><img class="img-fluid" src="images/cs22_project8.PNG" alt="Heaps"></a><figcaption class="text-center">Click <a href="raw_code/cs22_project8.php" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/cs22_project8.PNG" target="_blank"><img class="img-fluid" src="images/cs22_project8.PNG" alt="Heaps"></a><figcaption class="text-center">Click <a href="raw_code/cs22_project8.php" target="_blank">here</a> for raw code</figcaption>
                     </figure>
                 </div>
             </div>    

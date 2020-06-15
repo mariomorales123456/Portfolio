@@ -1,4 +1,4 @@
-<code>
+<pre>
 // Mario Morales Diego Garcia Mario Sanchez Elisa Fernandez Jaime Magana
 // 6.28.18
 // Cs 21 50500
@@ -51,4 +51,4 @@
        }
     }
 }
-</code>
+</pre>
