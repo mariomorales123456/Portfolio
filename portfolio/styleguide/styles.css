@@ -558,7 +558,7 @@ shopping-bag.scss
   text-align: center;
 }
 
-.raw_code_wrapper pre {
+.raw_code_container pre {
   display: inline-block;
   text-align: left;
   border-style: solid;
