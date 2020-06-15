@@ -1,0 +1,1 @@
+<p>This assignment will give you practice with while loops and pseudorandom numbers.  You are going to write a program that allows the user to play a simple guessing game in which your program thinks up an integer and allows the userto make guesses until the user gets it right.</p>

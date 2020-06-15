@@ -1,0 +1,3 @@
+<p>Write a Java program that inputs a list of words, separated by whitespace, and outputs how many times each word appears in the list.</p>
+
+<p>You need not worry about efficiency at this point, however, as this topic is something that will be addressed later in the book.</p>
