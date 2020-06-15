@@ -15,7 +15,7 @@ Linux - Done!
 
 Actualize website with images and descriptions:
 Wordpress - Done!
-Java - not done yet
+Java - Done!
 Android  - not done yet
 C++ - not done yet
 Linux - not done yet

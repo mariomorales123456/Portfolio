@@ -1,3 +1,5 @@
+<?php include('../includes/head.php'); ?>
+
 <div class="raw_code_container">
 <pre>
 //Mario Morales
@@ -110,5 +112,5 @@ public class Final{
     }
     */
 }
-<pre>
+</pre>
 </div>

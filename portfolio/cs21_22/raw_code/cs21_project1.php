@@ -1,3 +1,5 @@
+<?php include('../includes/head.php'); ?>
+
 <div class="raw_code_container">
 <pre>
 // Mario Morales Diego Garcia Mario Sanchez Elisa Fernandez Jaime Magana
