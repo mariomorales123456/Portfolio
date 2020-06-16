@@ -1,4 +1,3 @@
-                    <ul>
-                <li>You will create a simple quiz game of at least 5 questions. You can do this any way you'd like (any sort of input/output method you prefer). Here is where creativity can come into the equation. The minimum requirement is a simple math quiz or trivia question game with 5 questions that keeps track of the player's score. Output the score either after each answer or at the end.</li>
-               <li> Create a second program and ask the user for two numeric inputs and then output to the webpage the value of those two numbers when added together (show something like 1 + 2 = 3) and then display those two numbers multiplied together (1 * 2 = 2).</li>
-               </ul>
+<p>You will create a simple quiz game of at least 5 questions. You can do this any way you'd like (any sort of input/output method you prefer). Here is where creativity can come into the equation. The minimum requirement is a simple math quiz or trivia question game with 5 questions that keeps track of the player's score. Output the score either after each answer or at the end.</p>
+
+<p> Create a second program and ask the user for two numeric inputs and then output to the webpage the value of those two numbers when added together (show something like 1 + 2 = 3) and then display those two numbers multiplied together (1 * 2 = 2).</p>
