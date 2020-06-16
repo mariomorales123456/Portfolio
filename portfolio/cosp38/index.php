@@ -243,7 +243,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/10.PNG" target="_blank"><img class="img-fluid" src="images/10.PNG" alt="screenshot of practing queries">
+                        <a href="images/10.PNG" target="_blank"><img class="img-fluid" src="images/10.PNG" alt="screenshot of practing queries"></a>
                     </figure>
                 </div>
             </div>   
