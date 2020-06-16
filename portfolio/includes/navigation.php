@@ -7,8 +7,7 @@
         <ul class="navbar-nav mr-auto">
 
             <?php 
-                include('nav_sublinks/cosw10.php'); 
-                include('nav_sublinks/cosw20.php'); 
+                include('nav_sublinks/cosw10_20.php'); 
                 include('nav_sublinks/cosp38.php'); 
                 include('nav_sublinks/cosw200.php');
                 include('nav_sublinks/cosw30.php');  
