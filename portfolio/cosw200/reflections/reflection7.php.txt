@@ -1,0 +1,1 @@
+<p>This was a brief introduction to AJAX and JSON. Cleverly adjusting the html used by the book allowed me to add an entire new category, and by adjusting the JSON file the javascript would recall a whole new database which I created.</p>

@@ -1,0 +1,1 @@
+<p>This assignement was fairly similiar to how Java is coded. It was simply passing parameters to a function and printing it to the document.</p>

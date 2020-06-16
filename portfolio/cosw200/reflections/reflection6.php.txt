@@ -1,0 +1,1 @@
+<p>This assignement also used event listeners to validate form input. Focus/blur were used to remind user of the form rules and to validate as they left the input field. On blur it would check if passwords were the same, as well as password length. There was also a checkbox which had to be checked in order to submit the form, otherwise it would disable the submit button.</p>

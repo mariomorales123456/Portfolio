@@ -1,0 +1,1 @@
+<p>This assignement asked us to build a javascript object, and through the use of the random class pick an array index that would change every time the object function is used.</p>

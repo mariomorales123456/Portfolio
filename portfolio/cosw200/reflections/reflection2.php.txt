@@ -1,0 +1,1 @@
+<p>This assignement involved creating an interactive adventure game based on options chosen by the user. Curating user input allowed the program to decide which if/else tree to follow on a planned storyline.</p>

@@ -1,0 +1,1 @@
+<p>This assignement asked to create a content panel style. I chose the accordion style, and by analyzing the book jQuery I was able to create my own page from it. </p>

@@ -1,0 +1,1 @@
+<p>This is is my first entirely hand-coded project. Previous projects were based loosely on the code provided by the book, but I wanted to try doing it from scratch. It ended up being on of my favorite projects, and helped me solidify my grasp on jQuery.</p>

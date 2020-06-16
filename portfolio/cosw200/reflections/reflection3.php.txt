@@ -1,0 +1,1 @@
+ <p>This assignement used a long phrase input by the user and analyzed it by passing it as a parameter. The functions used if/else statements and built in JS array/string methods.</p>

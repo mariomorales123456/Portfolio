@@ -1,0 +1,1 @@
+<p>This was the first attempt at playing with the DOM. Using event listeners I built in 3 butotns that allowed the user to add items to a list, as well as delete and hightlight at random.</p>

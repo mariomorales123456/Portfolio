@@ -1,0 +1,1 @@
+ <p>The assignement asked to create two pages that would filter and sort HTML img alt data using jQuery. I adjusted the HTML to use the directory provided and changed the alt data descriptors to use 3 words per img. The jQuery would then identify the img tags and sort through the alt data.</p>
