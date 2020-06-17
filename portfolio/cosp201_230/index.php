@@ -135,7 +135,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/cosp201_project4/parismaptour_designer.PNG" target="_blank"><img class="img-fluid" src="images/cosp201_project4/parismaptour_designer.PNG" alt="parismaptour blocks designer"></a>
+                        <a href="images/cosp201_project4/parismaptours_designer.PNG" target="_blank"><img class="img-fluid" src="images/cosp201_project4/parismaptours_designer.PNG" alt="parismaptour blocks designer"></a>
                     </figure>
                 </div>
             </div>
