@@ -7,7 +7,7 @@
         XMl Activities
     </h1>
     <pre class="border-1 rounded ">
-        <?php htmlentities(file_get_contents('activity_date_picker_xml.php')); ?>
+        <?php echo htmlentities(file_get_contents('activity_date_picker_xml.php')); ?>
     </pre>
     <pre>
         <?php include('activity_gridview_xml.php'); ?>
