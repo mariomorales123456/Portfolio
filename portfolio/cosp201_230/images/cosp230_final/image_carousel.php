@@ -1,5 +1,7 @@
-<?php include('../../../includes/head.php'); ?>
+<?php include('/portfolio/includes/head.php'); ?>
 
+
+<div class="raw_code_container">
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -25,13 +27,13 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="final1.PNG" alt="image1 slide">
+      <img class="img-fluid" src="final1.PNG" alt="image1 slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="final2.PNG" alt="image2 slide">
+      <img class="img-fluid" src="final2.PNG" alt="image2 slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="final3.PNG" alt="image3 slide">
+      <img class="img-fluid" src="final3.PNG" alt="image3 slide">
     </div>
         <div class="carousel-item">
       <img class="d-block w-100" src="final4.PNG" alt="image4 slide">
@@ -93,4 +95,5 @@
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
+</div>
 </div>

@@ -1,4 +1,4 @@
-<?php include('../../includes/head.php'); ?>
+<?php include('/portfolio/includes/head.php'); ?>
 
 <!-- //////////////  XML Activities   ///////////////////// -->
 
