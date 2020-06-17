@@ -5,6 +5,14 @@
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <a class="dropdown-item" href="/portfolio/cosp201_230/index.php">Home</a>
         <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="___ABSOLUTE_PATH_____">___NAME___</a>
+            <a class="dropdown-item" href="/portfolio/cosp201_230/index.php#cosp201_project1">Selection</a>
+            <a class="dropdown-item" href="/portfolio/cosp201_230/index.php#cosp201_project1">Event Handlers</a>
+            <a class="dropdown-item" href="/portfolio/cosp201_230/index.php#cosp201_project1">Responsive Images</a>
+            <a class="dropdown-item" href="/portfolio/cosp201_230/index.php#cosp201_project1">Listpicker &amp; Webviewer</a>
+            <a class="dropdown-item" href="/portfolio/cosp201_230/index.php#cosp201_project1">Else &amp; If</a>
+            <a class="dropdown-item" href="/portfolio/cosp201_230/index.php#cosp201_project1">GPS Location</a>
+            <a class="dropdown-item" href="/portfolio/cosp201_230/index.php#cosp201_project1">Procedures &amp; Actions</a>
+            <a class="dropdown-item" href="/portfolio/cosp201_230/index.php#cosp201_final">Counters</a>
+            <a class="dropdown-item" href="/portfolio/cosp201_230/index.php#cosp230_final">5-Page Java Android App</a>
         </div>
       </li>
