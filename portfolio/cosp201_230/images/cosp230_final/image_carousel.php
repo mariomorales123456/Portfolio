@@ -1,6 +1,6 @@
 <?php include('../../../includes/head.php'); ?>
 
-<body class="bg-info">
+<body class="bg-info text-center">
 <div>
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
