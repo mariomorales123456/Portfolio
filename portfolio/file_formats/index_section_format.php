@@ -14,7 +14,7 @@
             <div class="row preview">     <!--/* image container*/ -->
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
-                    <figure>
+                    <figure class="text-center">
                         <a href="__INSERT_IMAGE_HERE__" target="_blank"><img class="img-fluid" src="__INSERT_IMAGE_HERE_" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
