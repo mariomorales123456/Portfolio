@@ -27,13 +27,13 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="img-fluid" src="final1.PNG" alt="image1 slide">
+      <img class="d-block w-100" src="final1.PNG" alt="image1 slide">
     </div>
     <div class="carousel-item">
-      <img class="img-fluid" src="final2.PNG" alt="image2 slide">
+      <img class="d-block w-100" src="final2.PNG" alt="image2 slide">
     </div>
     <div class="carousel-item">
-      <img class="img-fluid" src="final3.PNG" alt="image3 slide">
+      <img class="d-block w-100" src="final3.PNG" alt="image3 slide">
     </div>
         <div class="carousel-item">
       <img class="d-block w-100" src="final4.PNG" alt="image4 slide">

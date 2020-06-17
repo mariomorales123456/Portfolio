@@ -6,12 +6,9 @@
 <h1 class="text-center">
     XMl Activities
 </h1>
-</div>
 
 <div class="raw_code_container">
-<pre>
     <?php include('activity_date_picker_xml.php'); ?>
-</pre>
 </div>
 
 <div class="raw_code_container">
@@ -40,11 +37,9 @@
 
 <!-- //////////////  XML Utilities   ///////////////////// -->
 
-<div class="raw_code_container">
 <h1 class="text-center">
     XMl Utilities
 </h1>
-</div>
 
 <div class="raw_code_container">
 <pre>
@@ -66,11 +61,9 @@
 
 <!-- //////////////  Java   ///////////////////// -->
 
-<div class="raw_code_container">
 <h1 class="text-center">
     Java code
 </h1>
-</div>
 
 <div class="raw_code_container">
 <pre>
@@ -100,4 +93,5 @@
 <pre>
     <?php include('splash_activity_java.php'); ?>
 </pre>
+</div>
 </div>
