@@ -6,19 +6,19 @@
     <h1 class="text-center">
         XMl Activities
     </h1>
-    <pre lang="xml" class="border-1 rounded ">
-        {{<?php include('activity_date_picker_xml.php'); ?>}}
+    <pre class="border-1 rounded ">
+        <?php htmlentities(file_get_contents('activity_date_picker_xml.php')); ?>
     </pre>
-    <pre lang="xml">
+    <pre>
         <?php include('activity_gridview_xml.php'); ?>
     </pre>
-    <pre lang="xml">
+    <pre>
         <?php include('activity_main_xml.php'); ?>
     </pre>
-    <pre lang="xml">
+    <pre>
         <?php include('activity_radio_timer_play_pause_xml.php'); ?>
     </pre>
-    <pre lang="xml">
+    <pre>
         <?php include('splash_activit_.xml.php'); ?>
     </pre>
 
@@ -27,13 +27,13 @@
     <h1 class="text-center">
         XMl Utilities
     </h1>
-    <pre lang="xml">
+    <pre>
         <?php include('colors_xml.php'); ?>
     </pre>
-    <pre lang="xml">
+    <pre>
         <?php include('strings_xml.php'); ?>
     </pre>
-    <pre lang="xml">
+    <pre>
         <?php include('styles_xml.php'); ?>
     </pre>
 
