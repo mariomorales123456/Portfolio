@@ -18,7 +18,7 @@
             <div class="row preview">     <!--/* image container*/ -->
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
-                    <figure>
+                    <figure class="text-center">
                         <a href="images/project1.PNG" target="_blank"><img class="img-fluid" src="images/project1.PNG" alt="project1 code output"></a><figcaption class="text-center">Click <a href="raw_code/project1.php" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
@@ -40,7 +40,7 @@
             <div class="row preview">     <!--/* image container*/ -->
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
-                    <figure>
+                    <figure class="text-center">
                         <a href="images/project2.PNG" target="_blank"><img class="img-fluid" src="images/project2.PNG" alt="project2 code output"></a><figcaption class="text-center">Click <a href="raw_code/project2.php" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
@@ -62,7 +62,7 @@
             <div class="row preview">     <!--/* image container*/ -->
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
-                    <figure>
+                    <figure class="text-center">
                         <a href="images/project3.PNG" target="_blank"><img class="img-fluid" src="images/project3.PNG" alt="project3 code output"></a><figcaption class="text-center">Click <a href="raw_code/project3.php" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
@@ -84,7 +84,7 @@
             <div class="row preview">     <!--/* image container*/ -->
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
-                    <figure>
+                    <figure class="text-center">
                         <a href="images/project4.PNG" target="_blank"><img class="img-fluid" src="images/project4.PNG" alt="project4 code output"></a><figcaption class="text-center">Click <a href="raw_code/project4.php" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
@@ -106,7 +106,7 @@
             <div class="row preview">     <!--/* image container*/ -->
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
-                    <figure>
+                    <figure class="text-center">
                         <a href="images/project5.PNG" target="_blank"><img class="img-fluid" src="images/project5.PNG" alt="projec5 code output"></a><figcaption class="text-center">Click <a href="raw_code/project5.php" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
@@ -128,7 +128,7 @@
             <div class="row preview">     <!--/* image container*/ -->
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
-                    <figure>
+                    <figure class="text-center">
                         <a href="images/project6.PNG" target="_blank"><img class="img-fluid" src="images/project6.PNG" alt="project6 code output"></a><figcaption class="text-center">Click <a href="raw_code/project6.php" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
@@ -150,7 +150,7 @@
             <div class="row preview">     <!--/* image container*/ -->
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
-                    <figure>
+                    <figure class="text-center">
                         <a href="images/project7.JPG" target="_blank"><img class="img-fluid" src="images/project7.JPG" alt="project7 code output"></a><figcaption class="text-center">Click <a href="raw_code/project7.php" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
@@ -172,8 +172,8 @@
             <div class="row preview">     <!--/* image container*/ -->
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
-                    <figure>
-                        <a href="images/project9.JPG" target="_blank"><img class="img-fluid" src="images/project9.JPG" alt="project8 code output"></a><figcaption class="text-center">Click <a href="raw_code/project8.php" target="_blank">here</a> to go to site</figcaption>
+                    <figure class="text-center">
+                        <a href="images/project8.JPG" target="_blank"><img class="img-fluid" src="images/project8.JPG" alt="project8 code output"></a><figcaption class="text-center">Click <a href="raw_code/project8.php" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -194,7 +194,7 @@
             <div class="row preview">     <!--/* image container*/ -->
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
-                    <figure>
+                    <figure class="text-center">
                         <a href="images/project9.PNG" target="_blank"><img class="img-fluid" src="images/project9.PNG" alt="project9 code output"></a><figcaption class="text-center">Click <a href="raw_code/project9.php" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
@@ -216,7 +216,7 @@
             <div class="row preview">     <!--/* image container*/ -->
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
-                    <figure>
+                    <figure class="text-center">
                         <a href="images/project10.PNG" target="_blank"><img class="img-fluid" src="images/project10.PNG" alt="project10 code output"></a><figcaption class="text-center">Click <a href="raw_code/project10.php" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
