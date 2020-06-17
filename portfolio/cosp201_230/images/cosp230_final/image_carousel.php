@@ -1,7 +1,7 @@
+<html class="raw_code_container">
+
 <?php include('../../../includes/head.php'); ?>
 
-
-<div class="raw_code_container">
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -96,6 +96,7 @@
         <span class="sr-only">Next</span>
     </a>
     </div>
-</div>
 
 <?php include('../../../includes/javascript.php'); ?>
+
+</html>

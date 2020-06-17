@@ -2,40 +2,8 @@
 
 <!-- //////////////  XML Activities   ///////////////////// -->
 
-<div class="raw_code_container">
-    <h1 class="text-center">
-        XMl Activities
-    </h1>
-    <pre class="border-1 rounded">
-        <?php include('activity_date_picker_xml.php'); ?>
-    </pre>
-    <pre>
-        <?php include('activity_gridview_xml.php'); ?>
-    </pre>
-    <pre>
-        <?php include('activity_main_xml.php'); ?>
-    </pre>
-    <pre>
-        <?php include('activity_radio_timer_play_pause_xml.php'); ?>
-    </pre>
-    <pre>
-        <?php include('splash_activit_.xml.php'); ?>
-    </pre>
+<html class="raw_code_container">
 
-<!-- //////////////  XML Utilities   ///////////////////// -->
-
-    <h1 class="text-center">
-        XMl Utilities
-    </h1>
-    <pre>
-        <?php include('colors_xml.php'); ?>
-    </pre>
-    <pre>
-        <?php include('strings_xml.php'); ?>
-    </pre>
-    <pre>
-        <?php include('styles_xml.php'); ?>
-    </pre>
 
 <!-- //////////////  Java   ///////////////////// -->
 
