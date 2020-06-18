@@ -10,7 +10,7 @@
 <section id="unix_fundamentals" class="container">
     <div class="row">                                                     
         <div class="col">
-            <h2 class="text-center">unix_fundamentals</h2>  <!-- /*title row*/ -->
+            <h2 class="text-center">UNIX Fundamentals</h2>  <!-- /*title row*/ -->
         </div>
     </div> 
     <div class="row">                                                     <!-- /*content row start*/-->
