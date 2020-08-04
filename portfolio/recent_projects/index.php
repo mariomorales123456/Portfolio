@@ -19,7 +19,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="sdg_project/desktop_component.PNG" target="_blank"><img class="img-fluid" src="sdg_project/desktop_component.PNG" alt="desktop component image"></a><figcaption class="text-center">Click <a href="sdg_package/sdg_project/component.html" target="_blank">here</a> to go to site</figcaption>
+                        <a href="sdg_package/sdg_project/desktop_component.PNG" target="_blank"><img class="img-fluid" src="sdg_package/sdg_project/desktop_component.PNG" alt="desktop component image"></a><figcaption class="text-center">Click <a href="sdg_package/sdg_project/component.html" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
