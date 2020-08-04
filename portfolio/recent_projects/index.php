@@ -19,7 +19,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="__INSERT_IMAGE_HERE__" target="_blank"><img class="img-fluid" src="__INSERT_IMAGE_HERE_" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="sdg_package/sdg_project/component.html" target="_blank">here</a> to go to site</figcaption>
+                        <a href="sdg_project/desktop_component.PNG" target="_blank"><img class="img-fluid" src="sdg_project/desktop_component.PNG" alt="desktop component image"></a><figcaption class="text-center">Click <a href="sdg_package/sdg_project/component.html" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -27,7 +27,7 @@
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
                 <h3 class="text-center">Requirements</h3>  
-                <?php include('sdg_package/README.php'); ?>
+                <?php include('sdg_package/SDG_Code_Test_2018-11/README.php'); ?>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
     </div>                                                                   <!-- /*content row end*/-->
