@@ -1,6 +1,6 @@
 <p class="text-center"> Code Test Instructions</p>
 
-<p class="text-center"><a href="/portfolio/recent_projects/sdg_package/SDG_Code_Test_2018-11/jpgs/images_carousel.php" target="_blank">Sample Images</a>
+<p class="text-center"><a href="/portfolio/recent_projects/sdg_package/SDG_Code_Test_2018-11/jpgs/image_carousel.php" target="_blank">Sample Images</a>
 
 <p>## Overview</p>
 <ul><li>
