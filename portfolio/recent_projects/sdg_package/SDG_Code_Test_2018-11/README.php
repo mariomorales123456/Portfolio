@@ -1,6 +1,6 @@
-<p> Code Test Instructions</p>
+<p class="text-center"> Code Test Instructions</p>
 
-<a href="images_carousel.php" target="_blank">Sample Images</a>
+<p class="text-center"><a href="jpgs/images_carousel.php" target="_blank">Sample Images</a>
 
 <p>## Overview</p>
 <ul><li>
