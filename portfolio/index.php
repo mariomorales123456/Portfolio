@@ -18,7 +18,7 @@
         and menus, and use SASS for modular custom CSS. I use github version control to manage directories and updates. 
         I'm using <a href="gitpod.io" target="_blank">gitpod</a> as my IDE but during school I worked with AWS cloud9. 
         My working branch is hosted on HerokuApp and my master branch is hosted on 000webhostapp. 
-        My plan is to continue to update this portfolio with all the projects I have done during school. 
+        My plan is to continue to update this portfolio with all my projects.
     </p>   
 </section>     
 
