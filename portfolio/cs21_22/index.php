@@ -75,7 +75,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/cs21_project33.PNG" target="_blank"><img class="img-fluid" src="images/cs21_project3.PNG" alt="Arrays"></a><figcaption class="text-center">Click <a href="raw_code/cs21_project3.php" target="_blank">here</a> for raw code</figcaption>
+                        <a href="images/cs21_project3.PNG" target="_blank"><img class="img-fluid" src="images/cs21_project3.PNG" alt="Arrays"></a><figcaption class="text-center">Click <a href="raw_code/cs21_project3.php" target="_blank">here</a> for raw code</figcaption>
                     </figure>
                 </div>
             </div>    
