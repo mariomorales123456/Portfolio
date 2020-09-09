@@ -42,7 +42,7 @@
  <!-- /* Resume */  -->
 <section class="container text-center">
     <h2>Resume</h2>
-    <p><a href="documents/Mario_Morales_Developer_Resume_2020.pdf" target="_blank">Mario Morales Developer Resume 2020</a></p>   
+    <p><a href="documents/Mario_Morales_Developer_Resume_Sept_2020.pdf" target="_blank">Mario Morales Developer Resume 2020</a></p>   
 </section>
 
 <!-- /* Section for active project */ --> 
