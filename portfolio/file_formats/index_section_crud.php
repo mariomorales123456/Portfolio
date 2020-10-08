@@ -1,6 +1,8 @@
 <?php 
 
 function fetchAndPopulateIndex($tableName){
+    
+    include('../../database_connection.php');
 
     $selectAllQuery = "SELECT * FROM $tableName";
 

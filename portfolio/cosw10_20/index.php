@@ -1,5 +1,4 @@
 <?php include('../includes/header.php'); ?>
-<?php include('../../database_connection.php'); ?>
 <?php include('../file_formats/index_section_crud.php'); ?>
       
 <main>
