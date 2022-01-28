@@ -1,5 +1,8 @@
-<nav id="navbar">
+<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top mx-auto" id="navbar">
     <ul class="nav nav-pills">
+        <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="/portfolio/index.php">Home</a>
+        </li>
         <?php 
             include('nav_sublinks/cosw10_20.php'); 
             include('nav_sublinks/cosp38.php'); 
