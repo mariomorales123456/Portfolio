@@ -12,6 +12,7 @@
             include('nav_sublinks/cosn205_215.php');
             include('nav_sublinks/freelance_projects.php');
             include('nav_sublinks/adm_projects.php');
+            include('nav_sublinks/profiles.php');
         ?>
     </ul>
 </nav>
