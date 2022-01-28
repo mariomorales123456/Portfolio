@@ -17,6 +17,7 @@
                 include('nav_sublinks/cs11.php'); 
                 include('nav_sublinks/cosn205_215.php');
                 include('nav_sublinks/recent_projects.php');
+                include('nav_sublinks/adm_projects.php');
             ?>
         </ul>
         <!-- /*
