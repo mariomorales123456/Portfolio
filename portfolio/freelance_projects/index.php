@@ -3,7 +3,7 @@
 <main>
 
 <div class="gradient_title">
-       <h1>Recent Projects</h1>
+       <h1>Freelance Projects</h1>
 </div>
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   

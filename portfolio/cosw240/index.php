@@ -4,7 +4,6 @@
 
 <div class="gradient_title">
        <h1>Intro to Content Management</h1>
-       <h2><a href="https://mariomoralesprojects.000webhostapp.com/" target="_blank">>>Wordpress Website<<</a></h2>
 </div>
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
