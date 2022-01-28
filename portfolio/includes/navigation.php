@@ -4,7 +4,7 @@
     <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
+        <ul class="navbar-nav mr-auto nav nav-tabs">
 
             <?php 
                 include('nav_sublinks/cosw10_20.php'); 
