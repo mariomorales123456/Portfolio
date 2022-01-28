@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top d-flex justify-content-center" id="navbar">
-    <ul class="nav nav-pills" style="color: black !important">
+    <ul class="nav nav-pills">
         <li class="nav-item">
             <a class="nav-link" aria-current="page" href="/portfolio/index.php">Home</a>
         </li>

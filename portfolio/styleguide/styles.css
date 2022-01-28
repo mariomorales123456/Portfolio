@@ -454,6 +454,10 @@ _pagiation.scss
   max-height: 50px;
 }
 
+a {
+  color: black;
+}
+
 /*
 
 examples from school project:
