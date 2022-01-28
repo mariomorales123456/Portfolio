@@ -1,15 +1,13 @@
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle active" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          {UNIX/LINUX}
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="/portfolio/cosn205_215/index.php">Home</a>
-        <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="/portfolio/cosn205_215/index.php#unix_fundamentals">Unix Fundamentals</a>
-            <a class="dropdown-item" href="/portfolio/cosn205_215/index.php#cosn215_project1">Virtual DMZ</a>
-            <a class="dropdown-item" href="/portfolio/cosn205_215/index.php#cosn215_project2">SSH &amp; Apache Web Server</a>
-            <a class="dropdown-item" href="/portfolio/cosn205_215/index.php#cosn215_project3">IDS &amp; Snort</a>
-            <a class="dropdown-item" href="/portfolio/cosn205_215/index.php#cosn215_project4">Pam, GRUB &amp; AppArmor</a>
-            <a class="dropdown-item" href="/portfolio/cosn205_215/index.php#cosn215_project5">File System, Samba, Quotas &amp; Remote Logging</a>
-        </div>
-      </li>
+<li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">{ADM Projects}</a>
+    <ul class="dropdown-menu">
+        <li><a class="dropdown-item" href="/portfolio/cosn205_215/index.php">UNIX/Linux Home</a></li>
+        <li><hr class="dropdown-divider"></li>
+        <li><a class="dropdown-item" href="/portfolio/cosn205_215/index.php#unix_fundamentals">Unix Fundamentals</a></li>
+        <li><a class="dropdown-item" href="/portfolio/cosn205_215/index.php#cosn215_project1">Virtual DMZ</a></li>
+        <li><a class="dropdown-item" href="/portfolio/cosn205_215/index.php#cosn215_project2">SSH &amp; Apache Web Server</a></li>
+        <li><a class="dropdown-item" href="/portfolio/cosn205_215/index.php#cosn215_project3">IDS &amp; Snort</a></li>
+        <li><a class="dropdown-item" href="/portfolio/cosn205_215/index.php#cosn215_project4">Pam, GRUB &amp; AppArmor</a></li>
+        <li><a class="dropdown-item" href="/portfolio/cosn205_215/index.php#cosn215_project5">File System, Samba, Quotas &amp; Remote Logging</a></li>
+    </ul>
+</li>
