@@ -9,33 +9,58 @@
     <h2>Web Development</h2>
 </div>
 
- <!-- /* Section for small intro about myself */  -->
+ <!-- /* Section*/  -->
 <section class="container">
     <h2 class="text-center">About this project</h2>
     <p>
-            This portfolio was made from all the projects I worked on during school. 
-        I've been working with HTML, CSS, PHP and SQL. Currently I'm using Bootstrap for layout
-        and menus, and use SASS for modular custom CSS. I use github version control to manage directories and updates. 
+            This portfolio was made from all the projects I worked on during my web development degree. It will also showcase my work related projects.
+        This project utilizes HTML, CSS, JS &amp; PHP. I attempted to upgrade this project with a database focus but the host deleted my website and database.
+        That being said I am continuing this project without a database for both simplicity of using GitHub as my main storage and to avoid conflicts with hosting. 
+        Currently I'm using Bootstrap for layout and menus, and use SASS for modular custom CSS. I've also added some scripting and PHP for modularize the pages.
+        I use github version control to manage directories and updates. 
         I'm using <a href="gitpod.io" target="_blank">gitpod</a> as my IDE but during school I worked with AWS cloud9. 
-        My working branch is hosted on HerokuApp and my master branch is hosted on 000webhostapp. 
+        My working & master branch is now HerokuApp. I would FTP my master branch on 000webhostapp but since they deleted my account without notice, that website is now gone. 
         My plan is to continue to update this portfolio with all my projects.
     </p>   
 </section>     
 
- <!-- /* Section for small intro about myself */  -->
+<!-- /* Section*/  -->
 <section class="container">
     <h2 class="text-center">About me</h2>
     <p>
-            I am a graduate in web development from Long Beach City College. My programming focus was on full stack website
+            
+    </p>   
+</section>  
+
+ <!-- /* Section */  -->
+ <section class="container">
+    <h2 class="text-center">Work Experience Summary</h2>
+    <p>
+        2021-Present: Web Developer for ADM Inc Vernon - CA.
+        2020-2021: Veterinary Technician for Thrive Animal Hospital Lakewood - CA.
+        <br>
+        2014-2018: Veterinary Techncian for Banfield Animal Hospital Torrance - CA, Banfield Animal Hospital Downey - CA, and later Animal Emergency Medical Center Torrance - CA.
+        2009-2011: Registered Tax Preparer for Money Management LLC Long Beach - CA.
+    </p>   
+</section>   
+
+ <!-- /* Section*/  -->
+<section class="container">
+    <h2 class="text-center">Education Summary</h2>
+    <p>
+            I graduated from Long Beach City College with an <strong>Associates in Web Development</strong>. My programming focus was on full stack website
         development. I have experience with HTML, CSS, JavaScript, PHP and MySQL. I've used the frameworks SASS, jQuery,
         and Bootstrap. I am familiar with linux command line and several linux distributions.  I have experience in Android
         development using Java in <a href="https://developer.android.com/studio" target="_blank">Android Studio</a>. I studied
-        introductory Java &amp; Data Structures and Algorithms using the IDE BlueJ. My goal right now is to work in
-        Full Stack Web Development or Back End Web Development. In the future I'd like to use Java as a main language.<br>
+        introductory Java &amp; Data Structures and Algorithms using the IDE <a href="https://www.bluej.org/" target="_blank">BlueJ</a>.
         <br>
-            Before my web development career I completed a Bachelors in Animal Health Sciences at CSU Pomona in 2014. I worked 
-        in the veterinary field as a technician for four years. My main job duties were surgical assisting, preventive care, 
-        and emergency care. I've always worked with computers in my spare time and in 2018 decided to seek out a programming career.
+        <br>
+            Before my web development career I completed a <strong>Bachelors in Animal Health Sciences</strong> at <a href="https://www.cpp.edu/" target="_blank">Cal Poly Pomona</a> in 2014. 
+        My focus of the proram was both small animal nursing and preparation for the california veterinary technician certification exam. 
+        <br>
+        <br>
+            I also have an <strong>Associates in Biology</strong> from Long Beach City College. It was part of my undergrad while gaining transfer credits to 
+        gain entrance in to Cal Poly Pomona. 
     </p>   
 </section> 
 
