@@ -19,29 +19,20 @@
         Currently I'm using Bootstrap for layout and menus, and use SASS for modular custom CSS. I've also added some scripting and PHP for modularize the pages.
         I use github version control to manage directories and updates. 
         I'm using <a href="gitpod.io" target="_blank">gitpod</a> as my IDE but during school I worked with AWS cloud9. 
-        My working & master branch is now HerokuApp. I would FTP my master branch on 000webhostapp but since they deleted my account without notice, that website is now gone. 
+        My only working branch is now HerokuApp. I would FTP my master branch on 000webhostapp but since they deleted my account without notice, that website is now gone. 
         My plan is to continue to update this portfolio with all my projects.
     </p>   
-</section>     
-
-<!-- /* Section*/  -->
-<section class="container">
-    <h2 class="text-center">About me</h2>
-    <p>
-            
-    </p>   
-</section>  
+</section>      
 
  <!-- /* Section */  -->
  <section class="container">
     <h2 class="text-center">Work Experience Summary</h2>
-    <p>
-        2021-Present: Web Developer for ADM Inc Vernon - CA.
-        2020-2021: Veterinary Technician for Thrive Animal Hospital Lakewood - CA.
-        <br>
-        2014-2018: Veterinary Techncian for Banfield Animal Hospital Torrance - CA, Banfield Animal Hospital Downey - CA, and later Animal Emergency Medical Center Torrance - CA.
-        2009-2011: Registered Tax Preparer for Money Management LLC Long Beach - CA.
-    </p>   
+    <ul>
+        <li>2021-Present: Web Developer for ADM Inc Vernon - CA.</li>
+        <li>2020-2021: Veterinary Technician for Thrive Animal Hospital Lakewood - CA.</li>
+        <li>2014-2018: Veterinary Techncian for Banfield Animal Hospital Torrance - CA, Banfield Animal Hospital Downey - CA, and later Animal Emergency Medical Center Torrance - CA.</li>
+        <li>2009-2011: Registered Tax Preparer for Money Management LLC Long Beach - CA.</li>
+    </ul>   
 </section>   
 
  <!-- /* Section*/  -->
@@ -56,11 +47,10 @@
         <br>
         <br>
             Before my web development career I completed a <strong>Bachelors in Animal Health Sciences</strong> at <a href="https://www.cpp.edu/" target="_blank">Cal Poly Pomona</a> in 2014. 
-        My focus of the proram was both small animal nursing and preparation for the california veterinary technician certification exam. 
+        The focus of the program was small animal nursing and preparation for the california veterinary technician certification exam. 
         <br>
         <br>
-            I also have an <strong>Associates in Biology</strong> from Long Beach City College. It was part of my undergrad while gaining transfer credits to 
-        gain entrance in to Cal Poly Pomona. 
+            I also have an <strong>Associates in Biology</strong> from Long Beach City College.
     </p>   
 </section> 
 
