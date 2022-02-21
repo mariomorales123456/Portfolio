@@ -61,6 +61,7 @@
 </section>
 
 <!-- /* Section for active project */ --> 
+<!-- My 000webhostapp was closed randomly so no need for this
 <section class="container text-center">
     <h2 class="text-center">Projects</h2>
     <div class="container">
@@ -74,6 +75,7 @@
         </div>
     </div>   
 </section>   
+-->
 
 <!-- /* Section for active profiles */ --> 
 <section class="container text-center">
