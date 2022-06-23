@@ -23,5 +23,13 @@ Android - Not Done yet
 C++ - Not Done yet
 UNIX/LInux - Not Done yet
 
+2022:
+
+My web server ended up being deleted (along with the database I had started)
+
+So for the moment being I'll just leave it in HTML. The information output isn't veyr heavy so there's really no need to use a DB other than practice.
+
+Just focusing on backend optimization of images, code and folder structure. Also adding new projects that I've done through my workplace.
+
 */
 ?>
