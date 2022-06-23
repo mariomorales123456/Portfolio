@@ -18,7 +18,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/cosw10_final_project.PNG" target="_blank"><img class="img-fluid" src="images/cosw10_final_project.PNG" alt="cosw10 final project thumbnail"></a><figcaption class="text-center">Click <a href="cosw10_final_project/index.html" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/cosw10_final_project.jpg" target="_blank"><img class="img-fluid" src="images/cosw10_final_project.jpg" alt="cosw10 final project thumbnail"></a><figcaption class="text-center">Click <a href="cosw10_final_project/index.html" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -46,7 +46,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/tribute_page_thumbnail.PNG" target="_blank"><img class="img-fluid" src="images/tribute_page_thumbnail.PNG" alt="tribute page thumbnail"></a><figcaption class="text-center">Click <a href="tribute_page/index.html" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/tribute_page_thumbnail.jpg" target="_blank"><img class="img-fluid" src="images/tribute_page_thumbnail.jpg" alt="tribute page thumbnail"></a><figcaption class="text-center">Click <a href="tribute_page/index.html" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -74,7 +74,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/landing_page_thumbnail.PNG" target="_blank"><img class="img-fluid" src="images/landing_page_thumbnail.PNG" alt="landing page thumbnail"></a><figcaption class="text-center">Click <a href="landing_page/index.html" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/landing_page_thumbnail.jpg" target="_blank"><img class="img-fluid" src="images/landing_page_thumbnail.jpg" alt="landing page thumbnail"></a><figcaption class="text-center">Click <a href="landing_page/index.html" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -102,7 +102,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/survey_form_thumbnail.PNG" target="_blank"><img class="img-fluid" src="images/survey_form_thumbnail.PNG" alt="survey form thumbnail"></a><figcaption class="text-center">Click <a href="survey_form/index.html" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/survey_form_thumbnail.jpg" target="_blank"><img class="img-fluid" src="images/survey_form_thumbnail.jpg" alt="survey form thumbnail"></a><figcaption class="text-center">Click <a href="survey_form/index.html" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -130,7 +130,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/technical_document.PNG" target="_blank"><img class="img-fluid" src="images/technical_document.PNG" alt="technical document thumbnail"></a><figcaption class="text-center">Click <a href="technical_document/index.html" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/technical_document.jpg" target="_blank"><img class="img-fluid" src="images/technical_document.jpg" alt="technical document thumbnail"></a><figcaption class="text-center">Click <a href="technical_document/index.html" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -158,7 +158,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/bootstrap_project_thumbnail.PNG" target="_blank"><img class="img-fluid" src="images/bootstrap_project_thumbnail.PNG" alt="bootstrap project page thumbnail"></a><figcaption class="text-center">Click <a href="bootstrap_project/index.html" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/bootstrap_project_thumbnail.jpg" target="_blank"><img class="img-fluid" src="images/bootstrap_project_thumbnail.jpg" alt="bootstrap project page thumbnail"></a><figcaption class="text-center">Click <a href="bootstrap_project/index.html" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    

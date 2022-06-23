@@ -19,7 +19,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/cosp201_project1/hellopurr_blocks.PNG" target="_blank"><img class="img-fluid" src="images/cosp201_project1/hellopurr_blocks.PNG" alt="hellopurr blocks image"></a>
+                        <a href="images/cosp201_project1/hellopurr_blocks.jpg" target="_blank"><img class="img-fluid" src="images/cosp201_project1/hellopurr_blocks.jpg" alt="hellopurr blocks image"></a>
                     </figure>
                 </div>
             </div>    
@@ -27,7 +27,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/cosp201_project1/hellopurr_designer.PNG" target="_blank"><img class="img-fluid" src="images/cosp201_project1/hellopurr_designer.PNG" alt="hellopurr blocks designer"></a>
+                        <a href="images/cosp201_project1/hellopurr_designer.jpg" target="_blank"><img class="img-fluid" src="images/cosp201_project1/hellopurr_designer.jpg" alt="hellopurr blocks designer"></a>
                     </figure>
                 </div>
             </div>
@@ -55,7 +55,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/cosp201_project2/paintpot_blocks.PNG" target="_blank"><img class="img-fluid" src="images/cosp201_project2/paintpot_blocks.PNG" alt="paintpot blocks image"></a>
+                        <a href="images/cosp201_project2/paintpot_blocks.jpg" target="_blank"><img class="img-fluid" src="images/cosp201_project2/paintpot_blocks.jpg" alt="paintpot blocks image"></a>
                     </figure>
                 </div>
             </div>    
@@ -63,7 +63,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/cosp201_project2/paintpot_designer.PNG" target="_blank"><img class="img-fluid" src="images/cosp201_project2/paintpot_designer.PNG" alt="paintpot blocks designer"></a>
+                        <a href="images/cosp201_project2/paintpot_designer.jpg" target="_blank"><img class="img-fluid" src="images/cosp201_project2/paintpot_designer.jpg" alt="paintpot blocks designer"></a>
                     </figure>
                 </div>
             </div>
@@ -91,7 +91,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/cosp201_project3/molemash_blocks.PNG" target="_blank"><img class="img-fluid" src="images/cosp201_project3/molemash_blocks.PNG" alt="molemash blocks image"></a>
+                        <a href="images/cosp201_project3/molemash_blocks.jpg" target="_blank"><img class="img-fluid" src="images/cosp201_project3/molemash_blocks.jpg" alt="molemash blocks image"></a>
                     </figure>
                 </div>
             </div>    
@@ -99,7 +99,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/cosp201_project3/molemash_designer.PNG" target="_blank"><img class="img-fluid" src="images/cosp201_project3/molemash_designer.PNG" alt="molemash blocks designer"></a>
+                        <a href="images/cosp201_project3/molemash_designer.jpg" target="_blank"><img class="img-fluid" src="images/cosp201_project3/molemash_designer.jpg" alt="molemash blocks designer"></a>
                     </figure>
                 </div>
             </div>
@@ -127,7 +127,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/cosp201_project4/parismaptour_blocks.PNG" target="_blank"><img class="img-fluid" src="images/cosp201_project4/parismaptour_blocks.PNG" alt="parismaptour blocks image"></a>
+                        <a href="images/cosp201_project4/parismaptour_blocks.jpg" target="_blank"><img class="img-fluid" src="images/cosp201_project4/parismaptour_blocks.jpg" alt="parismaptour blocks image"></a>
                     </figure>
                 </div>
             </div>    
@@ -135,7 +135,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/cosp201_project4/parismaptours_designer.PNG" target="_blank"><img class="img-fluid" src="images/cosp201_project4/parismaptours_designer.PNG" alt="parismaptour blocks designer"></a>
+                        <a href="images/cosp201_project4/parismaptours_designer.jpg" target="_blank"><img class="img-fluid" src="images/cosp201_project4/parismaptours_designer.jpg" alt="parismaptour blocks designer"></a>
                     </figure>
                 </div>
             </div>
@@ -163,7 +163,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/cosp201_project5/presidentquiz_blocks.PNG" target="_blank"><img class="img-fluid" src="images/cosp201_project5/presidentquiz_blocks.PNG" alt="presidentquiz blocks image"></a>
+                        <a href="images/cosp201_project5/presidentquiz_blocks.jpg" target="_blank"><img class="img-fluid" src="images/cosp201_project5/presidentquiz_blocks.jpg" alt="presidentquiz blocks image"></a>
                     </figure>
                 </div>
             </div>    
@@ -171,7 +171,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/cosp201_project5/presidentquiz_designer.PNG" target="_blank"><img class="img-fluid" src="images/cosp201_project5/presidentquiz_designer.PNG" alt="presidentquiz blocks designer"></a>
+                        <a href="images/cosp201_project5/presidentquiz_designer.jpg" target="_blank"><img class="img-fluid" src="images/cosp201_project5/presidentquiz_designer.jpg" alt="presidentquiz blocks designer"></a>
                     </figure>
                 </div>
             </div>
@@ -199,7 +199,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/cosp201_project6/androidwhere_blocks.PNG" target="_blank"><img class="img-fluid" src="images/cosp201_project6/androidwhere_blocks.PNG" alt="androidwhere blocks image"></a>
+                        <a href="images/cosp201_project6/androidwhere_blocks.jpg" target="_blank"><img class="img-fluid" src="images/cosp201_project6/androidwhere_blocks.jpg" alt="androidwhere blocks image"></a>
                     </figure>
                 </div>
             </div>    
@@ -207,7 +207,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/cosp201_project6/androidwhere_designer.PNG" target="_blank"><img class="img-fluid" src="images/cosp201_project6/androidwhere_designer.PNG" alt="androidwhere blocks designer"></a>
+                        <a href="images/cosp201_project6/androidwhere_designer.jpg" target="_blank"><img class="img-fluid" src="images/cosp201_project6/androidwhere_designer.jpg" alt="androidwhere blocks designer"></a>
                     </figure>
                 </div>
             </div>
@@ -235,7 +235,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/cosp201_project7/xylophone_blocks.PNG" target="_blank"><img class="img-fluid" src="images/cosp201_project7/xylophone_blocks.PNG" alt="xylophone blocks image"></a>
+                        <a href="images/cosp201_project7/xylophone_blocks.jpg" target="_blank"><img class="img-fluid" src="images/cosp201_project7/xylophone_blocks.jpg" alt="xylophone blocks image"></a>
                     </figure>
                 </div>
             </div>    
@@ -243,7 +243,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/cosp201_project7/xylophone_designer.PNG" target="_blank"><img class="img-fluid" src="images/cosp201_project7/xylophone_designer.PNG" alt="xylophone blocks designer"></a>
+                        <a href="images/cosp201_project7/xylophone_designer.jpg" target="_blank"><img class="img-fluid" src="images/cosp201_project7/xylophone_designer.jpg" alt="xylophone blocks designer"></a>
                     </figure>
                 </div>
             </div>
@@ -271,7 +271,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/cosp201_final/caloriecounter_blocks.PNG" target="_blank"><img class="img-fluid" src="images/cosp201_final/caloriecounter_blocks.PNG" alt="caloriecounter blocks image"></a>
+                        <a href="images/cosp201_final/caloriecounter_blocks.jpg" target="_blank"><img class="img-fluid" src="images/cosp201_final/caloriecounter_blocks.jpg" alt="caloriecounter blocks image"></a>
                     </figure>
                 </div>
             </div>    
@@ -279,7 +279,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/cosp201_final/caloriecounter_designer.PNG" target="_blank"><img class="img-fluid" src="images/cosp201_final/caloriecounter_designer.PNG" alt="caloriecounter blocks designer"></a>
+                        <a href="images/cosp201_final/caloriecounter_designer.jpg" target="_blank"><img class="img-fluid" src="images/cosp201_final/caloriecounter_designer.jpg" alt="caloriecounter blocks designer"></a>
                     </figure>
                 </div>
             </div>
@@ -307,7 +307,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/cosp230_final/image_carousel.php" target="_blank"><img class="img-fluid" src="images/cosp230_final/final1.PNG" alt="first image of final project"></a><figcaption class="text-center">Click <a href="cosp230_raw_code/week12_final/index.php" target="_blank">here</a> to see raw code.</figcaption>
+                        <a href="images/cosp230_final/image_carousel.php" target="_blank"><img class="img-fluid" src="images/cosp230_final/final1.jpg" alt="first image of final project"></a><figcaption class="text-center">Click <a href="cosp230_raw_code/week12_final/index.php" target="_blank">here</a> to see raw code.</figcaption>
                     </figure>
                 </div>
             </div>    

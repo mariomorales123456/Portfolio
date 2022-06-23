@@ -19,7 +19,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/cosn205_final.PNG" target="_blank"><img class="img-fluid" src="images/cosn205_final.jpg" alt="first page of cosn205 final pdf"></a><figcaption class="text-center">Click <a href="pdfs/cosn205_final.pdf" target="_blank">here</a> to see PDF file</figcaption>
+                        <a href="images/cosn205_final.jpg" target="_blank"><img class="img-fluid" src="images/cosn205_final.jpg" alt="first page of cosn205 final pdf"></a><figcaption class="text-center">Click <a href="pdfs/cosn205_final.pdf" target="_blank">here</a> to see PDF file</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -41,7 +41,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/cosn215_project1.PNG" target="_blank"><img class="img-fluid" src="images/cosn215_project1.jpg" alt="first page of cosn215 project 1 pdf"></a><figcaption class="text-center">Click <a href="pdfs/cosn215_project1.pdf" target="_blank">here</a> to see PDF file</figcaption>
+                        <a href="images/cosn215_project1.jpg" target="_blank"><img class="img-fluid" src="images/cosn215_project1.jpg" alt="first page of cosn215 project 1 pdf"></a><figcaption class="text-center">Click <a href="pdfs/cosn215_project1.pdf" target="_blank">here</a> to see PDF file</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -63,7 +63,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/cosn215_project2.PNG" target="_blank"><img class="img-fluid" src="images/cosn215_project2.jpg" alt="first page of cosn215 project 2 pdf"></a><figcaption class="text-center">Click <a href="pdfs/cosn215_project2.pdf" target="_blank">here</a> to see PDF file</figcaption>
+                        <a href="images/cosn215_project2.jpg" target="_blank"><img class="img-fluid" src="images/cosn215_project2.jpg" alt="first page of cosn215 project 2 pdf"></a><figcaption class="text-center">Click <a href="pdfs/cosn215_project2.pdf" target="_blank">here</a> to see PDF file</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -85,7 +85,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/cosn215_project3.PNG" target="_blank"><img class="img-fluid" src="images/cosn215_project3.PNG" alt="first page of cosn215 project 3 pdf"></a><figcaption class="text-center">Click <a href="pdfs/cosn215_project3.pdf" target="_blank">here</a> to see PDF file</figcaption>
+                        <a href="images/cosn215_project3.jpg" target="_blank"><img class="img-fluid" src="images/cosn215_project3.jpg" alt="first page of cosn215 project 3 pdf"></a><figcaption class="text-center">Click <a href="pdfs/cosn215_project3.pdf" target="_blank">here</a> to see PDF file</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -107,7 +107,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/cosn215_project4.PNG" target="_blank"><img class="img-fluid" src="images/cosn215_project4.jpg" alt="first page of cosn215 project 4 pdf"></a><figcaption class="text-center">Click <a href="pdfs/cosn215_project4.pdf" target="_blank">here</a> to see PDF file</figcaption>
+                        <a href="images/cosn215_project4.jpg" target="_blank"><img class="img-fluid" src="images/cosn215_project4.jpg" alt="first page of cosn215 project 4 pdf"></a><figcaption class="text-center">Click <a href="pdfs/cosn215_project4.pdf" target="_blank">here</a> to see PDF file</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -129,7 +129,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/cosn215_project5.PNG" target="_blank"><img class="img-fluid" src="images/cosn215_project5.jpg" alt="first page of cosn215 project 5 pdf"></a><figcaption class="text-center">Click <a href="pdfs/cosn215_project5.pdf" target="_blank">here</a> to see PDF file</figcaption>
+                        <a href="images/cosn215_project5.jpg" target="_blank"><img class="img-fluid" src="images/cosn215_project5.jpg" alt="first page of cosn215 project 5 pdf"></a><figcaption class="text-center">Click <a href="pdfs/cosn215_project5.pdf" target="_blank">here</a> to see PDF file</figcaption>
                     </figure>
                 </div>
             </div>    
