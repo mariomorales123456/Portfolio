@@ -19,7 +19,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/week1.PNG" target="_blank"><img class="img-fluid" src="images/week1.PNG" alt="Wordpress Setup & Posts"></a>
+                        <a href="images/week1.jpg" target="_blank"><img class="img-fluid" src="images/week1.jpg" alt="Wordpress Setup & Posts"></a>
                     </figure>
                 </div>
             </div>  
@@ -47,7 +47,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/week2.PNG" target="_blank"><img class="img-fluid" src="images/week2.PNG" alt="Categories, Tags, Pages and Navigation"></a>
+                        <a href="images/week2.jpg" target="_blank"><img class="img-fluid" src="images/week2.jpg" alt="Categories, Tags, Pages and Navigation"></a>
                     </figure>
                 </div>
             </div> 
@@ -75,7 +75,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/week3.PNG" target="_blank"><img class="img-fluid" src="images/week3.PNG" alt="Wordpress Themes"></a>
+                        <a href="images/week3.jpg" target="_blank"><img class="img-fluid" src="images/week3.jpg" alt="Wordpress Themes"></a>
                     </figure>
                 </div>
             </div>   
@@ -103,7 +103,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/week4.PNG" target="_blank"><img class="img-fluid" src="images/week4.PNG" alt="Wordpress Plugins"></a>
+                        <a href="images/week4.jpg" target="_blank"><img class="img-fluid" src="images/week4.jpg" alt="Wordpress Plugins"></a>
                     </figure>
                 </div>
             </div>   
@@ -131,7 +131,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/week5.PNG" target="_blank"><img class="img-fluid" src="images/week5.PNG" alt="Wordpress Users"></a>
+                        <a href="images/week5.jpg" target="_blank"><img class="img-fluid" src="images/week5.jpg" alt="Wordpress Users"></a>
                     </figure>
                 </div>
             </div>  
@@ -159,7 +159,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/week6.PNG" target="_blank"><img class="img-fluid" src="images/week6.PNG" alt="Yoast SEO"></a>
+                        <a href="images/week6.jpg" target="_blank"><img class="img-fluid" src="images/week6.jpg" alt="Yoast SEO"></a>
                     </figure>
                 </div>
             </div>   
@@ -187,7 +187,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/week7.PNG" target="_blank"><img class="img-fluid" src="images/week7.PNG" alt=">ExactMetrics Google Analytics"></a>
+                        <a href="images/week7.jpg" target="_blank"><img class="img-fluid" src="images/week7.jpg" alt=">ExactMetrics Google Analytics"></a>
                     </figure>
                 </div>
             </div>    
@@ -215,7 +215,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/week8.PNG" target="_blank"><img class="img-fluid" src="images/week8.PNG" alt="WordPress Theme Frameworks and Builders"></a>
+                        <a href="images/week8.jpg" target="_blank"><img class="img-fluid" src="images/week8.jpg" alt="WordPress Theme Frameworks and Builders"></a>
                     </figure>
                 </div>
             </div>   
@@ -243,7 +243,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure>
-                        <a href="images/week9.PNG" target="_blank"><img class="img-fluid" src="images/week9.PNG" alt="WooCommerce and BuddyPress"></a>
+                        <a href="images/week9.jpg" target="_blank"><img class="img-fluid" src="images/week9.jpg" alt="WooCommerce and BuddyPress"></a>
                     </figure>
                 </div>
             </div>    
