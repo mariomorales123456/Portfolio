@@ -1,4 +1,4 @@
-<?php include('/Portfolio/portfolio/includes/head.php'); ?>
+<?php include(dirname( $_SERVER[‘DOCUMENT_ROOT’] ) .'/Portfolio/portfolio/includes/head.php'); ?>
 
 <main class="homepage">
 
@@ -174,4 +174,4 @@
 
 </main>
 
-<?php include('/Portfolio/portfolio/includes/foot.php'); ?>
+<?php include(dirname( $_SERVER[‘DOCUMENT_ROOT’] ) .'Portfolio/portfolio/includes/foot.php'); ?>
