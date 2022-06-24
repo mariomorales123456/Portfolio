@@ -1,3 +1,5 @@
+<?php include('variables.php'); ?>
+
 <!DOCTYPE html>
 <html>
 <head>

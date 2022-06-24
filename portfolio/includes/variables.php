@@ -1,0 +1,7 @@
+<?php
+
+
+$rootPath = "/app/portfolio";
+
+
+?>
