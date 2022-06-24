@@ -1,5 +1,5 @@
-<?php include('../includes/header.php'); ?>
-    
+<?php include('/portfolio/includes/head.php'); ?>
+
 <main>
 
 <div class="gradient_title">
@@ -42,7 +42,4 @@
 
 </main>
     
-<?php include('../includes/javascript.php'); ?>
-
-</body>
-</html>
+<?php include('/portfolio/includes/foot.php'); ?>
