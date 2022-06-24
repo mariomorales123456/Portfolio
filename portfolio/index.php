@@ -1,7 +1,7 @@
 <?php include('includes/head.php'); ?>
 
 <main class="homepage">
-
+<!-- Test -->
 <!-- /* Gradient Titled Section */ -->
 <div class="gradient_title">
     <h1 style="font-size: 4em;">Mario Morales</h1>
