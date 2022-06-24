@@ -1,4 +1,4 @@
-<?php include('includes/header.php'); ?>
+<?php include('includes/head.php'); ?>
 
 <main class="homepage">
 
@@ -174,7 +174,4 @@
 
 </main>
 
-<?php include('includes/javascript.php'); ?>
-
-</body>
-</html>
+<?php include('includes/foot.php'); ?>
