@@ -1,5 +1,6 @@
 <?php include(dirname( $_SERVER[‘DOCUMENT_ROOT’] ) .'/Portfolio/portfolio/includes/head.php'); ?>
-
+<?php echo(dirname( $_SERVER[‘DOCUMENT_ROOT’] ) .'/Portfolio/portfolio/includes/head.php'); ?>
+<?php echo(getcwd()); ?>
 <main class="homepage">
 
 <!-- /* Gradient Titled Section */ -->
