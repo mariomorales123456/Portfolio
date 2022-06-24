@@ -1,0 +1,18 @@
+Source: https://sass-lang.com/install
+
+1) New GitPod enviroments will require the installation: Simply type: "npm install -g sass" in to the command line to install the package
+
+2) Translate from SCSS to CSS. (Note: It's important to remember NOT to adjust the styles.css directly, always adjust SCSS files and then compile again)
+
+3) Example: sass source/stylesheets/index.scss build/stylesheets/index.css
+    -In our case we are going to use: 
+    -"sass portfolio/styleguide/styles.scss portfolio/styleguide/styles.css"
+
+
+_____________________________________________________________________________________________________________________________________________________________________
+
+
+tl;dr: copy&paste the next two commands:
+
+-npm install -g sass
+-sass portfolio/styleguide/styles.scss portfolio/styleguide/styles.css
