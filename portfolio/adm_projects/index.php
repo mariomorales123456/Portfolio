@@ -1,4 +1,4 @@
-<?php include( $rootPath . 'includes/head.php'); ?>
+<?php include('/app/portfolio/includes/head.php'); ?>
 
 <?php echo( $rootPath . 'includes/head.php'); ?>
 
