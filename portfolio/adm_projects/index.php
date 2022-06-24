@@ -1,6 +1,6 @@
-<?php include('/app/portfolio/includes/head.php'); ?>
+<?php include('/app/portfolio/global_variables.php'); ?>
 
-<?php echo( $rootPath . 'includes/head.php'); ?>
+<?php include( $rootPath . 'includes/head.php'); ?>
 
 <main>
 

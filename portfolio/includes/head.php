@@ -1,5 +1,3 @@
-<?php include('/app/portfolio/variables.php'); ?>
-
 <!DOCTYPE html>
 <html>
 <head>

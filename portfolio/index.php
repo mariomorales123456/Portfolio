@@ -1,3 +1,5 @@
+<?php include('/app/portfolio/global_variables.php'); ?>
+
 <?php include( $rootPath . 'includes/head.php'); ?>
 
 <main class="homepage">
