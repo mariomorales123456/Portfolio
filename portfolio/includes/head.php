@@ -1,4 +1,4 @@
-<?php include('variables.php'); ?>
+<?php include('/app/portfolio/variables.php'); ?>
 
 <!DOCTYPE html>
 <html>
@@ -24,5 +24,3 @@
 <body>
 
 <?php include('header.php'); ?>
-
-<?php echo(getcwd()); ?>

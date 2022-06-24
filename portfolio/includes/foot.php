@@ -6,4 +6,6 @@
 
 </body>
 
+<?php include('current_directory.php'); ?>
+
 </html>
