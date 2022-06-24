@@ -1,13 +1,13 @@
 <?php
 
 echo '
+<script>
+    $(document).ready(function(){
 
-$(document).ready(function(){
+        console.log("test success");
 
-    console.log("test success");
-
-}
-
+    }
+</script>
 ';
 
 ?>

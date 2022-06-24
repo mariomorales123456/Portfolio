@@ -175,4 +175,4 @@
 
 <?php include('includes/foot.php'); ?>
 
-<?php include('/app/portfolio/includes/test.php'); ?>
+<?php include( $rootPath . 'includes/test.php'); ?>
