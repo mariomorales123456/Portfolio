@@ -1,4 +1,4 @@
-<?php include(dirname( $_SERVER[‘DOCUMENT_ROOT’] ) .'/Portfolio/portfolio/includes/head.php'); ?>
+<?php include('includes/head.php'); ?>
 <?php echo(dirname( $_SERVER[‘DOCUMENT_ROOT’] ) .'/Portfolio/portfolio/includes/head.php'); ?>
 <?php echo(getcwd()); ?>
 <main class="homepage">
@@ -175,4 +175,4 @@
 
 </main>
 
-<?php include(dirname( $_SERVER[‘DOCUMENT_ROOT’] ) .'Portfolio/portfolio/includes/foot.php'); ?>
+<?php include('includes/foot.php'); ?>
