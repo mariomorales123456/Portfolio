@@ -6,7 +6,7 @@ echo '
 
         console.log("test success");
 
-    }
+    });
 </script>
 ';
 
