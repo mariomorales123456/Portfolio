@@ -1,4 +1,4 @@
-<?php include('/portfolio/includes/head.php'); ?>
+<?php include('/Portfolio/portfolio/includes/head.php'); ?>
 
 <main>
 
@@ -42,4 +42,4 @@
 
 </main>
     
-<?php include('/portfolio/includes/foot.php'); ?>
+<?php include('/Portfolio/portfolio/includes/foot.php'); ?>
