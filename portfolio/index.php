@@ -1,4 +1,4 @@
-<?php include('includes/head.php'); ?>
+<?php include( $rootPath . 'includes/head.php'); ?>
 
 <main class="homepage">
 <!-- /* Gradient Titled Section */ -->
@@ -173,6 +173,4 @@
 
 </main>
 
-<?php include('includes/foot.php'); ?>
-
-<?php include( $rootPath . 'includes/test.php'); ?>
+<?php include( $rootPath . 'includes/foot.php'); ?>

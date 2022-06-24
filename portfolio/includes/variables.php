@@ -1,11 +1,14 @@
 <?php
 
 /* testing absolute pathing */
-//function: getcwd(); //result: /app/portfolio //this is the root directory of Heroku servers
+//php function: getcwd(); //result: /app/portfolio //this is the root directory of Heroku servers
 //Right click, copy path on gitpod: /workspace/Portfolio/portfolio/includes/test.php
-//So if we take the $rootPath as a variable
-//$rootPath replaces "/workspace/Portfolio"
-//$rootPath . /portfolio/includes/test.php for absolute path
+//root directory of gitpod is /workspace/Portfolio/portfolio
+//So if we want to absolute path using Heroku servers
+//$rootPath = "/app/portfolio/";
+//$rootPath replaces "/workspace/Portfolio/portfolio"
+//$rootPath . includes/test.php for absolute path on Heroku
+//When switching servers will just have to explore getcwd(); to get root for server, and replace it in the variable $rootPath:
 
 $rootPath = "/app/portfolio/";
 
