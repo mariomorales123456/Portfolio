@@ -1,8 +1,6 @@
 <?php include('includes/head.php'); ?>
-<?php echo(dirname( $_SERVER[‘DOCUMENT_ROOT’] ) .'/Portfolio/portfolio/includes/head.php'); ?>
-<?php echo(getcwd()); ?>
-<main class="homepage">
 
+<main class="homepage">
 <!-- /* Gradient Titled Section */ -->
 <div class="gradient_title">
     <h1 style="font-size: 4em;">Mario Morales</h1>
