@@ -1,3 +1,5 @@
+<?php echo( $rootPath . 'includes/head.php'); ?>
+
 <?php include( $rootPath . 'includes/head.php'); ?>
 
 <main>
