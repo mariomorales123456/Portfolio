@@ -89,4 +89,13 @@ footer {
   border-radius: 1em;
 }
 
+.icon_resize--sm {
+  max-width: 25px;
+  max-height: 25px;
+}
+.icon_resize--med {
+  max-width: 50px;
+  max-height: 50px;
+}
+
 /*# sourceMappingURL=styles.css.map */
