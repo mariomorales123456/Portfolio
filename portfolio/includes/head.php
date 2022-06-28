@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
     
     <!-- /*Custom CSS*/ --> 
-    <link rel="stylesheet" href="/portfolio/styleguide/styles.css">
+    <link rel="stylesheet" href="/portfolio/includes/styleguide/styles.css">
 
     <!-- /* Custom Fonts */ -->
     <link href="https://fonts.googleapis.com/css?family=Bubblegum+Sans|Itim" rel="stylesheet">

@@ -1,0 +1,65 @@
+.courses {
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        /*background-color: azure;*/
+    }
+
+    li {
+        display: block;
+        color: black;
+        text-align: center;
+        padding: 5px 8px 5px 8px;
+        float: center;  
+    }
+}
+
+.gradient_title {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(lightcyan, darkcyan);
+    border-style: solid;
+    border-color: black;
+    border-width: 0 0 3px 0;
+    flex-direction: column;
+}
+
+.homepage {
+    section {
+        padding: 1em;
+    }
+}
+
+.preview, .reflection, .requirements {
+    background-color: lightgray;
+    padding: 0.5em;
+    border-radius: 1em;
+}
+
+.preview, .reflection {
+    margin: 0 0 1em 0.1em; 
+}
+
+.requirements {
+    margin: 0 0 1em 0;
+}
+
+
+.raw_code_container {
+    background: linear-gradient(turquoise, darkturquoise);
+    text-align: center;
+}
+
+.raw_code_container pre {
+    display: inline-block; 
+    text-align: left; 
+    border-style: solid; 
+    border-color: black; 
+    border-width: 1px; 
+    padding: 2em; 
+    border-radius: 1em;
+}

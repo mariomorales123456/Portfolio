@@ -1,0 +1,2 @@
+If not already installed: npm install -g sass
+Once installed: sass portfolio/includes/styleguide/styles.scss portfolio/includes/styleguide/styles.css
