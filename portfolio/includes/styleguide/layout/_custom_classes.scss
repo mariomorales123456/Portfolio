@@ -63,3 +63,14 @@
     padding: 2em; 
     border-radius: 1em;
 }
+
+.icon_resize {
+    &--sm {
+        max-width: 25px;
+        max-height: 25px; 
+    }
+    &--med {
+         max-width: 50px;
+        max-height: 50px; 
+    }
+}
