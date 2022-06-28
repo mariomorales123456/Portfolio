@@ -3,7 +3,7 @@
 <li class="nav-item dropdown">
     <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">{UNIX/Linux}</a>
     <ul class="dropdown-menu">
-        <li><a class="dropdown-item" href="/portfolio/cosn205_215/index.php">UNIX/Linux Home</a></li>
+        <li><a class="dropdown-item" href="<?php echo $root ?>">UNIX/Linux Home</a></li>
         <li><hr class="dropdown-divider"></li>
         <li><a class="dropdown-item" href="<?php echo $root ?>#unix_fundamentals">Unix Fundamentals</a></li>
         <li><a class="dropdown-item" href="<?php echo $root ?>#cosn215_project1">Virtual DMZ</a></li>
