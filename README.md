@@ -14,9 +14,9 @@ DB Building
 DB -> Frontend
 
 -Website that was hosting my DB deleted my account
--I had some functionalities working through queries using PHP but didn't get very in the project
+-I had some functionalities working through queries using PHP but didn't get very far in the project
 -Failure but I did get some practice with DB building and queries
--Since my portfolio is image & code displays, it really doesn't make sense to use a DB anyways, most modern frameworks use server direct URLs for images.
+-Since my portfolio is image & code displays, it doesn't really matter if it comes from a DB. it would be nice to just build project objects through DB queries but thats ok.
 
 2022:
 
