@@ -1,101 +1,19 @@
-/* This is the "root" level of all SCSS files */ /*
+/* Error: "&" may only used at the beginning of a compound selector.
+ *    ,
+ * 79 |     &&--column{
+ *    |      ^
+ *    '
+ *   portfolio/includes/styleguide/layout/_custom_classes.scss 79:6  @import
+ *   portfolio/includes/styleguide/layout/layout.scss 10:9           @import
+ *   portfolio/includes/styleguide/styles.scss 3:9                   root stylesheet */
 
-examples from school project:
-
-_grid.scss
-
-*/
-h1 {
-  font-family: "bubblegum sans", serif;
-  color: darkblue;
-}
-
-h2, h3, em {
-  font-family: "itim", serif;
-  padding: 0.5em 0;
-}
-
-main {
-  background-color: darkcyan;
-}
-
-section {
-  background-color: whitesmoke;
-  border-radius: 1em;
-  margin: 1em 0 0 0;
-}
-
-footer {
-  background-color: darkcyan;
-}
-
-.courses ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  /*background-color: azure;*/
-}
-.courses li {
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
   display: block;
-  color: black;
-  text-align: center;
-  padding: 5px 8px 5px 8px;
-  float: center;
-}
-
-.gradient_title {
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background: linear-gradient(lightcyan, darkcyan);
-  border-style: solid;
-  border-color: black;
-  border-width: 0 0 3px 0;
-  flex-direction: column;
-}
-
-.homepage section {
   padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: 'Error: "&" may only used at the beginning of a compound selector.\a    \2577 \a 79 \2502      &&--column{\a    \2502       ^\a    \2575 \a   portfolio/includes/styleguide/layout/_custom_classes.scss 79:6  @import\a   portfolio/includes/styleguide/layout/layout.scss 10:9           @import\a   portfolio/includes/styleguide/styles.scss 3:9                   root stylesheet';
 }
-
-.preview, .reflection, .requirements {
-  background-color: lightgray;
-  padding: 0.5em;
-  border-radius: 1em;
-}
-
-.preview, .reflection {
-  margin: 0 0 1em 0.1em;
-}
-
-.requirements {
-  margin: 0 0 1em 0;
-}
-
-.raw_code_container {
-  background: linear-gradient(turquoise, darkturquoise);
-  text-align: center;
-}
-
-.raw_code_container pre {
-  display: inline-block;
-  text-align: left;
-  border-style: solid;
-  border-color: black;
-  border-width: 1px;
-  padding: 2em;
-  border-radius: 1em;
-}
-
-.icon_resize--sm {
-  max-width: 25px;
-  max-height: 25px;
-}
-.icon_resize--med {
-  max-width: 50px;
-  max-height: 50px;
-}
-
-/*# sourceMappingURL=styles.css.map */

@@ -12,6 +12,7 @@
 
 $rootPath = "/app/portfolio/";
 
+//test function
 function currentDirectory(){
 
     $currentDirectory = getcwd();
