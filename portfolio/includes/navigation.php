@@ -1,3 +1,5 @@
+<?php $root = '/portfolio/projects/' ?>
+
 <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top d-flex justify-content-center" id="navbar">
     <ul class="nav nav-pills">
         <li class="nav-item">
