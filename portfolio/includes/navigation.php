@@ -3,7 +3,7 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light d-flex justify-content-center desktop-tablet-nav full-width" id="navbar">
     <ul class="nav nav-pills">
         <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="/portfolio/index.php">Home</a>
+            <a class="nav-link text-black" aria-current="page" href="/portfolio/index.php">Home</a>
         </li>
         <?php 
             include('nav_sublinks/cosw10_20.php'); 
@@ -28,7 +28,7 @@
             <a class="nav-link" aria-current="page" href="/portfolio/index.php">Home</a>
         </li>
         <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">{Projects}</a>
+            <a class="nav-link dropdown-toggle text-black" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">{Projects}</a>
             <ul class="dropdown-menu">
                 
                 <li><a class="dropdown-item" href="<?php echo $root ?>cosw10_20/html-css-projects.php">HTML/CSS</a></li>

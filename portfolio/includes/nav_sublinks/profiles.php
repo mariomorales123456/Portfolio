@@ -1,5 +1,5 @@
 <li class="nav-item dropdown">
-    <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">{Profiles}</a>
+    <a class="nav-link dropdown-toggle text-black" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">{Profiles}</a>
     <ul class="dropdown-menu">
       <li><a class="dropdown-item" href="https://www.linkedin.com/in/mario-morales-developer/" target="_blank">LinkedIn</a></li>
       <li><hr class="dropdown-divider"></li>
