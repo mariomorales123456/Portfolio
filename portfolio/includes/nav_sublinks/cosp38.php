@@ -3,7 +3,7 @@
 <li class="nav-item dropdown">
     <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">{<span class="hover_underline_animation">SQL</span>}</a>
     <ul class="dropdown-menu">
-      <li><a class="dropdown-item" href="<?php echo $index ?>">SQL Home</a></li>
+      <li><a class="dropdown-item" href="<?php echo $index ?>"><span class="hover_underline_animation">SQL Home</span></a></li>
       <li><hr class="dropdown-divider"></li>
       <li><a class="dropdown-item" href="<?php echo $index ?>#link_1"><span class="hover_underline_animation">Microsoft SQL Install</span></a></li>
       <li><a class="dropdown-item" href="<?php echo $index ?>#link_2"><span class="hover_underline_animation">MySQL Install</span></a></li>
@@ -17,4 +17,4 @@
     </ul>
   </li>
 
-
+  
