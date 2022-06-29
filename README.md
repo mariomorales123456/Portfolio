@@ -20,9 +20,9 @@ DB -> Frontend
 
 2022:
 
-Revise Folder Structure
-Revise Image Sizes
-Revise Mobile Optimization
+Revise Folder Structure //done
+Revise Image Sizes //done
+Revise Mobile Optimization //done
 Add current workplace completed projects
 
 -Coming at this with new knowledge & confidence I feel I can improve a lot of the aspects how I built this originally
