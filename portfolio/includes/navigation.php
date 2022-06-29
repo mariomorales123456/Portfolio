@@ -1,7 +1,7 @@
 <?php $root = '/portfolio/projects/' ?>
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light d-flex justify-content-center desktop-tablet-nav full-width" id="navbar">
-    <ul class="nav nav-pills">
+    <ul class="nav nav-pills full-width justify-content-center">
         <li class="nav-item">
             <a class="nav-link" aria-current="page" href="/portfolio/index.php"><span class="hover_underline_animation">Home</span></a>
         </li>
