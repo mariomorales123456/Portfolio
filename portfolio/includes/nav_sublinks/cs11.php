@@ -14,7 +14,7 @@
       <li><a class="dropdown-item" href="<?php echo $index ?>#project7"><span class="hover_underline_animation">Arrays</span></a></li>
       <li><a class="dropdown-item" href="<?php echo $index ?>#project8"><span class="hover_underline_animation">Structs</span></a></li>
       <li><a class="dropdown-item" href="<?php echo $index ?>#project9"><span class="hover_underline_animation">Objects</span></a></li>
-      <li><a class="dropdown-item" href="<?php echo $index ?>#project10"><span class="hover_underline_animation">Complex Methods</span>/a></li>
+      <li><a class="dropdown-item" href="<?php echo $index ?>#project10"><span class="hover_underline_animation">Complex Methods</span></a></li>
     </ul>
   </li>
 
