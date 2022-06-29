@@ -67,16 +67,16 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <p><a href="https://www.linkedin.com/in/mario-morales-developer/" target="_blank"><img src="logos/linkedin_logo.png" alt="linkedin logo" class="icon_resize--med"></a></p>
+                <p><a href="https://www.linkedin.com/in/mario-morales-developer/" target="_blank"><img src="images/linkedin_logo.png" alt="linkedin logo" class="icon_resize--med"></a></p>
             </div>
             <div class="col">
-                <p><a href="https://github.com/mariomorales123456" target="_blank"><img src="logos/github_logo.png" alt="github logo" class="icon_resize--sm"></a></p>
+                <p><a href="https://github.com/mariomorales123456" target="_blank"><img src="images/github_logo.png" alt="github logo" class="icon_resize--sm"></a></p>
             </div>
             <div class="col">
-                <p><a href="https://www.sololearn.com/Profile/10653809" target="_blank"><img src="logos/sololearn_logo.png" alt="sololearn logo" class="icon_resize--sm"></a></p>
+                <p><a href="https://www.sololearn.com/Profile/10653809" target="_blank"><img src="images/sololearn_logo.png" alt="sololearn logo" class="icon_resize--sm"></a></p>
             </div>
             <div class="col">
-                <p><a href="https://www.freecodecamp.org/mario_morales" target="_blank"><img src="logos/freecodecamp_logo.png" alt="freecodecamp logo" class="icon_resize--sm"></a></p>
+                <p><a href="https://www.freecodecamp.org/mario_morales" target="_blank"><img src="images/freecodecamp_logo.png" alt="freecodecamp logo" class="icon_resize--sm"></a></p>
             </div>
         </div>
     </div>   

@@ -1,4 +1,4 @@
-function stickymenu(){
+function stickyMenu(){
 
     var menuElement = $("nav");
 
