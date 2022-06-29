@@ -2,7 +2,7 @@
 
 <?php include('frameworks_js.php'); ?>
 
-<?php include('custom_js.js'); ?>
+<script src="/portfolio/includes/custom_js.js"></script>
 
 </body>
 
