@@ -89,3 +89,14 @@
         align-items: center;
     }
 }
+
+@media only screen and (max-width: 968px){
+    .desktop-tablet-nav{
+        display: none;
+    }
+}
+@media only screen and (max-width: 969px){
+    .mobile-nav{
+        display: none;
+    }
+}

@@ -1,10 +1,4 @@
-/* This is the "root" level of all SCSS files */ /*
-
-examples from school project:
-
-_grid.scss
-
-*/
+/* This is the "root" level of all SCSS files */
 h1 {
   font-family: "bubblegum sans", serif;
   color: darkblue;
@@ -111,6 +105,17 @@ footer {
   flex-direction: row;
   justify-content: center;
   align-items: center;
+}
+
+@media only screen and (max-width: 968px) {
+  .desktop-tablet-nav {
+    display: none;
+  }
+}
+@media only screen and (max-width: 969px) {
+  .mobile-nav {
+    display: none;
+  }
 }
 
 /*# sourceMappingURL=styles.css.map */
