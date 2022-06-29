@@ -1,6 +1,6 @@
 <?php $root = '/portfolio/projects/' ?>
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light d-flex justify-content-center desktop-tablet-nav" id="navbar">
+<nav class="navbar navbar-expand-lg navbar-light bg-light d-flex justify-content-center desktop-tablet-nav full-width" id="navbar">
     <ul class="nav nav-pills">
         <li class="nav-item">
             <a class="nav-link" aria-current="page" href="/portfolio/index.php">Home</a>
