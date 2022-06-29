@@ -1,4 +1,6 @@
-<?php include('includes/header.php'); ?>
+<?php include('/app/portfolio/global_variables.php'); ?>
+
+<?php include( $rootPath . 'includes/head.php'); ?>
 
 <main>
        
@@ -39,7 +41,4 @@
 
 </main>
 
-<?php include('includes/javascript.php'); ?>
-
-</body>
-</html>
+<?php include( $rootPath . 'includes/foot.php'); ?>

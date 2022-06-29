@@ -1,4 +1,6 @@
-<?php include('../includes/header.php'); ?>
+<?php include('/app/portfolio/global_variables.php'); ?>
+
+<?php include( $rootPath . 'includes/head.php'); ?>
     
 <main>
 
@@ -10,7 +12,4 @@ ____SECTIONS_GO_HERE_______
 
 </main>
     
-<?php include('../includes/javascript.php'); ?>
-
-</body>
-</html>
+<?php include( $rootPath . 'includes/foot.php'); ?>
