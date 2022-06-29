@@ -10,7 +10,7 @@
     <h2>Web Development</h2>
 </div>
 
- <!-- /* Section*/  -->
+ <!-- /* Section */  -->
 <section class="container">
     <h2 class="text-center">About this project</h2>
     <p>
@@ -36,7 +36,7 @@
     </ul>   
 </section>   
 
- <!-- /* Section*/  -->
+ <!-- /* Section */  -->
 <section class="container">
     <h2 class="text-center">Education Summary</h2>
     <p>
@@ -60,23 +60,6 @@
     <h2>Resume</h2>
     <p><a href="documents/resume.pdf" target="_blank">Mario Morales Resume</a></p>   
 </section>
-
-<!-- /* Section for active project */ --> 
-<!-- My 000webhostapp was closed randomly so no need for this
-<section class="container text-center">
-    <h2 class="text-center">Projects</h2>
-    <div class="container">
-        <div class="row">
-            <div class="col">
-                <p><img src="logos/heroku_logo.png" alt="heroku logo" class="icon_resize--sm"><a href="https://mariomoralesportfolio.herokuapp.com/portfolio/index.php" target="_blank">Working Branch</a></p>
-            </div>
-            <div class="col">
-                <p><img src="logos/000webhost_logo.png" alt="000webhost logo" class="icon_resize--med"><a href="https://mariomoralesprojects.000webhostapp.com/home.php" target="_blank">Master Branch</a></p>
-            </div>
-        </div>
-    </div>   
-</section>   
--->
 
 <!-- /* Section for active profiles */ --> 
 <section class="container text-center">
@@ -169,7 +152,7 @@
 <section class="container">
     <h2 class="text-center">Programming Classes</h2>
     <div class="container text-center">
-        <img src="documents/course_history.PNG" alt="screenshot of course history" class="img-fluid">
+        <a href="documents/course_history.PNG" target="_blank"><img src="documents/course_history.PNG" alt="screenshot of course history" class="img-fluid"></a>
     </div>  <!-- /* Container End */ --> 
 </section>
 
