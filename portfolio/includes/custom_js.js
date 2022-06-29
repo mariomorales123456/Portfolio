@@ -1,8 +1,8 @@
 function stickymenu(){
 
-    var menuElement = jQuery("nav");
+    var menuElement = $("nav");
 
-    var windowScrollPosition = jQuery(window);
+    var windowScrollPosition = $(window);
 
     windowScrollPosition.scroll(function () {
         if (windowScrollPosition.scrollTop() > 120) {
