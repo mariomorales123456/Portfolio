@@ -117,5 +117,11 @@ footer {
     display: none !important;
   }
 }
+.sticky_menu {
+  background-color: rgba(248, 249, 250, 0.5019607843) !important;
+  position: fixed;
+  z-index: 1000;
+  top: 0;
+}
 
 /*# sourceMappingURL=styles.css.map */
