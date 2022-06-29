@@ -1,7 +1,7 @@
 <?php $index =  $root . 'cosw200/javascript-jquery-projects.php' ?>
 
 <li class="nav-item dropdown">
-    <a class="nav-link dropdown-toggle text-black" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">{jQuery/JavaScript}</a>
+    <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">{jQuery/JavaScript}</a>
     <ul class="dropdown-menu">
     <li><a class="dropdown-item" href="<?php echo $index ?>">jQuery/JavaScript} Home</a></li>
     <li><hr class="dropdown-divider"></li>

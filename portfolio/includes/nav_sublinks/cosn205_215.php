@@ -1,7 +1,7 @@
 <?php $index =  $root . 'cosn205_215/unix-fundementals-and-linux-networking-and-security.php' ?>
 
 <li class="nav-item dropdown">
-    <a class="nav-link dropdown-toggle text-black" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">{UNIX/Linux}</a>
+    <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">{UNIX/Linux}</a>
     <ul class="dropdown-menu">
         <li><a class="dropdown-item" href="<?php echo $index ?>">UNIX/Linux Home</a></li>
         <li><hr class="dropdown-divider"></li>
