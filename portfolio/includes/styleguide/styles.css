@@ -109,12 +109,12 @@ footer {
 
 @media only screen and (max-width: 968px) {
   .desktop-tablet-nav {
-    display: none;
+    display: none !important;
   }
 }
 @media only screen and (min-width: 969px) {
   .mobile-nav {
-    display: none;
+    display: none !important;
   }
 }
 
