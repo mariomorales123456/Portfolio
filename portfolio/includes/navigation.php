@@ -22,7 +22,7 @@
     </ul>
 </nav>
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top d-flex justify-content-center mobile-nav" id="navbar">
+<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top d-flex justify-content-between mobile-nav" id="navbar">
     <ul class="nav nav-pills">
         <li class="nav-item">
             <a class="nav-link" aria-current="page" href="/portfolio/index.php">Home</a>
@@ -31,17 +31,17 @@
             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">{Projects}</a>
             <ul class="dropdown-menu">
                 
-                <li><a class="dropdown-item" href="<?php echo $index ?>cosw10_20/html-css-projects.php">HTML/CSS</a></li>
-                <li><a class="dropdown-item" href="<?php echo $index ?>cosw200/javascript-jquery-projects.php">SQL</a></li>
-                <li><a class="dropdown-item" href="<?php echo $index ?>cosw200/javascript-jquery-projects.php">jQuery/JavaScript</a></li>
-                <li><a class="dropdown-item" href="<?php echo $index ?>cosw30/php-mysql-projects.php">PHP/MySQL</a></li>
-                <li><a class="dropdown-item" href="<?php echo $index ?>cosw240/wordpress-projects.php">Wordpress</a></li>
-                <li><a class="dropdown-item" href="<?php echo $index ?>cs21_22/java-data-structures-and-algorithms.php">Java</a></li>
-                <li><a class="dropdown-item" href="<?php echo $index ?>cosp201_230/android-development.php">Android</a></li>
-                <li><a class="dropdown-item" href="<?php echo $index ?>cs11/c++-projects.php">C++</a></li>
-                <li><a class="dropdown-item" href="<?php echo $index ?>cosn205_215/unix-fundementals-and-linux-networking-and-security.php">UNIX/Linux</a></li>
-                <li><a class="dropdown-item" href="<?php echo $index ?>freelance/index.php">Freelance</a></li>
-                <li><a class="dropdown-item" href="<?php echo $index ?>adm/index.php">ADM</a></li>
+                <li><a class="dropdown-item" href="<?php echo $root ?>cosw10_20/html-css-projects.php">HTML/CSS</a></li>
+                <li><a class="dropdown-item" href="<?php echo $root ?>cosw200/javascript-jquery-projects.php">SQL</a></li>
+                <li><a class="dropdown-item" href="<?php echo $root ?>cosw200/javascript-jquery-projects.php">jQuery/JavaScript</a></li>
+                <li><a class="dropdown-item" href="<?php echo $root ?>cosw30/php-mysql-projects.php">PHP/MySQL</a></li>
+                <li><a class="dropdown-item" href="<?php echo $root ?>cosw240/wordpress-projects.php">Wordpress</a></li>
+                <li><a class="dropdown-item" href="<?php echo $root ?>cs21_22/java-data-structures-and-algorithms.php">Java</a></li>
+                <li><a class="dropdown-item" href="<?php echo $root ?>cosp201_230/android-development.php">Android</a></li>
+                <li><a class="dropdown-item" href="<?php echo $root ?>cs11/c++-projects.php">C++</a></li>
+                <li><a class="dropdown-item" href="<?php echo $root ?>cosn205_215/unix-fundementals-and-linux-networking-and-security.php">UNIX/Linux</a></li>
+                <li><a class="dropdown-item" href="<?php echo $root ?>freelance/index.php">Freelance</a></li>
+                <li><a class="dropdown-item" href="<?php echo $root ?>adm/index.php">ADM</a></li>
 
             </ul>
         </li>
