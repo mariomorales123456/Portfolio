@@ -25,7 +25,7 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light d-flex mobile-nav full-width" id="navbar">
     <ul class="nav nav-pills full-width justify-content-around">
         <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="/portfolio/index.php">Home</a>
+            <a class="nav-link text-black" aria-current="page" href="/portfolio/index.php">Home</a>
         </li>
         <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle text-black" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">{Projects}</a>
@@ -42,6 +42,7 @@
                 <li><a class="dropdown-item" href="<?php echo $root ?>cosn205_215/unix-fundementals-and-linux-networking-and-security.php">UNIX/Linux</a></li>
                 <li><a class="dropdown-item" href="<?php echo $root ?>freelance/index.php">Freelance</a></li>
                 <li><a class="dropdown-item" href="<?php echo $root ?>adm/index.php">ADM</a></li>
+                <li><a class="dropdown-item" href="<?php echo $root ?>profiles/index.php">Profiles</a></li>
 
             </ul>
         </li>
