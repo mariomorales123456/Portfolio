@@ -1,26 +1,19 @@
-function stickyMenu(){
+function stickymenu(){
 
-    $(window).on("scroll", function(){
-        if( $(window).scrollTop() >= 110) {
-            
-            
-            $("#projectStickyMenu").addClass("sticky");
-        }
+    var menuElement = jQuery("nav");
+
+    var windowScrollPosition = jQuery(window);
+
+    windowScrollPosition.scroll(function () {
+        if (windowScrollPosition.scrollTop() > 120) {
+            menuElement.addClass("sticky_menu");	
+        } 
         else {
-            $("#projectStickyMenu").removeClass("sticky");
+            menuElement.removeClass("sticky_menu");
+
         }
-       
-    })    
-        
-    $("#projectNavList li").click(function(){
-        
-        $("#projectNavList").children(".clicked").removeClass("clicked")
-        $(this).addClass("clicked");
-        
-        
-        
-       
-    })
+    });
+
 
 }
 
@@ -29,7 +22,7 @@ function stickyMenu(){
 $(document).ready(function(){
     
 
-    //stickyMenu(); //using boostrap menu rn
+    stickyMenu();
     
       
     

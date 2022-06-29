@@ -1,6 +1,6 @@
 <?php $root = '/portfolio/projects/' ?>
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top d-flex justify-content-center desktop-tablet-nav" id="navbar">
+<nav class="navbar navbar-expand-lg navbar-light bg-light d-flex justify-content-center desktop-tablet-nav" id="navbar">
     <ul class="nav nav-pills">
         <li class="nav-item">
             <a class="nav-link" aria-current="page" href="/portfolio/index.php">Home</a>
@@ -22,8 +22,8 @@
     </ul>
 </nav>
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top d-flex mobile-nav" id="navbar">
-    <ul class="nav nav-pills justify-content-between">
+<nav class="navbar navbar-expand-lg navbar-light bg-light d-flex mobile-nav" id="navbar">
+    <ul class="nav nav-pills .container-fluid justify-content-between">
         <li class="nav-item">
             <a class="nav-link" aria-current="page" href="/portfolio/index.php">Home</a>
         </li>

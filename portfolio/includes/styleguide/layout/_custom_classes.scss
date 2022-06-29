@@ -100,3 +100,10 @@
         display: none !important;
     }
 }
+
+.sticky_menu {
+    background-color: #f8f9fa80 !important;
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+}
