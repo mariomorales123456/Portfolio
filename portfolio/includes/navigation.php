@@ -22,8 +22,8 @@
     </ul>
 </nav>
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light d-flex mobile-nav" id="navbar">
-    <ul class="nav nav-pills .container-fluid justify-content-between">
+<nav class="navbar navbar-expand-lg navbar-light bg-light d-flex mobile-nav full-width" id="navbar">
+    <ul class="nav nav-pills full-width justify-content-between">
         <li class="nav-item">
             <a class="nav-link" aria-current="page" href="/portfolio/index.php">Home</a>
         </li>

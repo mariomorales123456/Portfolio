@@ -124,4 +124,8 @@ footer {
   top: 0;
 }
 
+.full-width {
+  width: 100% !important;
+}
+
 /*# sourceMappingURL=styles.css.map */
