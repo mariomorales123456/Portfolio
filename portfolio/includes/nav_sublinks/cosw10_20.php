@@ -13,3 +13,5 @@
       <li><a class="dropdown-item" href="<?php echo $index ?>#bootstrap_project">Bootstrap Project</a></li>
     </ul>
   </li>
+
+  <span class="hover_underline_animation">  </span>
