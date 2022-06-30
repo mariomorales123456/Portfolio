@@ -74,6 +74,10 @@ a:hover {
   margin: 0 0 1em 0.1em;
 }
 
+.preview a {
+  text-decoration: underline;
+}
+
 .requirements {
   margin: 0 0 1em 0;
 }
