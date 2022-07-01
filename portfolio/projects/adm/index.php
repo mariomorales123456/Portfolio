@@ -24,7 +24,7 @@
         </div>                                       <!-- /*left column end*/ -->
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
-                <h3 class="text-center">Requirements</h3>  
+                <h3 class="text-center">Details</h3>  
                 <p>Issues with old header:</p>
                 <p><ul>
                     <li>Not centered</li>
@@ -65,7 +65,7 @@
         </div>                                       <!-- /*left column end*/ -->
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
-                <h3 class="text-center">Requirements</h3>  
+                <h3 class="text-center">Details</h3>  
                 <p>Issues:</p>
                 <p><ul>
                     <li>The issue: Visual customers were not exploring the nav menu</li>
@@ -102,7 +102,7 @@
         </div>                                       <!-- /*left column end*/ -->
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
-                <h3 class="text-center">Requirements</h3>  
+                <h3 class="text-center">Details</h3>  
                 <p>Issues:</p>
                 <p><ul>
                     <li>While it worked at one point, the editor updated and hover title is no longer working</li>
@@ -140,7 +140,7 @@
         </div>                                       <!-- /*left column end*/ -->
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
-                <h3 class="text-center">Requirements</h3>  
+                <h3 class="text-center">Details</h3>  
                 <p>Issues:</p>
                 <p><ul>
                     <li>ADM has great reviews on several websites but no advertising for it</li>
@@ -156,6 +156,44 @@
     </div>                                                                   <!-- /*content row end*/-->
 </section>                                                               
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
+
+<!--///////////////////////// SECTION START ///////////////////////////////////-->   
+<section id="image_grid_1" class="container">
+    <div class="row">                                                     
+        <div class="col">
+            <h2 class="text-center">Image Grid 1</h2>  <!-- /*title row*/ -->
+        </div>
+    </div> 
+    <div class="row">                                                     <!-- /*content row start*/-->
+        <div class="col">                          <!-- /*left column start*/ -->
+            <div class="row preview">     <!--/* image container*/ -->
+                <div class="col">
+                    <h3 class="text-center">Preview</h3>  
+                    <figure class="text-center">
+                        <a href="images/front_page_5.jpg" target="_blank"><img class="img-fluid" src="images/front_page_5.jpg" alt="icon grid"></a><figcaption class="text-center">Click <a href="admflooring.com" target="_blank">here</a> to go to site</figcaption>
+                    </figure>
+                </div>
+            </div>    
+        </div>                                       <!-- /*left column end*/ -->
+        <div class="col">                            <!-- /*right column start*/ -->
+            <div class="requirements">
+                <h3 class="text-center">Details</h3>  
+                <p>Issues:</p>
+                <p><ul>
+                    <li>Previous grid was created using raw HTML/CSS and the source images were from other websites</li>
+                </ul></p>
+                <p>Fixes:</p>
+                <p><ul>
+                    <li>Screenshot the icons to use through own server</li>
+                    <li>Use oxygen editor to manage the styling of the grid</li>
+                </ul></p>
+            </div>
+        </div>                                       <!-- /*right column end*/ -->   
+    </div>                                                                   <!-- /*content row end*/-->
+</section>                                                               
+<!--///////////////////////// SECTION END ///////////////////////////////////--> 
+
+
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
 <section id="__________INSERT_ID_HERE_________" class="container">
@@ -177,13 +215,46 @@
         </div>                                       <!-- /*left column end*/ -->
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
-                <h3 class="text-center">Requirements</h3>  
+                <h3 class="text-center">Details</h3>  
                 <p>__INSERT_LIST_HERE__</p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
     </div>                                                                   <!-- /*content row end*/-->
 </section>                                                               
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
+    
+
+
+
+
+<!--///////////////////////// SECTION START ///////////////////////////////////-->   
+<section id="__________INSERT_ID_HERE_________" class="container">
+    <div class="row">                                                     
+        <div class="col">
+            <h2 class="text-center">______INSERT_TITLE_HERE________</h2>  <!-- /*title row*/ -->
+        </div>
+    </div> 
+    <div class="row">                                                     <!-- /*content row start*/-->
+        <div class="col">                          <!-- /*left column start*/ -->
+            <div class="row preview">     <!--/* image container*/ -->
+                <div class="col">
+                    <h3 class="text-center">Preview</h3>  
+                    <figure class="text-center">
+                        <a href="__INSERT_IMAGE_HERE__" target="_blank"><img class="img-fluid" src="__INSERT_IMAGE_HERE_" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                    </figure>
+                </div>
+            </div>    
+        </div>                                       <!-- /*left column end*/ -->
+        <div class="col">                            <!-- /*right column start*/ -->
+            <div class="requirements">
+                <h3 class="text-center">Details</h3>  
+                <p>__INSERT_LIST_HERE__</p>
+            </div>
+        </div>                                       <!-- /*right column end*/ -->   
+    </div>                                                                   <!-- /*content row end*/-->
+</section>                                                               
+<!--///////////////////////// SECTION END ///////////////////////////////////--> 
+    
     
 
 </main>
