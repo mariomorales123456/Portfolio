@@ -80,10 +80,10 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
-<section id="__________INSERT_ID_HERE_________" class="container">
+<section id="superbox" class="container">
     <div class="row">                                                     
         <div class="col">
-            <h2 class="text-center">______INSERT_TITLE_HERE________</h2>  <!-- /*title row*/ -->
+            <h2 class="text-center">Superbox</h2>  <!-- /*title row*/ -->
         </div>
     </div> 
     <div class="row">                                                     <!-- /*content row start*/-->
@@ -92,7 +92,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="__INSERT_IMAGE_HERE__" target="_blank"><img class="img-fluid" src="__INSERT_IMAGE_HERE_" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/front_page_3.jpg" target="_blank"><img class="img-fluid" src="images/front_page_3.jpg" alt="superbox feature"></a><figcaption class="text-center">Click <a href="admflooring.com" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -100,7 +100,17 @@
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
                 <h3 class="text-center">Requirements</h3>  
-                <p>__INSERT_LIST_HERE__</p>
+                <p>Issues:</p>
+                <p><ul>
+                    <li>While it worked at one point, the editor updated and hover title is no longer working</li>
+                </ul></p>
+                <p>Fixes:</p>
+                <p><ul>
+                    <li>The old system was based on hover -> secondary element would z-index to the front of the hovered element</li>
+                    <li>JS script to change z-index with addClass removeClass to change z-index</li>
+                    <li>Only issue is hover effects no longe recognize the hovered element when another z-indexes on top</li>
+                    <li>Changed script to move the z-index up and then wait for leave element to lower the index, firing only once and removing the trigger aftewards so its effectively :hover</li>
+                </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
     </div>                                                                   <!-- /*content row end*/-->
