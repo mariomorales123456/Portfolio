@@ -238,10 +238,10 @@
 
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
-<section id="__________INSERT_ID_HERE_________" class="container">
+<section id="affiliate_program" class="container">
     <div class="row">                                                     
         <div class="col">
-            <h2 class="text-center">______INSERT_TITLE_HERE________</h2>  <!-- /*title row*/ -->
+            <h2 class="text-center">Affiliate Program</h2>  <!-- /*title row*/ -->
         </div>
     </div> 
     <div class="row">                                                     <!-- /*content row start*/-->
@@ -250,7 +250,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="__INSERT_IMAGE_HERE__" target="_blank"><img class="img-fluid" src="__INSERT_IMAGE_HERE_" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/affiliate_program.jpg" target="_blank"><img class="img-fluid" src="images/affiliate_program.jpg" alt="affiliate program image"></a><figcaption class="text-center">Click <a href="admflooring.com/affiliate-links" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -258,7 +258,23 @@
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
                 <h3 class="text-center">Details</h3>  
-                <p>__INSERT_LIST_HERE__</p>
+                <p>Issues:</p>
+                <p><ul>
+                    <li>No backend or frontend for the affiliate program or discounts provided through it</li>
+                </ul></p>
+                <p>Fixes:</p>
+                <p><ul>
+                    <li>First step was to find a plugin for discounts that allowed custom coupons</li>
+                    <li>After finding a pluign for that purpose, there was some backend work for wordpress & woocommerce</li>
+                    <li>Tracking orders by coupons isn't actually stock in woocommerce, you need to use woocommerce order hooks to add to orders </li>
+                    <li>Using certain conditions you can identify a specific coupon, flag it with metadata, and then track that metadata using filters</li>
+                    <li>Using about half a dozen hooks with variables is rather annoying. Passing a variable thhrough several hooks isn't possible.</li>
+                    <li>Optimization workaround was to create a class for these functions, and then create an object with the variables and pass the funtions to the hooks</li>
+                    <li>Tracking orders was possible, so the next step was to find a plugin for a front end of the process</li>
+                    <li>I found a free one with a coupon add-on, and then stylized it so it was more resembling of the website</li>
+                    <li>I then added the affiliate information to the plugin and it was ready</li>
+                    <li>Final link page was created to serve affiliates</li>
+                </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
     </div>                                                                   <!-- /*content row end*/-->
