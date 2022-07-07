@@ -368,10 +368,10 @@
 
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
-<section id="__________INSERT_ID_HERE_________" class="container">
+<section id="image_gallery" class="container">
     <div class="row">                                                     
         <div class="col">
-            <h2 class="text-center">______INSERT_TITLE_HERE________</h2>  <!-- /*title row*/ -->
+            <h2 class="text-center">Image Gallery</h2>  <!-- /*title row*/ -->
         </div>
     </div> 
     <div class="row">                                                     <!-- /*content row start*/-->
@@ -380,7 +380,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="__INSERT_IMAGE_HERE__" target="_blank"><img class="img-fluid" src="__INSERT_IMAGE_HERE_" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/gallery_page.jpg" target="_blank"><img class="img-fluid" src="images/gallery_page.jpg" alt="gallery page image"></a><figcaption class="text-center">Click <a href="admflooring.com/gallery" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -388,7 +388,26 @@
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
                 <h3 class="text-center">Details</h3>  
-                <p>__INSERT_LIST_HERE__</p>
+                <p>Issues:</p>
+                <p><ul>
+                    <li>Gallery page while functional has a problem guiding visitors to the products themselves</li>
+                </ul></p>
+                <p>Fixes:</p>
+                <p><ul>
+                    <li>The first that needed to be solved identification of the flooring being viewed</li>
+                    <li>There is a way to add a caption to each picture, however we are working with a database of thousands of images</li>
+                    <li>Adding captions to each individual image would take weeks so there has to be a workaround</li>
+                    <li>I was at least confident the images were labeled correctly -- so not 358FA1 and instead Vintage White.jpg</li>
+                    <li>So the idea was to build a matrix with the name of each floor and have it search an image title for the correct floor name</li>
+                    <li>Once found we can have attributes in that matrix such as URL, display name, etc</li>
+                    <li>So I built a matrix in JS and each time a user goes to a new image, it searches the name of the picture</li>
+                    <li>Basic but this is where the project hit a snag -- the picture being displayed was one of three in the source html</li>
+                    <li>Logically you'd imagine the middle image element would be the picture being displayed, but that was not the case</li>
+                    <li>There was 3 img elements and it would rotate between the 3 to display the image</li>
+                    <li>I developed an algorithm to track the position of the right URL, so my previous search matrix could identify the picture and label it correctly</li>
+                    <li>A little styling and I could now produce a label and link to the product directly from the gallery page with no backend image labeling</li>
+                    <li>This does have a human dependency to continiously add new flooring names to the matrix and to make sure people label new image uploads correctly</li>
+                </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
     </div>                                                                   <!-- /*content row end*/-->
