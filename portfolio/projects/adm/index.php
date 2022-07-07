@@ -557,10 +557,10 @@
 
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
-<section id="__________INSERT_ID_HERE_________" class="container">
+<section id="product_page_cart_area" class="container">
     <div class="row">                                                     
         <div class="col">
-            <h2 class="text-center">______INSERT_TITLE_HERE________</h2>  <!-- /*title row*/ -->
+            <h2 class="text-center">Product Page Cart Area</h2>  <!-- /*title row*/ -->
         </div>
     </div> 
     <div class="row">                                                     <!-- /*content row start*/-->
@@ -569,7 +569,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="__INSERT_IMAGE_HERE__" target="_blank"><img class="img-fluid" src="__INSERT_IMAGE_HERE_" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/product_page_cart_area.jpg" target="_blank"><img class="img-fluid" src="images/product_page_cart_area.jpg" alt="product page cart area image"></a><figcaption class="text-center">Click <a href="admflooring.com/sea-smoke" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -579,22 +579,31 @@
                 <h3 class="text-center">Details</h3>  
                 <p>Issues:</p>
                 <p><ul>
-                    <li>__TEXT__</li>
+                    <li>This part has being overhauled in several ways</li>
                 </ul></p>
                 <p>Fixes:</p>
                 <p><ul>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
+                    <li>Addeda sqft calculator via JS</li>
+                    <li>PHP call to fill out price descriptions and formulas to create the discounted price</li>
+                    <li>Several ad links to other parts of the website</li>
+                    <li>Uniform template for other products not just flooring (they were all different)</li>
+                    <li>Links that will only show up on certain products based on category</li>
+                    <li>Two JS functions that open the side cart after a product is addded</li>
                 </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
     </div>                                                                   <!-- /*content row end*/-->
 </section>                                                               
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
+
+
+
+
+
+
+
+
+
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
 <section id="__________INSERT_ID_HERE_________" class="container">
