@@ -281,6 +281,92 @@
 </section>                                                               
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
+
+
+
+
+<!--///////////////////////// SECTION START ///////////////////////////////////-->   
+<section id="cookie_bar" class="container">
+    <div class="row">                                                     
+        <div class="col">
+            <h2 class="text-center">Cookie Bar</h2>  <!-- /*title row*/ -->
+        </div>
+    </div> 
+    <div class="row">                                                     <!-- /*content row start*/-->
+        <div class="col">                          <!-- /*left column start*/ -->
+            <div class="row preview">     <!--/* image container*/ -->
+                <div class="col">
+                    <h3 class="text-center">Preview</h3>  
+                    <figure class="text-center">
+                        <a href="images/cookie_accept_bar.jpg" target="_blank"><img class="img-fluid" src="images/cookie_accept_bar.jpg" alt="cookie bar image"></a><figcaption class="text-center">Click <a href="admflooring.com" target="_blank">here</a> to go to site</figcaption>
+                    </figure>
+                </div>
+            </div>    
+        </div>                                       <!-- /*left column end*/ -->
+        <div class="col">                            <!-- /*right column start*/ -->
+            <div class="requirements">
+                <h3 class="text-center">Details</h3>  
+                <p>Issues:</p>
+                <p><ul>
+                    <li>By law there's requirements to have a cookie use notice, which we did nto have.</li>
+                </ul></p>
+                <p>Fixes:</p>
+                <p><ul>
+                    <li>Found a free to use plugin</li>
+                    <li>Adjusted the styles to match the website</li>
+                </ul></p>
+            </div>
+        </div>                                       <!-- /*right column end*/ -->   
+    </div>                                                                   <!-- /*content row end*/-->
+</section>                                                               
+<!--///////////////////////// SECTION END ///////////////////////////////////--> 
+
+
+
+
+
+<!--///////////////////////// SECTION START ///////////////////////////////////-->   
+<section id="all_products_page" class="container">
+    <div class="row">                                                     
+        <div class="col">
+            <h2 class="text-center">All Products Page</h2>  <!-- /*title row*/ -->
+        </div>
+    </div> 
+    <div class="row">                                                     <!-- /*content row start*/-->
+        <div class="col">                          <!-- /*left column start*/ -->
+            <div class="row preview">     <!--/* image container*/ -->
+                <div class="col">
+                    <h3 class="text-center">Preview</h3>  
+                    <figure class="text-center">
+                        <a href="images/all_product_page.jpg" target="_blank"><img class="img-fluid" src="images/all_product_page.jpg" alt="all products image"></a><figcaption class="text-center">Click <a href="admfloorin.com/all-products/" target="_blank">here</a> to go to site</figcaption>
+                    </figure>
+                </div>
+            </div>    
+        </div>                                       <!-- /*left column end*/ -->
+        <div class="col">                            <!-- /*right column start*/ -->
+            <div class="requirements">
+                <h3 class="text-center">Details</h3>  
+                <p>Issues:</p>
+                <p><ul>
+                    <li>There wasn't a general catalog page for every product we sold.</li>
+                </ul></p>
+                <p>Fixes:</p>
+                <p><ul>
+                    <li>Added the gridbuilding catalogs for all our products seperated by type</li>
+                    <li>Now there's a place to just browse everything</li>
+                </ul></p>
+            </div>
+        </div>                                       <!-- /*right column end*/ -->   
+    </div>                                                                   <!-- /*content row end*/-->
+</section>                                                               
+<!--///////////////////////// SECTION END ///////////////////////////////////--> 
+
+
+
+
+
+
+
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
 <section id="__________INSERT_ID_HERE_________" class="container">
     <div class="row">                                                     
