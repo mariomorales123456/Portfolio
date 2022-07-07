@@ -414,6 +414,101 @@
 </section>                                                               
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
+
+
+
+
+
+<!--///////////////////////// SECTION START ///////////////////////////////////-->   
+<section id="installation_gallery" class="container">
+    <div class="row">                                                     
+        <div class="col">
+            <h2 class="text-center">Installation Gallery</h2>  <!-- /*title row*/ -->
+        </div>
+    </div> 
+    <div class="row">                                                     <!-- /*content row start*/-->
+        <div class="col">                          <!-- /*left column start*/ -->
+            <div class="row preview">     <!--/* image container*/ -->
+                <div class="col">
+                    <h3 class="text-center">Preview</h3>  
+                    <figure class="text-center">
+                        <a href="images/installation_gallery.jpg" target="_blank"><img class="img-fluid" src="images/installation_gallery.jpg" alt="installation gallery image"></a><figcaption class="text-center">Click <a href="admflooring.com/installations" target="_blank">here</a> to go to site</figcaption>
+                    </figure>
+                </div>
+            </div>    
+        </div>                                       <!-- /*left column end*/ -->
+        <div class="col">                            <!-- /*right column start*/ -->
+            <div class="requirements">
+                <h3 class="text-center">Details</h3>  
+                <p>Issues:</p>
+                <p><ul>
+                    <li>There is a need to identify which flooring selections have installed photos but there is slow load times on product pages</li>
+                </ul></p>
+                <p>Fixes:</p>
+                <p><ul>
+                    <li>The gallery on product pages has some pictures, but adding every single installtion photo would bog down the page</li>
+                    <li>Lowering quality of photos isn't a good idea since it's our only way to showcase our products</li>
+                    <li>So the plan is to simply seperate the images by index, keeping their high quality</li>
+                    <li>This also has the advantage of allowing a customer to interact with different flooring products not just the one page they wer eon</li>
+                </ul></p>
+            </div>
+        </div>                                       <!-- /*right column end*/ -->   
+    </div>                                                                   <!-- /*content row end*/-->
+</section>                                                               
+<!--///////////////////////// SECTION END ///////////////////////////////////--> 
+
+
+
+
+
+
+<!--///////////////////////// SECTION START ///////////////////////////////////-->   
+<section id="shop_page" class="container">
+    <div class="row">                                                     
+        <div class="col">
+            <h2 class="text-center">Shop Page</h2>  <!-- /*title row*/ -->
+        </div>
+    </div> 
+    <div class="row">                                                     <!-- /*content row start*/-->
+        <div class="col">                          <!-- /*left column start*/ -->
+            <div class="row preview">     <!--/* image container*/ -->
+                <div class="col">
+                    <h3 class="text-center">Preview</h3>  
+                    <figure class="text-center">
+                        <a href="images/shop_page.jpg" target="_blank"><img class="img-fluid" src="images/shop_page.jpg" alt="shop page image"></a><figcaption class="text-center">Click <a href="admflooring.com/flooring-catalog" target="_blank">here</a> to go to site</figcaption>
+                    </figure>
+                </div>
+            </div>    
+        </div>                                       <!-- /*left column end*/ -->
+        <div class="col">                            <!-- /*right column start*/ -->
+            <div class="requirements">
+                <h3 class="text-center">Details</h3>  
+                <p>Issues:</p>
+                <p><ul>
+                    <li>Similiar competitors had a way to compare floorings, I needed to add this function to the website</li>
+                </ul></p>
+                <p>Fixes:</p>
+                <p><ul>
+                    <li>I'm familiar with PHP get/post functions so it's just a matter of gathering data from a selection and passing it to another page</li>
+                    <li>The gridbuilder app that creates these AJAX grids uses wordpress posts, so each of these product showings has all its information if needed</li>
+                    <li>So I went in to the card generator (post information) and added the product ID, set it to hidden thorugh css</li>
+                    <li>Now that information I need is there, I use some script to identify the post that user clicks on, and backtrack all the information and store it</li>
+                    <li>The stored information is kept in an array, and using script users can now remove or add to the array as neccessary</li>
+                    <li>Once the array is ready to go, the user can click launch to send the information to another page</li>
+                    <li>The next page just grabs the ID from the get information and grabs the information from the DB of each of the IDs and displays them</li>
+                </ul></p>
+            </div>
+        </div>                                       <!-- /*right column end*/ -->   
+    </div>                                                                   <!-- /*content row end*/-->
+</section>                                                               
+<!--///////////////////////// SECTION END ///////////////////////////////////--> 
+
+
+
+
+
+
+
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
 <section id="__________INSERT_ID_HERE_________" class="container">
     <div class="row">                                                     
@@ -435,7 +530,19 @@
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
                 <h3 class="text-center">Details</h3>  
-                <p>__INSERT_LIST_HERE__</p>
+                <p>Issues:</p>
+                <p><ul>
+                    <li>__TEXT__</li>
+                </ul></p>
+                <p>Fixes:</p>
+                <p><ul>
+                    <li>__TEXT___</li>
+                    <li>__TEXT___</li>
+                    <li>__TEXT___</li>
+                    <li>__TEXT___</li>
+                    <li>__TEXT___</li>
+                    <li>__TEXT___</li>
+                </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
     </div>                                                                   <!-- /*content row end*/-->
@@ -463,7 +570,59 @@
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
                 <h3 class="text-center">Details</h3>  
-                <p>__INSERT_LIST_HERE__</p>
+                <p>Issues:</p>
+                <p><ul>
+                    <li>__TEXT__</li>
+                </ul></p>
+                <p>Fixes:</p>
+                <p><ul>
+                    <li>__TEXT___</li>
+                    <li>__TEXT___</li>
+                    <li>__TEXT___</li>
+                    <li>__TEXT___</li>
+                    <li>__TEXT___</li>
+                    <li>__TEXT___</li>
+                </ul></p>
+            </div>
+        </div>                                       <!-- /*right column end*/ -->   
+    </div>                                                                   <!-- /*content row end*/-->
+</section>                                                               
+<!--///////////////////////// SECTION END ///////////////////////////////////--> 
+
+<!--///////////////////////// SECTION START ///////////////////////////////////-->   
+<section id="__________INSERT_ID_HERE_________" class="container">
+    <div class="row">                                                     
+        <div class="col">
+            <h2 class="text-center">______INSERT_TITLE_HERE________</h2>  <!-- /*title row*/ -->
+        </div>
+    </div> 
+    <div class="row">                                                     <!-- /*content row start*/-->
+        <div class="col">                          <!-- /*left column start*/ -->
+            <div class="row preview">     <!--/* image container*/ -->
+                <div class="col">
+                    <h3 class="text-center">Preview</h3>  
+                    <figure class="text-center">
+                        <a href="__INSERT_IMAGE_HERE__" target="_blank"><img class="img-fluid" src="__INSERT_IMAGE_HERE_" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                    </figure>
+                </div>
+            </div>    
+        </div>                                       <!-- /*left column end*/ -->
+        <div class="col">                            <!-- /*right column start*/ -->
+            <div class="requirements">
+                <h3 class="text-center">Details</h3>  
+                <p>Issues:</p>
+                <p><ul>
+                    <li>__TEXT__</li>
+                </ul></p>
+                <p>Fixes:</p>
+                <p><ul>
+                    <li>__TEXT___</li>
+                    <li>__TEXT___</li>
+                    <li>__TEXT___</li>
+                    <li>__TEXT___</li>
+                    <li>__TEXT___</li>
+                    <li>__TEXT___</li>
+                </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
     </div>                                                                   <!-- /*content row end*/-->
