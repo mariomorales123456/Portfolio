@@ -496,6 +496,7 @@
                     <li>The stored information is kept in an array, and using script users can now remove or add to the array as neccessary</li>
                     <li>Once the array is ready to go, the user can click launch to send the information to another page</li>
                     <li>The next page just grabs the ID from the get information and grabs the information from the DB of each of the IDs and displays them</li>
+                    <li>The original feature was just at the bottom of page, I later updated it so it can be toggled to be sticky at the footer via a button on the side </li>
                 </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
@@ -510,10 +511,10 @@
 
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
-<section id="__________INSERT_ID_HERE_________" class="container">
+<section id="product_page_specs" class="container">
     <div class="row">                                                     
         <div class="col">
-            <h2 class="text-center">______INSERT_TITLE_HERE________</h2>  <!-- /*title row*/ -->
+            <h2 class="text-center">Product Page Specs</h2>  <!-- /*title row*/ -->
         </div>
     </div> 
     <div class="row">                                                     <!-- /*content row start*/-->
@@ -522,7 +523,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="__INSERT_IMAGE_HERE__" target="_blank"><img class="img-fluid" src="__INSERT_IMAGE_HERE_" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/product_page_php_specs.jpg" target="_blank"><img class="img-fluid" src="images/product_page_php_specs.jpg" alt="Product specs image"></a><figcaption class="text-center">Click <a href="admflooring.com/sea-smoke" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -532,22 +533,28 @@
                 <h3 class="text-center">Details</h3>  
                 <p>Issues:</p>
                 <p><ul>
-                    <li>__TEXT__</li>
+                    <li>The previous itirations of this table and description was created using individual PHP calls for the database and the CSS was written in an ackward way </li>
                 </ul></p>
                 <p>Fixes:</p>
                 <p><ul>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
+                    <li>Created the tables using the Oxygen editors native elements</li>
+                    <li>Using JS we can go ahead and fill the information by finding the children elements in the table</li>
+                    <li>We do a single PHP call for information rather then several dozen, and pass information in to JS to be filled post-load</li>
+                    <li>I also went further and revamped the description area, which was simple text </li>
+                    <li>Descriptions were 1) not standard 2) not really discriptive</li>
+                    <li>Using the same PHP call I can fill out a canned description with the specifics</li>
                 </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
     </div>                                                                   <!-- /*content row end*/-->
 </section>                                                               
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
+
+
+
+
+
+
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
 <section id="__________INSERT_ID_HERE_________" class="container">
