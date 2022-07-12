@@ -25,7 +25,7 @@
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
                 <h3 class="text-center">Details</h3>  
-                <p>Issues with old header:</p>
+                <p>Issues:</p>
                 <p><ul>
                     <li>Not centered</li>
                     <li>Assymetrical</li>
@@ -68,7 +68,7 @@
                 <h3 class="text-center">Details</h3>  
                 <p>Issues:</p>
                 <p><ul>
-                    <li>The issue: Visual customers were not exploring the nav menu</li>
+                    <li>Visual customers were not exploring the nav menu</li>
                 </ul></p>
                 <p>Fixes:</p>
                 <p><ul>
