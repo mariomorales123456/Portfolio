@@ -6,7 +6,9 @@
 
 
 
-
+<div class="gradient_title">
+       <h1>ADM INC</h1>
+</div>
 
 
 

@@ -4,6 +4,11 @@
 
 <main>
 
+
+<div class="gradient_title">
+       <h1>ADM Flooring Front End</h1>
+</div>
+
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
 <section id="front_page_header" class="container">
     <div class="row">                                                     
