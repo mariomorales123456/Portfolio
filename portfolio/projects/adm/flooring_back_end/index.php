@@ -23,7 +23,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="code_images/add_acf_sqft_price_to_product_display_table.png" target="_blank"><img class="img-fluid" src="code_images/add_acf_sqft_price_to_product_display_table.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="back_end_images/acf_price_display.png" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/add_acf_sqft_price_to_product_display_table.png" target="_blank"><img class="img-fluid" src="code_images/add_acf_sqft_price_to_product_display_table.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="result_images/acf_price_display.png" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
