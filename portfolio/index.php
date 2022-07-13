@@ -58,7 +58,7 @@
  <!-- /* Resume */  -->
 <section class="container text-center">
     <h2>Resume</h2>
-    <p><a href="documents/resume.pdf" target="_blank">Mario Morales Resume</a></p>   
+    <p><a class="hover_underline_animation" href="documents/resume.pdf" target="_blank">Mario Morales Resume</a></p>   
 </section>
 
 <!-- /* Section for active profiles */ --> 
