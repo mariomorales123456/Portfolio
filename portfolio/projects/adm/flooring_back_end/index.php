@@ -14,7 +14,7 @@
 <section id="__________INSERT_ID_HERE_________" class="container">
     <div class="row">                                                     
         <div class="col">
-            <h2 class="text-center">______INSERT_TITLE_HERE________</h2>  <!-- /*title row*/ -->
+            <h2 class="text-center">ACF Display</h2>  <!-- /*title row*/ -->
         </div>
     </div> 
     <div class="row">                                                     <!-- /*content row start*/-->
@@ -23,7 +23,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/add_acf_sqft_price_to_product_display_table.png" target="_blank"><img class="img-fluid" src="images/add_acf_sqft_price_to_product_display_table.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/add_acf_sqft_price_to_product_display_table.png" target="_blank"><img class="img-fluid" src="code_images/add_acf_sqft_price_to_product_display_table.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="back_end_images/acf_price_display.png" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -33,16 +33,11 @@
                 <h3 class="text-center">Details</h3>  
                 <p>Issues:</p>
                 <p><ul>
-                    <li>__TEXT__</li>
+                    <li>Advanced Custom Fields (ACF) plugin allows you to add fields to the DB of produts, in this case the square foot price of flooring, but it was not being displayed on product table, making it difficult to identify pricing errors</li>
                 </ul></p>
                 <p>Fixes:</p>
                 <p><ul>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
+                    <li>PHP snippet adding ACF field to the product table as a new column</li>
                 </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
@@ -63,7 +58,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/add_avg_price_sqft_of_collection_to_product_display_table.png" target="_blank"><img class="img-fluid" src="images/add_avg_price_sqft_of_collection_to_product_display_table.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/add_avg_price_sqft_of_collection_to_product_display_table.png" target="_blank"><img class="img-fluid" src="code_images/add_avg_price_sqft_of_collection_to_product_display_table.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -103,7 +98,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/add_comment_column_to_wc_order_table.png" target="_blank"><img class="img-fluid" src="images/add_comment_column_to_wc_order_table.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/add_comment_column_to_wc_order_table.png" target="_blank"><img class="img-fluid" src="code_images/add_comment_column_to_wc_order_table.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -143,7 +138,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/add_compare_acf_calculated_to_product_display_table.png" target="_blank"><img class="img-fluid" src="images/add_compare_acf_calculated_to_product_display_table.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/add_compare_acf_calculated_to_product_display_table.png" target="_blank"><img class="img-fluid" src="code_images/add_compare_acf_calculated_to_product_display_table.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -183,7 +178,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/add_coupons_used_to_order_page.png" target="_blank"><img class="img-fluid" src="images/add_coupons_used_to_order_page.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/add_coupons_used_to_order_page.png" target="_blank"><img class="img-fluid" src="code_images/add_coupons_used_to_order_page.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -223,7 +218,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/add_custom_field_radio_button_2_choices_checkout.png" target="_blank"><img class="img-fluid" src="images/add_custom_field_radio_button_2_choices_checkout.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/add_custom_field_radio_button_2_choices_checkout.png" target="_blank"><img class="img-fluid" src="code_images/add_custom_field_radio_button_2_choices_checkout.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -263,7 +258,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/add_custom_field_terms_and_conditions_checkbox.png" target="_blank"><img class="img-fluid" src="images/add_custom_field_terms_and_conditions_checkbox.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/add_custom_field_terms_and_conditions_checkbox.png" target="_blank"><img class="img-fluid" src="code_images/add_custom_field_terms_and_conditions_checkbox.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -303,7 +298,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/add_custom_field_text_input_checkout.png" target="_blank"><img class="img-fluid" src="images/add_custom_field_text_input_checkout.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/add_custom_field_text_input_checkout.png" target="_blank"><img class="img-fluid" src="code_images/add_custom_field_text_input_checkout.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -343,7 +338,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/add_customer_order_status.png" target="_blank"><img class="img-fluid" src="images/add_customer_order_status.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/add_customer_order_status.png" target="_blank"><img class="img-fluid" src="code_images/add_customer_order_status.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -383,7 +378,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/add_google_code.png" target="_blank"><img class="img-fluid" src="images/add_google_code.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/add_google_code.png" target="_blank"><img class="img-fluid" src="code_images/add_google_code.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -423,7 +418,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/add_used_coupons_to_the_order_confirmation_email.png" target="_blank"><img class="img-fluid" src="images/add_used_coupons_to_the_order_confirmation_email.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/add_used_coupons_to_the_order_confirmation_email.png" target="_blank"><img class="img-fluid" src="code_images/add_used_coupons_to_the_order_confirmation_email.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -463,7 +458,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/add_visibility_to_product_display_table.png" target="_blank"><img class="img-fluid" src="images/add_visibility_to_product_display_table.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/add_visibility_to_product_display_table.png" target="_blank"><img class="img-fluid" src="code_images/add_visibility_to_product_display_table.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -503,7 +498,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/affiliate_code_filtering.png" target="_blank"><img class="img-fluid" src="images/affiliate_code_filtering.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/affiliate_code_filtering.png" target="_blank"><img class="img-fluid" src="code_images/affiliate_code_filtering.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -543,7 +538,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/custom_css_library.png" target="_blank"><img class="img-fluid" src="images/custom_css_library.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/custom_css_library.png" target="_blank"><img class="img-fluid" src="code_images/custom_css_library.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -583,7 +578,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/custom_javascript_library.png" target="_blank"><img class="img-fluid" src="images/custom_javascript_library.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/custom_javascript_library.png" target="_blank"><img class="img-fluid" src="code_images/custom_javascript_library.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -623,7 +618,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/custom_php_library.png" target="_blank"><img class="img-fluid" src="images/custom_php_library.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/custom_php_library.png" target="_blank"><img class="img-fluid" src="code_images/custom_php_library.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -663,7 +658,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/flooring_single_product_template_skeleton.png" target="_blank"><img class="img-fluid" src="images/flooring_single_product_template_skeleton.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/flooring_single_product_template_skeleton.png" target="_blank"><img class="img-fluid" src="code_images/flooring_single_product_template_skeleton.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
