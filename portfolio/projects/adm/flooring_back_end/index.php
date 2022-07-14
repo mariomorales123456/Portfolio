@@ -11,10 +11,10 @@
 </div>
 
 <!--///////////////////////// SECTION START /////////////////////////////////// #1 -->   
-<section id="__________INSERT_ID_HERE_________" class="container">
+<section id="acf_sqft_price_product" class="container">
     <div class="row">                                                     
         <div class="col">
-            <h2 class="text-center">ACF Display</h2>  <!-- /*title row*/ -->
+            <h2 class="text-center">ACF Sqft Price of Product</h2>  <!-- /*title row*/ -->
         </div>
     </div> 
     <div class="row">                                                     <!-- /*content row start*/-->
@@ -23,7 +23,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="code_images/add_acf_sqft_price_to_product_display_table.png" target="_blank"><img class="img-fluid" src="code_images/add_acf_sqft_price_to_product_display_table.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="result_images/acf_price_display.png" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/add_acf_sqft_price_to_product_display_table.png" target="_blank"><img class="img-fluid" src="code_images/add_acf_sqft_price_to_product_display_table.png" alt="image of square foot price of product"></a><figcaption class="text-center">Click <a href="result_images/acf_price_display.png" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -33,7 +33,7 @@
                 <h3 class="text-center">Details</h3>  
                 <p>Issues:</p>
                 <p><ul>
-                    <li>Advanced Custom Fields (ACF) plugin allows you to add fields to the DB of produts, in this case the square foot price of flooring, but it was not being displayed on product table, making it difficult to identify pricing errors</li>
+                    <li>Advanced Custom Fields (ACF) plugin allows you to add fields to the DB of products, in this case the square foot price of flooring, but it was not being displayed on product table, making it difficult to identify pricing errors</li>
                 </ul></p>
                 <p>Fixes:</p>
                 <p><ul>
@@ -46,10 +46,10 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 <!--///////////////////////// SECTION START /////////////////////////////////// #2 -->   
-<section id="__________INSERT_ID_HERE_________" class="container">
+<section id="acf_avg_sqft_price_collection" class="container">
     <div class="row">                                                     
         <div class="col">
-            <h2 class="text-center">______INSERT_TITLE_HERE________</h2>  <!-- /*title row*/ -->
+            <h2 class="text-center">ACF Avg Sqft Price of Collection</h2>  <!-- /*title row*/ -->
         </div>
     </div> 
     <div class="row">                                                     <!-- /*content row start*/-->
@@ -58,7 +58,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="code_images/add_avg_price_sqft_of_collection_to_product_display_table.png" target="_blank"><img class="img-fluid" src="code_images/add_avg_price_sqft_of_collection_to_product_display_table.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/add_avg_price_sqft_of_collection_to_product_display_table.png" target="_blank"><img class="img-fluid" src="code_images/add_avg_price_sqft_of_collection_to_product_display_table.png" alt="image of avg price sqft of collection"></a><figcaption class="text-center">Click <a href="result_images/acf_collection_price_display.png" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -68,16 +68,13 @@
                 <h3 class="text-center">Details</h3>  
                 <p>Issues:</p>
                 <p><ul>
-                    <li>__TEXT__</li>
+                    <li>At a glance being able to identify outliers is important, rather then opening every single product to identify which one is off</li>
                 </ul></p>
                 <p>Fixes:</p>
                 <p><ul>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
+                    <li>PHP code was used to gather the entire product line of a collection</li>
+                    <li>Calculations to gather the avg</li>
+                    <li>Display the avg in a new column</li>
                 </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
