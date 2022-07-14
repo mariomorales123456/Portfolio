@@ -68,7 +68,7 @@
                 <h3 class="text-center">Details</h3>  
                 <p>Issues:</p>
                 <p><ul>
-                    <li>At a glance being able to identify outliers is important, rather then opening every single product to identify which one is off</li>
+                    <li>At a glance being able to identify outliers is important, no way to see this value unless you filter an entire collection</li>
                 </ul></p>
                 <p>Fixes:</p>
                 <p><ul>
