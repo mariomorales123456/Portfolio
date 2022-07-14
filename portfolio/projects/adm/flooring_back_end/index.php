@@ -11,7 +11,7 @@
 </div>
 
 <!--///////////////////////// SECTION START /////////////////////////////////// #1 -->   
-<section id="acf_sqft_price_product" class="container">
+<section id="add_acf_sqft_price_to_product_display_table" class="container">
     <div class="row">                                                     
         <div class="col">
             <h2 class="text-center">ACF Sqft Price of Product</h2>  <!-- /*title row*/ -->
@@ -46,7 +46,7 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 <!--///////////////////////// SECTION START /////////////////////////////////// #2 -->   
-<section id="acf_avg_sqft_price_collection" class="container">
+<section id="add_avg_price_sqft_of_collection_to_product_display_table" class="container">
     <div class="row">                                                     
         <div class="col">
             <h2 class="text-center">ACF Avg Sqft Price of Collection</h2>  <!-- /*title row*/ -->
@@ -83,7 +83,7 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 <!--///////////////////////// SECTION START /////////////////////////////////// #3 -->   
-<section id="comment_column_wc_order_table" class="container">
+<section id="add_comment_column_to_wc_order_table" class="container">
     <div class="row">                                                     
         <div class="col">
             <h2 class="text-center">Add Comment Column</h2>  <!-- /*title row*/ -->
@@ -110,7 +110,7 @@
                 <p>Fixes:</p>
                 <p><ul>
                     <li>Transffering the customer notes to their own column would highlight requests</li>
-                    <li>It also gets moved to invoice pdfs which is another important part to have requests</li>
+                    <li>It also gets moved to invoice pdfs which is another important part to have requests</li>f
                 </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
@@ -119,10 +119,10 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 <!--///////////////////////// SECTION START /////////////////////////////////// #4 -->   
-<section id="__________INSERT_ID_HERE_________" class="container">
+<section id="add_compare_acf_calculated_to_product_display_table" class="container">
     <div class="row">                                                     
         <div class="col">
-            <h2 class="text-center">______INSERT_TITLE_HERE________</h2>  <!-- /*title row*/ -->
+            <h2 class="text-center">Calculated Price Comparison</h2>  <!-- /*title row*/ -->
         </div>
     </div> 
     <div class="row">                                                     <!-- /*content row start*/-->
@@ -131,7 +131,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="code_images/add_compare_acf_calculated_to_product_display_table.png" target="_blank"><img class="img-fluid" src="code_images/add_compare_acf_calculated_to_product_display_table.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/add_compare_acf_calculated_to_product_display_table.png" target="_blank"><img class="img-fluid" src="code_images/add_compare_acf_calculated_to_product_display_table.png" alt="image of acf and price comparison"></a><figcaption class="text-center">Click <a href="result_images/product_acf_price_comparison.png" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -141,16 +141,14 @@
                 <h3 class="text-center">Details</h3>  
                 <p>Issues:</p>
                 <p><ul>
-                    <li>__TEXT__</li>
+                    <li>Price per sqft and comparison to the collection avg being available are important, but there needs to be a hard comparison of a calculated price vs manually input price</li>
                 </ul></p>
                 <p>Fixes:</p>
                 <p><ul>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
+                    <li>The product table draws from the database, so finding an attribute like square foot and the box price isn't difficult</li>
+                    <li>Price divided by sqft per box</li>
+                    <li>This gives a calculated price that can then be compared to the manually input price</li>
+                    <li>The results column is then labeled true for equivelant, false with the calculated price if it does not match, and n/a for produts with a $0 cost (samples)</li>
                 </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
