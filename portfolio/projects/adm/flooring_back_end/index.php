@@ -110,7 +110,7 @@
                 <p>Fixes:</p>
                 <p><ul>
                     <li>Transffering the customer notes to their own column would highlight requests</li>
-                    <li>It also gets moved to invoice pdfs which is another important part to have requests</li>f
+                    <li>It also gets moved to invoice pdfs which is another important part to have requests</li>
                 </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
