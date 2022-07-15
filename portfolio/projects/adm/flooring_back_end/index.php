@@ -266,7 +266,7 @@
                         <a href="code_images/add_custom_field_terms_and_conditions_checkbox.png" target="_blank"><img class="img-fluid" src="code_images/add_custom_field_terms_and_conditions_checkbox.png" alt="image of backend terms and conditions code box"></a><figcaption class="text-center"></figcaption>
                     </figure>
                     <figure class="text-center">
-                        <a href="reuslt_images/flooring_checkout_checkbox.png" target="_blank"><img class="img-fluid" src="reuslt_images/flooring_checkout_checkbox.png" alt="image of terms and condition checkbox"></a><figcaption class="text-center">Click <a href="admflooring.com/checkout" target="_blank">here</a> to go to site</figcaption>
+                        <a href="result_images/flooring_checkout_checkbox.png" target="_blank"><img class="img-fluid" src="result_images/flooring_checkout_checkbox.png" alt="image of terms and condition checkbox"></a><figcaption class="text-center">Click <a href="admflooring.com/checkout" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -283,6 +283,7 @@
                     <li>Hid the native checkbox</li>
                     <li>Next checkbox will mark the time and date on order submission</li>
                     <li>Time and date will be recorded on order details and invoice pdf</li>
+                    <li>NOTE: To visit the checkout page you need to add something to cart</li>
                 </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
