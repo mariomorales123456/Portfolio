@@ -22,7 +22,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/affiliate_program.jpg" target="_blank"><img class="img-fluid" src="images/affiliate_program.jpg" alt="affiliate program image"></a><figcaption class="text-center">Click <a href="admflooring.com/affiliate-links" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/affiliate_program.jpg" target="_blank"><img class="img-fluid" src="images/affiliate_program.jpg" alt="affiliate program image"></a><figcaption class="text-center">Click <a href="https://admflooring.com/affiliate-links" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -66,7 +66,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/all_product_page.jpg" target="_blank"><img class="img-fluid" src="images/all_product_page.jpg" alt="all products image"></a><figcaption class="text-center">Click <a href="admfloorin.com/all-products/" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/all_product_page.jpg" target="_blank"><img class="img-fluid" src="images/all_product_page.jpg" alt="all products image"></a><figcaption class="text-center">Click <a href="https://admfloorin.com/all-products/" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -102,7 +102,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/cookie_accept_bar.jpg" target="_blank"><img class="img-fluid" src="images/cookie_accept_bar.jpg" alt="cookie bar image"></a><figcaption class="text-center">Click <a href="admflooring.com" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/cookie_accept_bar.jpg" target="_blank"><img class="img-fluid" src="images/cookie_accept_bar.jpg" alt="cookie bar image"></a><figcaption class="text-center">Click <a href="https://admflooring.com" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -138,7 +138,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/front_page_1.jpg" target="_blank"><img class="img-fluid" src="images/front_page_1.jpg" alt="adm website header"></a><figcaption class="text-center">Click <a href="admflooring.com" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/front_page_1.jpg" target="_blank"><img class="img-fluid" src="images/front_page_1.jpg" alt="adm website header"></a><figcaption class="text-center">Click <a href="https://admflooring.com" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -179,7 +179,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/front_page_2.jpg" target="_blank"><img class="img-fluid" src="images/front_page_2.jpg" alt="banner ad"></a><figcaption class="text-center">Click <a href="admflooring.com" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/front_page_2.jpg" target="_blank"><img class="img-fluid" src="images/front_page_2.jpg" alt="banner ad"></a><figcaption class="text-center">Click <a href="https://admflooring.com" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -216,7 +216,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/front_page_3.jpg" target="_blank"><img class="img-fluid" src="images/front_page_3.jpg" alt="superbox feature"></a><figcaption class="text-center">Click <a href="admflooring.com" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/front_page_3.jpg" target="_blank"><img class="img-fluid" src="images/front_page_3.jpg" alt="superbox feature"></a><figcaption class="text-center">Click <a href="https://admflooring.com" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -254,7 +254,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/front_page_4.jpg" target="_blank"><img class="img-fluid" src="images/front_page_4.jpg" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="admflooring.com" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/front_page_4.jpg" target="_blank"><img class="img-fluid" src="images/front_page_4.jpg" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="https://admflooring.com" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -291,7 +291,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/front_page_5.jpg" target="_blank"><img class="img-fluid" src="images/front_page_5.jpg" alt="icon grid"></a><figcaption class="text-center">Click <a href="admflooring.com" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/front_page_5.jpg" target="_blank"><img class="img-fluid" src="images/front_page_5.jpg" alt="icon grid"></a><figcaption class="text-center">Click <a href="https://admflooring.com" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -328,7 +328,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/front_page_6.jpg" target="_blank"><img class="img-fluid" src="images/front_page_6.jpg" alt="icon grid"></a><figcaption class="text-center">Click <a href="admflooring.com" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/front_page_6.jpg" target="_blank"><img class="img-fluid" src="images/front_page_6.jpg" alt="icon grid"></a><figcaption class="text-center">Click <a href="https://admflooring.com" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -366,7 +366,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/gallery_page.jpg" target="_blank"><img class="img-fluid" src="images/gallery_page.jpg" alt="gallery page image"></a><figcaption class="text-center">Click <a href="admflooring.com/gallery" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/gallery_page.jpg" target="_blank"><img class="img-fluid" src="images/gallery_page.jpg" alt="gallery page image"></a><figcaption class="text-center">Click <a href="https://admflooring.com/gallery" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -413,7 +413,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/installation_gallery.jpg" target="_blank"><img class="img-fluid" src="images/installation_gallery.jpg" alt="installation gallery image"></a><figcaption class="text-center">Click <a href="admflooring.com/installations" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/installation_gallery.jpg" target="_blank"><img class="img-fluid" src="images/installation_gallery.jpg" alt="installation gallery image"></a><figcaption class="text-center">Click <a href="https://admflooring.com/installations" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -451,7 +451,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/product_page_cart_area.jpg" target="_blank"><img class="img-fluid" src="images/product_page_cart_area.jpg" alt="product page cart area image"></a><figcaption class="text-center">Click <a href="admflooring.com/sea-smoke" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/product_page_cart_area.jpg" target="_blank"><img class="img-fluid" src="images/product_page_cart_area.jpg" alt="product page cart area image"></a><figcaption class="text-center">Click <a href="https://admflooring.com/sea-smoke" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -491,7 +491,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/product_page_php_specs.jpg" target="_blank"><img class="img-fluid" src="images/product_page_php_specs.jpg" alt="Product specs image"></a><figcaption class="text-center">Click <a href="admflooring.com/sea-smoke" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/product_page_php_specs.jpg" target="_blank"><img class="img-fluid" src="images/product_page_php_specs.jpg" alt="Product specs image"></a><figcaption class="text-center">Click <a href="https://admflooring.com/sea-smoke" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -531,7 +531,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/shop_page.jpg" target="_blank"><img class="img-fluid" src="images/shop_page.jpg" alt="shop page image"></a><figcaption class="text-center">Click <a href="admflooring.com/flooring-catalog" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/shop_page.jpg" target="_blank"><img class="img-fluid" src="images/shop_page.jpg" alt="shop page image"></a><figcaption class="text-center">Click <a href="https://admflooring.com/flooring-catalog" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    

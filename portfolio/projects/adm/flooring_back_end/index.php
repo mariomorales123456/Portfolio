@@ -223,7 +223,7 @@
                         <a href="code_images/add_custom_field_radio_button_2_choices_checkout.png" target="_blank"><img class="img-fluid" src="code_images/add_custom_field_radio_button_2_choices_checkout.png" alt="image of back end code"></a><figcaption class="text-center"></figcaption>
                     </figure>
                     <figure class="text-center">
-                        <a href="result_images/flooring_checkout_radio_buttons.png" target="_blank"><img class="img-fluid" src="result_images/flooring_checkout_radio_buttons.png " alt="image of back end code"></a><figcaption class="text-center">Click <a href="admflooring.com/checkout" target="_blank">here</a> to go to site</figcaption>
+                        <a href="result_images/flooring_checkout_radio_buttons.png" target="_blank"><img class="img-fluid" src="result_images/flooring_checkout_radio_buttons.png " alt="image of back end code"></a><figcaption class="text-center">Click <a href="https://admflooring.com/checkout/" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -266,7 +266,7 @@
                         <a href="code_images/add_custom_field_terms_and_conditions_checkbox.png" target="_blank"><img class="img-fluid" src="code_images/add_custom_field_terms_and_conditions_checkbox.png" alt="image of backend terms and conditions code box"></a><figcaption class="text-center"></figcaption>
                     </figure>
                     <figure class="text-center">
-                        <a href="result_images/flooring_checkout_checkbox.png" target="_blank"><img class="img-fluid" src="result_images/flooring_checkout_checkbox.png" alt="image of terms and condition checkbox"></a><figcaption class="text-center">Click <a href="admflooring.com/checkout" target="_blank">here</a> to go to site</figcaption>
+                        <a href="result_images/flooring_checkout_checkbox.png" target="_blank"><img class="img-fluid" src="result_images/flooring_checkout_checkbox.png" alt="image of terms and condition checkbox"></a><figcaption class="text-center">Click <a href="https://admflooring.com/checkout/" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
