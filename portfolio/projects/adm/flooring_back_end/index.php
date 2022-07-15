@@ -61,7 +61,10 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="code_images/add_avg_price_sqft_of_collection_to_product_display_table.png" target="_blank"><img class="img-fluid" src="code_images/add_avg_price_sqft_of_collection_to_product_display_table.png" alt="image of avg price sqft of collection"></a><figcaption class="text-center">Click <a href="result_images/acf_collection_price_display.png" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/add_avg_price_sqft_of_collection_to_product_display_table.png" target="_blank"><img class="img-fluid" src="code_images/add_avg_price_sqft_of_collection_to_product_display_table.png" alt="image of avg price sqft of collection"></a><figcaption class="text-center"></figcaption>
+                    </figure>
+                    <figure class="text-center">
+                        <a href="result_images/acf_collection_price_display.png" target="_blank"><img class="img-fluid" src="result_images/acf_collection_price_display.png" alt="image of avg price sqft of collection"></a><figcaption class="text-center"></figcaption>
                     </figure>
                 </div>
             </div>    
@@ -98,7 +101,10 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="code_images/add_comment_column_to_wc_order_table.png" target="_blank"><img class="img-fluid" src="code_images/add_comment_column_to_wc_order_table.png" alt="image of add column to order table"></a><figcaption class="text-center">Click <a href="result_images/order_table_comments.png" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/add_comment_column_to_wc_order_table.png" target="_blank"><img class="img-fluid" src="code_images/add_comment_column_to_wc_order_table.png" alt="image of add column to order table"></a><figcaption class="text-center"></figcaption>
+                    </figure>
+                    <figure class="text-center">
+                        <a href="result_images/order_table_comments.png" target="_blank"><img class="img-fluid" src="result_images/order_table_comments.png" alt="image of add column to order table"></a><figcaption class="text-center"></figcaption>
                     </figure>
                 </div>
             </div>    
@@ -134,7 +140,10 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="code_images/add_compare_acf_calculated_to_product_display_table.png" target="_blank"><img class="img-fluid" src="code_images/add_compare_acf_calculated_to_product_display_table.png" alt="image of acf and price comparison"></a><figcaption class="text-center">Click <a href="result_images/product_acf_price_comparison.png" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/add_compare_acf_calculated_to_product_display_table.png" target="_blank"><img class="img-fluid" src="code_images/add_compare_acf_calculated_to_product_display_table.png" alt="image of acf and price comparison"></a><figcaption class="text-center"></figcaption>
+                    </figure>
+                    <figure class="text-center">
+                        <a href="result_images/product_acf_price_comparison.png" target="_blank"><img class="img-fluid" src="result_images/product_acf_price_comparison.png" alt="image of acf and price comparison"></a><figcaption class="text-center"></figcaption>
                     </figure>
                 </div>
             </div>    
@@ -172,7 +181,10 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="code_images/add_coupons_used_to_order_page.png" target="_blank"><img class="img-fluid" src="code_images/add_coupons_used_to_order_page.png" alt="image of add coupons to order page"></a><figcaption class="text-center">Click <a href="result_images/add_coupons_to_order_page.png" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/add_coupons_used_to_order_page.png" target="_blank"><img class="img-fluid" src="code_images/add_coupons_used_to_order_page.png" alt="image of add coupons to order page"></a><figcaption class="text-center"></figcaption>
+                    </figure>
+                    <figure class="text-center">
+                        <a href="result_images/add_coupons_to_order_page.png" target="_blank"><img class="img-fluid" src="result_images/add_coupons_to_order_page.png" alt="image of add coupons to order page"></a><figcaption class="text-center"></figcaption>
                     </figure>
                 </div>
             </div>    
@@ -208,7 +220,10 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="code_images/add_custom_field_radio_button_2_choices_checkout.png" target="_blank"><img class="img-fluid" src="code_images/add_custom_field_radio_button_2_choices_checkout.png" alt="image of back end code"></a><figcaption class="text-center">Click <a href="result_images/flooring_checkout_radio_buttons.png" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/add_custom_field_radio_button_2_choices_checkout.png" target="_blank"><img class="img-fluid" src="code_images/add_custom_field_radio_button_2_choices_checkout.png" alt="image of back end code"></a><figcaption class="text-center"></figcaption>
+                    </figure>
+                    <figure class="text-center">
+                        <a href="result_images/flooring_checkout_radio_buttons.png" target="_blank"><img class="img-fluid" src="result_images/flooring_checkout_radio_buttons.png " alt="image of back end code"></a><figcaption class="text-center">Click <a href="admflooring.com/checkout" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -227,6 +242,7 @@
                     <li>Furthermore, we want to reuse this snippet of code</li>
                     <li>Using a PHP object to encapsulate the hooks, and then a secondary function to put together the variables servers this purpose</li>
                     <li>Using this format I created 3 different options blocks for a client to go through</li>
+                    <li>NOTE: To visit the checkout page you need to add something to cart</li>
                 </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
@@ -247,7 +263,10 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="code_images/add_custom_field_terms_and_conditions_checkbox.png" target="_blank"><img class="img-fluid" src="code_images/add_custom_field_terms_and_conditions_checkbox.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/add_custom_field_terms_and_conditions_checkbox.png" target="_blank"><img class="img-fluid" src="code_images/add_custom_field_terms_and_conditions_checkbox.png" alt="image of backend terms and conditions code box"></a><figcaption class="text-center"></figcaption>
+                    </figure>
+                    <figure class="text-center">
+                        <a href="reuslt_images/flooring_checkout_checkbox.png" target="_blank"><img class="img-fluid" src="reuslt_images/flooring_checkout_checkbox.png" alt="image of terms and condition checkbox"></a><figcaption class="text-center">Click <a href="admflooring.com/checkout" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -257,16 +276,13 @@
                 <h3 class="text-center">Details</h3>  
                 <p>Issues:</p>
                 <p><ul>
-                    <li>__TEXT__</li>
+                    <li>WooCommerce comes native with a terms and conditions box, but we wanted further documentation of agreement</li>
                 </ul></p>
                 <p>Fixes:</p>
                 <p><ul>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
+                    <li>Hid the native checkbox</li>
+                    <li>Next checkbox will mark the time and date on order submission</li>
+                    <li>Time and date will be recorded on order details and invoice pdf</li>
                 </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
