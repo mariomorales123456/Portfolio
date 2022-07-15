@@ -383,7 +383,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="code_images/add_google_code.png" target="_blank"><img class="img-fluid" src="code_images/add_google_code.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center"></figcaption>
+                        <a href="code_images/add_google_code.png" target="_blank"><img class="img-fluid" src="code_images/add_google_code.png" alt="image of google code snippet"></a><figcaption class="text-center"></figcaption>
                     </figure>
                 </div>
             </div>    
@@ -418,10 +418,10 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="code_images/add_used_coupons_to_the_order_confirmation_email.png" target="_blank"><img class="img-fluid" src="code_images/add_used_coupons_to_the_order_confirmation_email.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center"></figcaption>
+                        <a href="code_images/add_used_coupons_to_the_order_confirmation_email.png" target="_blank"><img class="img-fluid" src="code_images/add_used_coupons_to_the_order_confirmation_email.png" alt="image of backend coupons added to email"></a><figcaption class="text-center"></figcaption>
                     </figure>
                     <figure class="text-center">
-                        <a href="result_images/flooring_custom_email_information.png" target="_blank"><img class="img-fluid" src="result_images/flooring_custom_email_information.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center"></figcaption>
+                        <a href="result_images/flooring_custom_email_information.png" target="_blank"><img class="img-fluid" src="result_images/flooring_custom_email_information.png" alt="image of coupons added to confirmation email"></a><figcaption class="text-center"></figcaption>
                     </figure>
                 </div>
             </div>    
@@ -457,10 +457,10 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="code_images/add_visibility_to_product_display_table.png" target="_blank"><img class="img-fluid" src="code_images/add_visibility_to_product_display_table.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center"></figcaption>
+                        <a href="code_images/add_visibility_to_product_display_table.png" target="_blank"><img class="img-fluid" src="code_images/add_visibility_to_product_display_table.png" alt="image of backend code visibility added to product table"></a><figcaption class="text-center"></figcaption>
                     </figure>
                     <figure class="text-center">
-                        <a href="result_images/flooring_visibility.png" target="_blank"><img class="img-fluid" src="result_images/flooring_visibility.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center"></figcaption>
+                        <a href="result_images/flooring_visibility.png" target="_blank"><img class="img-fluid" src="result_images/flooring_visibility.png" alt="image of visiibility added to product table"></a><figcaption class="text-center"></figcaption>
                     </figure>
                 </div>
             </div>    
@@ -484,10 +484,10 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 <!--///////////////////////// SECTION START /////////////////////////////////// #13 -->   
-<section id="__________INSERT_ID_HERE_________" class="container">
+<section id="affiliate_code_filtering" class="container">
     <div class="row">                                                     
         <div class="col">
-            <h2 class="text-center">______INSERT_TITLE_HERE________</h2>  <!-- /*title row*/ -->
+            <h2 class="text-center">Affiliate Order Filering</h2>  <!-- /*title row*/ -->
         </div>
     </div> 
     <div class="row">                                                     <!-- /*content row start*/-->
@@ -496,7 +496,10 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="code_images/affiliate_code_filtering.png" target="_blank"><img class="img-fluid" src="code_images/affiliate_code_filtering.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/affiliate_code_filtering.png" target="_blank"><img class="img-fluid" src="code_images/affiliate_code_filtering.png" alt="image of backend affiliate code filtering"></a><figcaption class="text-center"></figcaption>
+                    </figure>
+                    <figure class="text-center">
+                        <a href="result_images/afiliate_filering.png" target="_blank"><img class="img-fluid" src="result_images/afiliate_filering.png" alt="image of affiliate filtering"></a><figcaption class="text-center"></figcaption>
                     </figure>
                 </div>
             </div>    
@@ -506,16 +509,14 @@
                 <h3 class="text-center">Details</h3>  
                 <p>Issues:</p>
                 <p><ul>
-                    <li>__TEXT__</li>
+                    <li>Affiliate orders are based on coupon codes distributed to them</li>
                 </ul></p>
                 <p>Fixes:</p>
                 <p><ul>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
+                    <li>In order to identify an order you'd have to individually search for each coupon</li>
+                    <li>This would take too long, so we need to start flagging these orders</li>
+                    <li>PHP code to identify the coupons we're interested in and then add to metadata a simple true/false for affiliate or not affiliate</li>
+                    <li>Once flaged we can now create a filter for that metadata</li>
                 </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
