@@ -292,10 +292,10 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 <!--///////////////////////// SECTION START /////////////////////////////////// #8 -->   
-<section id="__________INSERT_ID_HERE_________" class="container">
+<section id="add_custom_field_text_input_checkout" class="container">
     <div class="row">                                                     
         <div class="col">
-            <h2 class="text-center">______INSERT_TITLE_HERE________</h2>  <!-- /*title row*/ -->
+            <h2 class="text-center">Checkout Text Input</h2>  <!-- /*title row*/ -->
         </div>
     </div> 
     <div class="row">                                                     <!-- /*content row start*/-->
@@ -304,7 +304,10 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="code_images/add_custom_field_text_input_checkout.png" target="_blank"><img class="img-fluid" src="code_images/add_custom_field_text_input_checkout.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/add_custom_field_text_input_checkout.png" target="_blank"><img class="img-fluid" src="code_images/add_custom_field_text_input_checkout.png" alt="image of backend custom field text input checkout"></a><figcaption class="text-center"></figcaption>
+                    </figure>
+                    <figure class="text-center">
+                        <a href="result_images/flooring_checkout_text_box.png" target="_blank"><img class="img-fluid" src="result_images/flooring_checkout_text_box.png" alt="image of front end custom field text input checkout"></a><figcaption class="text-center">Click <a href="https://admflooring.com/checkout/" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -314,16 +317,13 @@
                 <h3 class="text-center">Details</h3>  
                 <p>Issues:</p>
                 <p><ul>
-                    <li>__TEXT__</li>
+                    <li>A piece of information that is asked of clients is which batch their product belongs to</li>
                 </ul></p>
                 <p>Fixes:</p>
                 <p><ul>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
+                    <li>Added as an optional text input field</li>
+                    <li>Using object proramming to create the field</li>
+                    <li>Added a modal for the pop up more information icon</li>
                 </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
