@@ -547,7 +547,7 @@
                 <h3 class="text-center">Details</h3>  
                 <p>Issues:</p>
                 <p><ul>
-                    <li>CSS has been template dependant, this makes it hard to adjust between oxygen tempplates and at time unrealiable if the template broke</li>
+                    <li>CSS was template dependent, this makes it hard to adjust between oxygen templates and at times unrealiable if the template broke</li>
                 </ul></p>
                 <p>Fixes:</p>
                 <p><ul>
