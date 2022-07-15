@@ -406,10 +406,10 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 <!--///////////////////////// SECTION START /////////////////////////////////// #11 -->   
-<section id="__________INSERT_ID_HERE_________" class="container">
+<section id="add_used_coupons_to_the_order_confirmation_email" class="container">
     <div class="row">                                                     
         <div class="col">
-            <h2 class="text-center">______INSERT_TITLE_HERE________</h2>  <!-- /*title row*/ -->
+            <h2 class="text-center">Add coupons used to confirmation emails</h2>  <!-- /*title row*/ -->
         </div>
     </div> 
     <div class="row">                                                     <!-- /*content row start*/-->
@@ -418,7 +418,10 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="code_images/add_used_coupons_to_the_order_confirmation_email.png" target="_blank"><img class="img-fluid" src="code_images/add_used_coupons_to_the_order_confirmation_email.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/add_used_coupons_to_the_order_confirmation_email.png" target="_blank"><img class="img-fluid" src="code_images/add_used_coupons_to_the_order_confirmation_email.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center"></figcaption>
+                    </figure>
+                    <figure class="text-center">
+                        <a href="result_images/flooring_custom_email_information.png" target="_blank"><img class="img-fluid" src="result_images/flooring_custom_email_information.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center"></figcaption>
                     </figure>
                 </div>
             </div>    
@@ -428,16 +431,12 @@
                 <h3 class="text-center">Details</h3>  
                 <p>Issues:</p>
                 <p><ul>
-                    <li>__TEXT__</li>
+                    <li>Coupons being easily tracked by email, as well as other metadata information</li>
                 </ul></p>
                 <p>Fixes:</p>
                 <p><ul>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
+                    <li>The emails are produced from woocommerce</li>
+                    <li>Hooks can be used to add information to the emails</li>
                 </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
