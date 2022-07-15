@@ -525,10 +525,10 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 <!--///////////////////////// SECTION START /////////////////////////////////// #14 -->   
-<section id="__________INSERT_ID_HERE_________" class="container">
+<section id="custom_css_library" class="container">
     <div class="row">                                                     
         <div class="col">
-            <h2 class="text-center">______INSERT_TITLE_HERE________</h2>  <!-- /*title row*/ -->
+            <h2 class="text-center">Custom CSS Library</h2>  <!-- /*title row*/ -->
         </div>
     </div> 
     <div class="row">                                                     <!-- /*content row start*/-->
@@ -537,7 +537,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="code_images/custom_css_library.png" target="_blank"><img class="img-fluid" src="code_images/custom_css_library.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/custom_css_library.png" target="_blank"><img class="img-fluid" src="code_images/custom_css_library.png" alt="image of css library code snippet"></a><figcaption class="text-center">Click <a href="https://admflooring.com" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -547,16 +547,12 @@
                 <h3 class="text-center">Details</h3>  
                 <p>Issues:</p>
                 <p><ul>
-                    <li>__TEXT__</li>
+                    <li>CSS has been template dependant, this makes it hard to adjust between oxygen tempplates and at time unrealiable if the template broke</li>
                 </ul></p>
                 <p>Fixes:</p>
                 <p><ul>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
+                    <li>It has all being moved to a wordpress hook</li>
+                    <li>Management is easy and if needed could even utilize a SCSS in the future</li>
                 </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
