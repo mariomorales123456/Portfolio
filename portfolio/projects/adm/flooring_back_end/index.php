@@ -599,10 +599,10 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 <!--///////////////////////// SECTION START /////////////////////////////////// #16 -->   
-<section id="__________INSERT_ID_HERE_________" class="container">
+<section id="custom_php_library" class="container">
     <div class="row">                                                     
         <div class="col">
-            <h2 class="text-center">______INSERT_TITLE_HERE________</h2>  <!-- /*title row*/ -->
+            <h2 class="text-center">Custom PHP Library</h2>  <!-- /*title row*/ -->
         </div>
     </div> 
     <div class="row">                                                     <!-- /*content row start*/-->
@@ -611,7 +611,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="code_images/custom_php_library.png" target="_blank"><img class="img-fluid" src="code_images/custom_php_library.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/custom_php_library.png" target="_blank"><img class="img-fluid" src="code_images/custom_php_library.png" alt="image of backend php custom library"></a><figcaption class="text-center"></figcaption>
                     </figure>
                 </div>
             </div>    
@@ -621,16 +621,14 @@
                 <h3 class="text-center">Details</h3>  
                 <p>Issues:</p>
                 <p><ul>
-                    <li>__TEXT__</li>
+                    <li>PHP code in each template and not centralized</li>
                 </ul></p>
                 <p>Fixes:</p>
                 <p><ul>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
+                    <li>Unlike CSS and JS, this library has to be shortcoded via wordpress</li>
+                    <li>In template you can call the shortcode to import the PHP code</li>
+                    <li>Then call the correct template function</li>
+                    <li>This still allows for centralized management but avoids PHP call errors</li>
                 </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
@@ -639,10 +637,10 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
     
 <!--///////////////////////// SECTION START /////////////////////////////////// #17 -->   
-<section id="__________INSERT_ID_HERE_________" class="container">
+<section id="flooring_single_product_template_skeleton" class="container">
     <div class="row">                                                     
         <div class="col">
-            <h2 class="text-center">______INSERT_TITLE_HERE________</h2>  <!-- /*title row*/ -->
+            <h2 class="text-center">Template rearrangement</h2>  <!-- /*title row*/ -->
         </div>
     </div> 
     <div class="row">                                                     <!-- /*content row start*/-->
@@ -651,7 +649,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="code_images/flooring_single_product_template_skeleton.png" target="_blank"><img class="img-fluid" src="code_images/flooring_single_product_template_skeleton.png" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/flooring_single_product_template_skeleton.png" target="_blank"><img class="img-fluid" src="code_images/flooring_single_product_template_skeleton.png" alt="image of single product template"></a><figcaption class="text-center"></figcaption>
                     </figure>
                 </div>
             </div>    
@@ -661,16 +659,13 @@
                 <h3 class="text-center">Details</h3>  
                 <p>Issues:</p>
                 <p><ul>
-                    <li>__TEXT__</li>
+                    <li>Tempplates were hard to manage since a lot of the divisions were not branched correctly</li>
                 </ul></p>
                 <p>Fixes:</p>
                 <p><ul>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
-                    <li>__TEXT___</li>
+                    <li>One wrapper for everything, so you can manage other code by ID</li>
+                    <li>try to have sections that make logical sense</li>
+                    <li>Apply templating say for a flooring product to other templates like cleaning products</li>
                 </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
