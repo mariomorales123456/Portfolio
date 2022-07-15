@@ -23,7 +23,10 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="code_images/add_acf_sqft_price_to_product_display_table.png" target="_blank"><img class="img-fluid" src="code_images/add_acf_sqft_price_to_product_display_table.png" alt="image of square foot price of product"></a><figcaption class="text-center">Click <a href="result_images/acf_price_display.png" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/add_acf_sqft_price_to_product_display_table.png" target="_blank"><img class="img-fluid" src="code_images/add_acf_sqft_price_to_product_display_table.png" alt="image of square foot price of product"></a></figcaption>
+                    </figure>
+                    <figure class="text-center">
+                        <a href="result_images/acf_price_display.png" target="_blank"><img class="img-fluid" src="result_images/acf_price_display.png" alt="image of square foot price of product"></a><figcaption class="text-center"></figcaption>
                     </figure>
                 </div>
             </div>    
@@ -205,7 +208,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="code_images/add_custom_field_radio_button_2_choices_checkout.png" target="_blank"><img class="img-fluid" src="code_images/add_custom_field_radio_button_2_choices_checkout.png" alt="image of back end code"></a><figcaption class="text-center">Click <a href="admflooring.com/checkout" target="_blank">here</a> to go to site</figcaption>
+                        <a href="code_images/add_custom_field_radio_button_2_choices_checkout.png" target="_blank"><img class="img-fluid" src="code_images/add_custom_field_radio_button_2_choices_checkout.png" alt="image of back end code"></a><figcaption class="text-center">Click <a href="result_images/flooring_checkout_radio_buttons.png" target="_blank">here</a> to go to site</figcaption>
                     </figure>
                 </div>
             </div>    
@@ -232,10 +235,10 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 <!--///////////////////////// SECTION START /////////////////////////////////// #7 -->   
-<section id="__________INSERT_ID_HERE_________" class="container">
+<section id="add_custom_field_terms_and_conditions_checkbox" class="container">
     <div class="row">                                                     
         <div class="col">
-            <h2 class="text-center">______INSERT_TITLE_HERE________</h2>  <!-- /*title row*/ -->
+            <h2 class="text-center">Add custom field checkbox to checkout</h2>  <!-- /*title row*/ -->
         </div>
     </div> 
     <div class="row">                                                     <!-- /*content row start*/-->
