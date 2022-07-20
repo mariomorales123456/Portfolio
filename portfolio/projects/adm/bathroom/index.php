@@ -92,10 +92,10 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
-<section id="__________INSERT_ID_HERE_________" class="container">
+<section id="bathroom_custom_code" class="container">
     <div class="row">                                                     
         <div class="col">
-            <h2 class="text-center">______INSERT_TITLE_HERE________</h2>  <!-- /*title row*/ -->
+            <h2 class="text-center">Custom Code</h2>  <!-- /*title row*/ -->
         </div>
     </div> 
     <div class="row">                                                     <!-- /*content row start*/-->
@@ -104,7 +104,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="__INSERT_IMAGE_HERE__" target="_blank"><img class="img-fluid" src="__INSERT_IMAGE_HERE_" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/bathroom_custom_code.png" target="_blank"><img class="img-fluid" src="images/bathroom_custom_code.png" alt="images of backend code snippets"></a><figcaption class="text-center"></figcaption>
                     </figure>
                 </div>
             </div>    
@@ -114,14 +114,14 @@
                 <h3 class="text-center">Details</h3>  
                 <p>Issues:</p>
                 <p><ul>
-                    <li>__issue__</li>
+                    <li>Theme changes and code were being added to the source code and disorganized</li>
                 </ul></p>
                 <p>Fixes:</p>
                 <p><ul>
-                    <li>__listitem__</li>
-                    <li>__listitem__</li>
-                    <li>__listitem__</li>
-                    <li>__listitem__</li>
+                    <li>Finding custom code is difficult from one dev to the next if theres no documentation</li>
+                    <li>In this case, this company doesn't keep documetnation so I have to code in such a way that at a glance one knows where the custom code is</li>
+                    <li>So I add custom_code snippets that use the {%render%} function to import themselves</li>
+                    <li>This way someone searching for the code source should be able to track it to the custom snippets, or by searching the code base can find an association which is also kept in the snippets</li>
                 </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
