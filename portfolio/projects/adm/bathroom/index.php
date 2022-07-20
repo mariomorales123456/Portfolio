@@ -167,7 +167,41 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 
-
+<!--///////////////////////// SECTION START ///////////////////////////////////-->   
+<section id="flooring_banner_in_bathroom" class="container">
+    <div class="row">                                                     
+        <div class="col">
+            <h2 class="text-center">Flooring Banner in Bathroom Website</h2>  <!-- /*title row*/ -->
+        </div>
+    </div> 
+    <div class="row">                                                     <!-- /*content row start*/-->
+        <div class="col">                          <!-- /*left column start*/ -->
+            <div class="row preview">     <!--/* image container*/ -->
+                <div class="col">
+                    <h3 class="text-center">Preview</h3>  
+                    <figure class="text-center">
+                        <a href="images/flooring_banner_in_bathroom.jpg" target="_blank"><img class="img-fluid" src="images/flooring_banner_in_bathroom.jpg" alt="image of flooring banner in bathroom website"></a><figcaption class="text-center">Click <a href="https://admbathroom.com/" target="_blank">here</a> to go to site</figcaption>
+                    </figure>
+                </div>
+            </div>    
+        </div>                                       <!-- /*left column end*/ -->
+        <div class="col">                            <!-- /*right column start*/ -->
+        <div class="requirements">
+                <h3 class="text-center">Details</h3>  
+                <p>Issues:</p>
+                <p><ul>
+                    <li>Crossmarketing hadn't been intigrated between both brands</li>
+                </ul></p>
+                <p>Fixes:</p>
+                <p><ul>
+                    <li>HTML/CSS Banner implemented at the bottom of footer</li>
+                    <li>Snippet rendered in footer</li>
+                </ul></p>
+            </div>
+        </div>                                       <!-- /*right column end*/ -->   
+    </div>                                                                   <!-- /*content row end*/-->
+</section>                                                               
+<!--///////////////////////// SECTION END ///////////////////////////////////--> 
     
 
 </main>
