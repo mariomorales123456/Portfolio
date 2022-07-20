@@ -57,10 +57,10 @@
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
-<section id="__________INSERT_ID_HERE_________" class="container">
+<section id="bathroom_code_render" class="container">
     <div class="row">                                                     
         <div class="col">
-            <h2 class="text-center">______INSERT_TITLE_HERE________</h2>  <!-- /*title row*/ -->
+            <h2 class="text-center">Back end code</h2>  <!-- /*title row*/ -->
         </div>
     </div> 
     <div class="row">                                                     <!-- /*content row start*/-->
@@ -69,7 +69,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="__INSERT_IMAGE_HERE__" target="_blank"><img class="img-fluid" src="__INSERT_IMAGE_HERE_" alt="__INSERT_ALT_HERE__"></a><figcaption class="text-center">Click <a href="__INSERT_WEBSITE_HERE__" target="_blank">here</a> to go to site</figcaption>
+                        <a href="images/bathroom_code_render.png" target="_blank"><img class="img-fluid" src="iamges/bathroom_code_render.png" alt="image of bathroom code render"></a><figcaption class="text-center"></figcaption>
                     </figure>
                 </div>
             </div>    
@@ -79,14 +79,11 @@
                 <h3 class="text-center">Details</h3>  
                 <p>Issues:</p>
                 <p><ul>
-                    <li>__issue__</li>
+                    <li>Modifying code in a shopify theme should be easily identified should it need to be removed</li>
                 </ul></p>
                 <p>Fixes:</p>
                 <p><ul>
-                    <li>__listitem__</li>
-                    <li>__listitem__</li>
-                    <li>__listitem__</li>
-                    <li>__listitem__</li>
+                    <li>I made to always add my name to the comment tags so if you were to search "Mario" it would easily be found in source code</li>
                 </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
