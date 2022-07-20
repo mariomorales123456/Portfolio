@@ -129,6 +129,42 @@
 </section>                                                               
 <!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
+<!--///////////////////////// SECTION START ///////////////////////////////////-->   
+<section id="collection_html_product_page" class="container">
+    <div class="row">                                                     
+        <div class="col">
+            <h2 class="text-center">Collection Description in Product Pages</h2>  <!-- /*title row*/ -->
+        </div>
+    </div> 
+    <div class="row">                                                     <!-- /*content row start*/-->
+        <div class="col">                          <!-- /*left column start*/ -->
+            <div class="row preview">     <!--/* image container*/ -->
+                <div class="col">
+                    <h3 class="text-center">Preview</h3>  
+                    <figure class="text-center">
+                        <a href="images/collection_html_product_page.png" target="_blank"><img class="img-fluid" src="images/collection_html_product_page.png" alt="images of collection descritpion in product pages"></a><figcaption class="text-center">Click <a href="https://admbathroom.com/collections/freestanding-bathtubs/products/freestanding-tub-edged-sw-101" target="_blank">here</a> to go to site</figcaption>
+                    </figure>
+                </div>
+            </div>    
+        </div>                                       <!-- /*left column end*/ -->
+        <div class="col">                            <!-- /*right column start*/ -->
+        <div class="requirements">
+                <h3 class="text-center">Details</h3>  
+                <p>Issues:</p>
+                <p><ul>
+                    <li>Products in collections needed to share warnings without having to add to every single product</li>
+                </ul></p>
+                <p>Fixes:</p>
+                <p><ul>
+                    <li>Collections have their own html for descritpions</li>
+                    <li>You can use Liquid to select a collections text if the product is in that collection</li>
+                    <li>Able to display collection relevant text/warnings on each product belonging to that collection easily</li>
+                </ul></p>
+            </div>
+        </div>                                       <!-- /*right column end*/ -->   
+    </div>                                                                   <!-- /*content row end*/-->
+</section>                                                               
+<!--///////////////////////// SECTION END ///////////////////////////////////--> 
 
 
 
