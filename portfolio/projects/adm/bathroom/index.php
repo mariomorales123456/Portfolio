@@ -69,7 +69,7 @@
                 <div class="col">
                     <h3 class="text-center">Preview</h3>  
                     <figure class="text-center">
-                        <a href="images/bathroom_code_render.png" target="_blank"><img class="img-fluid" src="iamges/bathroom_code_render.png" alt="image of bathroom code render"></a><figcaption class="text-center"></figcaption>
+                        <a href="images/bathroom_code_render.png" target="_blank"><img class="img-fluid" src="images/bathroom_code_render.png" alt="image of bathroom code render"></a><figcaption class="text-center"></figcaption>
                     </figure>
                 </div>
             </div>    
