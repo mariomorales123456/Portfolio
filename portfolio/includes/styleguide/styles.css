@@ -29,6 +29,10 @@ a {
   color: black !important;
 }
 
+h1 a {
+  color: darkblue !important;
+}
+
 a:hover {
   text-decoration: none !important;
 }
