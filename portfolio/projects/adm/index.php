@@ -34,7 +34,7 @@
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
                 <h3 class="text-center">Details</h3>  
-                <p>Front-End Projects for ADM Flooring</p>
+                <p class="text-center">Front-End Projects for ADM Flooring</p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
     </div>                                                                   <!-- /*content row end*/-->
@@ -66,7 +66,7 @@
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
                 <h3 class="text-center">Details</h3>  
-                <p>Back-End Projects for ADM Flooring</p>
+                <p class="text-center">Back-End Projects for ADM Flooring</p>
                 </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
@@ -96,7 +96,7 @@
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
                 <h3 class="text-center">Details</h3>  
-                <p>ADM Bathroom Projects</p>
+                <p class="text-center">ADM Bathroom Projects</p>
                 </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
@@ -125,7 +125,7 @@
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
                 <h3 class="text-center">Details</h3>  
-                <p>Villagio Wood Floors Projects</p>
+                <p class="text-center">Villagio Wood Floors Projects</p>
                 </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
@@ -154,7 +154,7 @@
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
                 <h3 class="text-center">Details</h3>  
-                <p>Calibri Swimwear Projects</p>
+                <p class="text-center">Calibri Swimwear Projects</p>
                 </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
@@ -183,7 +183,7 @@
         <div class="col">                            <!-- /*right column start*/ -->
             <div class="requirements">
                 <h3 class="text-center">Details</h3>  
-                <p>Primegreen Glass Projects</p>
+                <p class="text-center">Primegreen Glass Projects</p>
                 </ul></p>
             </div>
         </div>                                       <!-- /*right column end*/ -->   
