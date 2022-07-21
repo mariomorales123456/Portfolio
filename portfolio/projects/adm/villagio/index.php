@@ -7,7 +7,7 @@
 
 
 <div class="gradient_title">
-       <h1><a href="https://villagiowoodfloors.com/" class="hover_underline_animation">Villagio Wood Floors</a></h1>
+       <a href="https://villagiowoodfloors.com/" class="hover_underline_animation"><h1>Villagio Wood Floors</h1></a>
 </div>
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
