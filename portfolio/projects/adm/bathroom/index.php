@@ -7,7 +7,7 @@
 
 
 <div class="gradient_title">
-       <h1>ADM Bathroom</h1>
+       <h1><a href="https://www.admbathroom.com/" class="hover_underline_animation">ADM Bathroom</a></h1>
 </div>
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   

@@ -7,7 +7,7 @@
 
 
 <div class="gradient_title">
-       <h1><a href="https://www.calibriswimwear.com/" class="hover_underline_animation">Calibri Swimwear</a></h1>
+       <h1><a href="https://villagiowoodfloors.com/" class="hover_underline_animation">Villagio Wood Floors</a></h1>
 </div>
 
 <!--///////////////////////// SECTION START ///////////////////////////////////-->   
