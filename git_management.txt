@@ -1,0 +1,8 @@
+git version
+git init
+git status
+git add [folder]                               //can also do git add / (everything)
+git commit -m "description for git commit"
+git log
+git remote add origin [github.git]
+git remote -version git push origin master -f   //-f not needed after first time
