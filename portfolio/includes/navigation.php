@@ -17,6 +17,7 @@
             include('nav_sublinks/cosn205_215.php');
             include('nav_sublinks/freelance.php');
             include('nav_sublinks/adm.php');
+            include('nav_sublinks/react.php');
             include('nav_sublinks/profiles.php');
         ?>
     </ul>
@@ -42,6 +43,7 @@
                 <li><a class="dropdown-item" href="<?php echo $root ?>cosn205_215/unix-fundementals-and-linux-networking-and-security.php">UNIX/Linux</a></li>
                 <li><a class="dropdown-item" href="<?php echo $root ?>freelance/index.php">Freelance</a></li>
                 <li><a class="dropdown-item" href="<?php echo $root ?>adm/index.php">ADM</a></li>
+                <li><a class="dropdown-item" href="<?php echo $root ?>react/index.php">React</a></li>
                 <li><a class="dropdown-item" href="<?php echo $root ?>profiles/index.php">Profiles</a></li>
 
             </ul>
