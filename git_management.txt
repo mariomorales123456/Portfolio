@@ -5,4 +5,5 @@ git add [folder]                               //can also do git add / (everythi
 git commit -m "description for git commit"
 git log
 git remote add origin [github.git]
-git remote -version git push origin master -f   //-f not needed after first time
+git remote -version 
+git push origin [branch] -f   //-f not needed after first time
