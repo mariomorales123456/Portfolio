@@ -1,0 +1,8 @@
+Setting up react
+
+gitpod comes with node.js
+
+cd portfolio/projects/React
+npx create-react-app react-complete-guide       //asks to install (y)
+y                                               //confirm
+
