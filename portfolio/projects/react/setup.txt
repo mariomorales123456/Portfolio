@@ -3,6 +3,12 @@ Setting up react
 gitpod comes with node.js
 
 cd portfolio/projects/React
-npx create-react-app react-complete-guide       //asks to install (y)
-y                                               //confirm
+npx create-react-app react-complete-guide            //asks to install (y)
+y                                                    //confirm
 
+Running react app
+
+cd portfolio/projects/react/react-complete-guide    //switch to react enviroment folder
+npm start                                           //open up preview on -browser-, also available on localhost:3000
+ctrl + c                                            /end preview enviroment
+cd /workspace/Portfolio                             //switch back when done if needed
