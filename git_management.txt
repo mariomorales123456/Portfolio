@@ -1,0 +1,17 @@
+git version
+git init
+
+git checkout php-update
+
+git status
+git add [folder]                               //can also do git add / (everything)
+git commit -m "description for git commit"
+git log
+git remote add origin [github.git]
+git remote -version 
+git push origin [branch] -f   //-f not needed after first time
+
+git status
+git add *                                              //add everything
+git commit -m "description for git commit"
+git push origin php-update
