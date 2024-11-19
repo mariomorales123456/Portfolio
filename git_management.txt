@@ -1,5 +1,8 @@
 git version
 git init
+
+git checkout php-update
+
 git status
 git add [folder]                               //can also do git add / (everything)
 git commit -m "description for git commit"
